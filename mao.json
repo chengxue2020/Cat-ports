@@ -1,7 +1,9 @@
 {
   "spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTA4NjU1Ny50eHQ="]}]}],
-
+  //"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5neHVlMjAyMC9DYXQtcG9ydHMvbWFpbi9saXZlLnR4dA=="]}]}],
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/live.txt"]}]}],
+  
+  
   "sites":[
      {"key":"csp_SP361","name":"🥉360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"Smdyy_spider"        ,"name":"🐞神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
