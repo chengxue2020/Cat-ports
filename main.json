@@ -1,7 +1,7 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/m.json
 {
 "spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
-"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5neHVlMjAyMC9DYXQtcG9ydHMvbWFpbi9saXZlL1RWLnR4dA=="]}]}],
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5neHVlMjAyMC9DYXQtcG9ydHMvbWFpbi9saXZlL3R2LnR4dA=="]}]}],
 
 "sites": [
 {"key":"csp_Kunyu77","name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
