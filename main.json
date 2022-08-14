@@ -267,7 +267,7 @@
 {"key": "csp_Blixq","name":"🎈国粹戏曲","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.txt"},
 {"key":"csp_Bliyc","name":"🎸演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.txt"}
 
-],
+  ],
 //解X设置
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
