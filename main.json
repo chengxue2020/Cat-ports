@@ -3,6 +3,8 @@
 {
 "spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/box281.jar;md5;4bb140374f74fc87b306f1e5a6d8bbea",
 "sites": [
+{"key":"csp_Nbys","name":"👑泥巴[跨栏]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
+
 //官源
 {"key":"csp_IQIYI","name":"🥝爱奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp061.txt"},
 {"key":"csp_QQ","name":" 🍅腾讯视频(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp061.txt"},
@@ -29,7 +31,6 @@
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/美剧虫.json"},
 {"key":"csp_Tkys","name":"🐞天空影视","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Auete","name":"🐞Auete！","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_Nbys","name":"👑泥巴[跨栏]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
 {"key":"If101","name":"💿If101[跨栏]","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220814.jar"},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp082.txt"},
 {"key":"csp_xml_人人影视","name":"🈚人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
