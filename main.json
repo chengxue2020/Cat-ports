@@ -35,6 +35,7 @@
 {"key":"csp_Kmys","name":"🔥酷猫影视(SP)","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/kmys.txt"},
 {"key":"csp_Kuaikan","name":"🔥快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp081.txt"},
 {"key":"csp_Xxys","name":"🔥小熊影院(SP)","type": 3,"api": "csp_Xxys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp061.txt"},
+{"key":"csp_Nbys","name":"👑泥巴[翻墙]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top95.jar"},
 {"key":"csp_3EDY","name":"🔥3E飘花(SP)","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp081.txt"},
 {"key":"csp_xp_xiaoxiong","name":"💢小熊影视📵","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/xiaoxiong.json"},
 {"key":"csp_xp_bttwoo","name":"💢两个BT","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/bttwoo.json"},
