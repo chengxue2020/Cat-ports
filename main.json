@@ -265,7 +265,7 @@
 {"key":"csp_xp_qiumi","name":"💢球迷看球","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/qiumi.json"},
 {"key":"csp_Blixs","name":"🏮相声小品","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_Blixq","name":"🎈国粹戏曲","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.txt"},
-{"key":"csp_Bliyc","name":"🎸演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.txt"},
+{"key":"csp_Bliyc","name":"🎸演唱会","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.txt"}
 
 ],
 //解X设置
