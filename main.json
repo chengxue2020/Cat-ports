@@ -213,12 +213,7 @@
 {"key":"csp_xml_趣看采集","name":"🐝趣看采集","type":1,"api":"https://qkmp4.cn/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_松鼠资源","name":"🐝松鼠资源","type":1,"api":"https://m3u8.songshuzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"csp_xml_外国影源","name":"🐝外国影源","type":1,"api":"http://api.nguonphim.tv/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"csp_app_金叶影院","name":"🐌金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"}
-
-
-
-
-
+{"key":"csp_app_金叶影院","name":"🐌金叶影院","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://r.zjj.life:88/mv/api.php/Chengcheng/vod/"},
 
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},  
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
