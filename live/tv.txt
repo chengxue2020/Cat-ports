@@ -985,7 +985,7 @@ NBC News,https://ytb.52sf.ga/jmsytb.m3u8?c=33
 華視綜藝,https://ytb.52sf.ga/jmsytb.m3u8?c=34
 GTV-Drama1,https://ytb.52sf.ga/jmsytb.m3u8?c=35
 名城綜合台,https://ytb.52sf.ga/jmsytb.m3u8?c=36
-美食星球,https://ytb.52sf.ga/jmsytb.m3u8?c=38
+NASA,https://ytb.52sf.ga/jmsytb.m3u8?c=38
 龍華桌逰,https://ytb.52sf.ga/jmsytb.m3u8?c=39
 亞洲旅遊台,https://ytb.52sf.ga/jmsytb.m3u8?c=40
 靖天電視台,https://ytb.52sf.ga/jmsytb.m3u8?c=41
@@ -4526,18 +4526,18 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 
 
 🎏｜景区 ,#genre#
-峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
-宁夏大漠孤烟,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
+全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+峨眉山乐山峨眉山普贤菩萨,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8
+吉林长春一汽红旗繁荣工厂,http://gcksc.v.kcdnvip.com/gc/tjhh01_1/index.m3u8
 福建华安土楼,http://gccncc.v.wscdns.com/gc/syns01_1/index.m3u8
 梅州梅江,http://gctxyc.liveplay.myqcloud.com/gc/gllj01_1_md.m3u8
 河南二七塔,http://gctxyc.liveplay.myqcloud.com/gc/xysrf_1_md.m3u8
 舟山东极岛,http://gctxyc.liveplay.myqcloud.com/gc/djd01_1_md.m3u8
-福建三坊七巷,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
-武汉两江四岸,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
-四川达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
+内蒙古赤峰河南街道马鞍山村,http://gcksc.v.kcdnvip.com/gc/hhdxg01_1/index.m3u8
+广东湛江徐闻博赊港,https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8?contentid=2820180516001
+四川阿坝达古冰川,https://gccncc.v.wscdns.com/gc/ztx_1/index.m3u8?contentid=2820180516001
 广西崇左白头猴国家级自然保护区,https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
 广州塔和海心桥,https://gcalic.v.myalicdn.com/gc/ztb_1/index.m3u8?contentid=2820180516001
-全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 黟县宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
 黟县西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
 黟县西递半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
