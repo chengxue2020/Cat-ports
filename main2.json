@@ -1,7 +1,7 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
 {
-"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar;md5;AB23211AA302C4B5FF1858ED5CD8C549",
+"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar;md5;44430347BC7F771901CD0DED7D904F94",
 "sites": [
 //推荐主页
 {"key":"csp_Nbys","name":"✈️泥巴🚧","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
