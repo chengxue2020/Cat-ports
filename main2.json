@@ -1,11 +1,11 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
 {
-"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar;md5;44430347BC7F771901CD0DED7D904F94",
+"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar;md5;B17220BA796A78DD6F5FFB1EB7D5BA08",
 "sites": [
 //推荐主页
-{"key":"csp_Nbys","name":"✈️泥巴🚧","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
-{"key":"csp_Xiaoh","name":"✈️小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
+{"key":"csp_Nbys","name":"✈️泥巴🚧","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar"},
+{"key":"csp_Xiaoh","name":"✈️小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar"},
 
 
 //官源
@@ -19,7 +19,7 @@
 
 
 //带主页分类
-{"key":"If101","name":"🚅If101🚧","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
+{"key":"If101","name":"🚅If101🚧","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar"},
 {"key":"293视频","name":"293影院","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":"","jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/XC0815w.jar"},
 {"key":"csp_CZSPP","name":"🐞厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_IKan","name":"🐞爱看HD","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
@@ -40,7 +40,7 @@
 {"key":"csp_Olevod","name":"🍂Olevod","type":3,"api":"csp_Olevod","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"bdys","name":"🔍哔嘀(磁力测试)","type": 3,"api": "csp_XPbd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/哔嘀(磁力测试).json"},
 {"key":"csp_xbb_美剧虫","name":"🍀美剧虫","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/美剧虫.json"},
-{"key":"csp_Tkys","name":"天空","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
+{"key":"csp_Tkys","name":"天空","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar"},
 {"key":"csp_Auete","name":"🐞Auete！","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果HD","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/sp082.txt"},
 {"key":"csp_xml_人人影视","name":"🈚人人影视","type":1,"api":"https://www.rrvipw.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
@@ -80,7 +80,7 @@
 {"key":"csp_xp_tjyy","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/huigutongying.json"},
 {"key":"csp_xp_dy888","name":"💢电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/dy888.json"},
 {"key":"csp_xp_juhuang","name":"💢剧荒TV","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/juhuang.json"},
-{"key":"csp_剧荒","name":"剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0818allin.jar"},
+{"key":"csp_剧荒","name":"剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar"},
 {"key":"csp_xp_ttsp","name":"💢天天视频","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/ttsp.json"},
 {"key":"csp_xp_Jumi","name":"💢剧迷TV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/Jumi.json"},
 {"key":"csp_xp_lranc","name":"💢天天影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/lranc.json"},
