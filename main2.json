@@ -1,13 +1,13 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
 {
-"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/0820.jar;md5;9F9CE6DB6FECCA5B8998FA31BB3F6C95",
+"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/刚刚live0819.jar;md5;B17220BA796A78DD6F5FFB1EB7D5BA08",
 "sites": [
 //推荐主页
 {"key":"csp_Nbys","name":"✈️泥巴🚧","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Xiaoh","name":"✈️小宝影院(SP)","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 
-//推送
+//
 {"key":"csp_Gitcafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},  
 {"key":"csp_FindZY","name":"💡找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"}, 
 {"key":"csp_AliPS","name":"💿云盘搜(仅搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"b1f13d705ec14661a14a575fde303bb0"},
