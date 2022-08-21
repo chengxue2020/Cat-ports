@@ -1,4 +1,6 @@
 热点,#genre#
+侏罗纪世界3-英文,https://china-cloud.byteamone.cn/hls/flv/50305975335a634c424b5a6c696635686f3339694155547954355577687277516967786c464a6156337a37436e725a644c4c6a56387050665a6a2b4c52657165396b6a616952487655625652364c775a75682b6e38513d3d/index.m3u8
+
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
