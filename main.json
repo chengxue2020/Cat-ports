@@ -382,9 +382,8 @@
   ],
   
 //"lives": [{"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXVjbi5jYy9ib3gvc3ViL2xpdmUvdHYudHh0"]}]}],
-//"lives": [{"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5neHVlMjAyMC9DYXQtcG9ydHMvbWFpbi9saXZlL3R2LnR4dA=="]}]}],
 //base64编码"http://www.iptv-iptv.ml/iptv.txt"="aHR0cDovL3d3dy5pcHR2LWlwdHYubWwvaXB0di50eHQ="
-"lives": [{"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy5pcHR2LWlwdHYubWwvaXB0di50eHQ="]}]}],
+"lives": [{"group": "redirect","channels": [{"name":"redirect","urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWUyMDIwL0NhdC1wb3J0cy9tYWluL2xpdmUvdHYudHh0CiA="]}]}],
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 "flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
 "ijk":[
