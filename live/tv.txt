@@ -1,6 +1,4 @@
 热点,#genre#
-侏罗纪世界3-英文,https://china-cloud.byteamone.cn/hls/flv/50305975335a634c424b5a6c696635686f3339694155547954355577687277516967786c464a6156337a37436e725a644c4c6a56387050665a6a2b4c52657165396b6a616952487655625652364c775a75682b6e38513d3d/index.m3u8
-
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://111.59.189.40:8445/tsfile/live/1020_1.m3u8
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
@@ -472,7 +470,6 @@ CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 河北卫视,http://39.136.48.8:8089/PLTV/88888888/224/3221225779/index.m3u8
 河北卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225773/index.m3u8?
 河北卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?
-河北,http://39.135.32.10:6610/000000001000/SD-4000k-576P-hebeistv/1.m3u8?IASHttpSessionId=OTT?zhebd
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd
 河北经济生活,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
 河北影剧,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
