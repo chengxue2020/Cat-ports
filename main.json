@@ -1,7 +1,7 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
 {
-"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/box281.jar",
+"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar",
 "sites": [
 {"key":"csp_Nbys","name":"👑泥巴[跨栏]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
 
