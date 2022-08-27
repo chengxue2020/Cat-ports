@@ -1,64 +1,20 @@
 {
   "classes": [
-    {
-      "type_name": "搞笑",
-      "type_id": "搞笑"
-    },
-    {
-      "type_name": "鬼畜",
-      "type_id": "鬼畜"
-    },
-    {
-      "type_name": "Sports",
-      "type_id": "球星"
-    },
-    {
-      "type_name": "戏曲",
-      "type_id": "戏曲"
-    },
-    {
-      "type_name": "演唱会",
-      "type_id": "演唱会"
-    },
-   {
-      "type_name": "歌曲MV",
-      "type_id": "歌曲MV"
-    },
-    {
-      "type_name": "影视MV",
-      "type_id": "影视MV"
-    },
-    {
-      "type_name": "美女",
-      "type_id": "美女"
-    },
-    {
-      "type_name": "抖音",
-      "type_id": "抖音"
-    },
-    {
-      "type_name": "动物世界",
-      "type_id": "动物世界"
-    },
-    {
-      "type_name": "假窗白噪音",
-      "type_id": "窗白噪音"
-    },
-    {
-      "type_name": "相声小品",
-      "type_id": "相声小品"
-    },
-    {
-      "type_name": "儿童",
-      "type_id": "儿童"
-    },
-    {
-      "type_name": "少儿",
-      "type_id": "少儿"
-    },
-    {
-      "type_name": "学堂",
-      "type_id": "学堂"
+    {"type_name": "搞笑","type_id": "搞笑"},
+    {"type_name": "鬼畜","type_id": "鬼畜"},
+    {"type_name": "Sports","type_id": "球星"},
+    {"type_name": "戏曲","type_id": "戏曲"},
+    {"type_name": "演唱会","type_id": "演唱会"},
+   {"type_name": "歌曲MV","type_id": "歌曲MV"},
+    {"type_name": "影视MV","type_id": "影视MV"},
+    {"type_name": "美女","type_id": "美女"},
+    {"type_name": "抖音","type_id": "抖音"},
+    {"type_name": "动物世界","type_id": "动物世界"},
+    {"type_name": "假窗白噪音","type_id": "窗白噪音"},
+    {"type_name": "相声小品","type_id": "相声小品"},
+    {"type_name": "儿童","type_id": "儿童"},
+    {"type_name": "少儿","type_id": "少儿"},
+    {"type_name": "学堂","type_id": "学堂"
     }
   ],
   "filter": {
