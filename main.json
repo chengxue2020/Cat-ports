@@ -265,7 +265,7 @@
 {"key":"木子看剧","name":"🥉木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"小猫咪","name":"🥉小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"诺讯资源","name":"🥉诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
-{"key":"看猫","name":"🥉看猫(官)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1}
+{"key":"看猫","name":"🥉看猫(官)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //动漫
 {"key":"csp_app_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
