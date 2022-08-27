@@ -4,6 +4,8 @@
     {"type_name": "相声小品","type_id": "相声小品"},
     {"type_name": "动物世界","type_id": "动物世界"},
     {"type_name": "鬼畜","type_id": "鬼畜"},
+    {"type_name": "美女","type_id": "美女"},
+    {"type_name": "抖音","type_id": "抖音"},
     {"type_name": "演唱会","type_id": "演唱会"},
     {"type_name": "体育","type_id": "体育"},
     {"type_name": "戏曲","type_id": "戏曲"},
