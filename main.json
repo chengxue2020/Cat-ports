@@ -256,7 +256,16 @@
 {"key":"csp_xml_想看资源","name":"🐝想看资源","type":1,"api":"https://xiangkanzy.com/api.php/provide/vod/","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_想看采集","name":"🐝想看采集","type":1,"api":"https://m3u8.xiangkanapi.com/api.php/provide/vod/","playUrl":"https://lyw28.com/m3u8/?url=","searchable":1,"quickSearch":1},
 {"key":"csp_xml_共青春","name":"🐝共青春影院","type":1,"api":"https://gqcyy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-
+{"key":"8090资源","name":"🥉8090资源(官)","type":1,"api":"http://zy.yilans.net:8090/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"天堂资源","name":"🥉天堂资源(官)","type":1,"api":"http://vipmv.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"M3U8.TV资源","name":"🥉M3U8.TV资源(官)","type":1,"api":"http://www.zycaiji.net:7788/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"八戒官采","name":"🥉八戒官采(官)","type":1,"api":"https://www.bajiezy.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"土狗360","name":"🥉土狗360(官)","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"忆梦","name":"🥉忆梦(官)","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"木子看剧","name":"🥉木子看剧(官)","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"小猫咪","name":"🥉小猫咪(官)","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"诺讯资源","name":"🥉诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
+{"key":"看猫","name":"🥉看猫(官)","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
 //动漫
 {"key":"csp_app_小鸟动漫","name":"🐌小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
