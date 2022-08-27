@@ -2,7 +2,7 @@
   "classes": [
     {"type_name": "搞笑","type_id": "搞笑"},
     {"type_name": "鬼畜","type_id": "鬼畜"},
-    {"type_name": "Sports","type_id": "球星"},
+    {"type_name": "球星","type_id": "球星"},
     {"type_name": "戏曲","type_id": "戏曲"},
     {"type_name": "演唱会","type_id": "演唱会"},
    {"type_name": "歌曲MV","type_id": "歌曲MV"},
