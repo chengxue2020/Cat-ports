@@ -28,10 +28,6 @@
 {"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"}, 
 {"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4","name":"T4爬虫(仅搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4test1","name":"T4 Bttwoo(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=bttwoo&ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4test2","name":"T4 Cokemv(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=cokemv&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"T4","name": "📡T4_2","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Alist2","name":"🅿️Alist合集(SP)","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/Mike906/jar/raw/branch/main/Alist.json","jar":"http://www.rtwl.ltd/down.php/2f19c527b9a335fb1415c5f9686515c8.jar"},
 
 //带主页分类
 {"key":"If101","name":"💿If101[跨栏]","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/qj-220805.jar"},
