@@ -4,7 +4,7 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 
 "sites":[
-{"key": "T4","name": "开始观看","type": 4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable": 1},
+{"key": "T4-2","name": "开始观看","type": 4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable": 1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"🔭快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🦅完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
