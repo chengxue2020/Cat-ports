@@ -4,7 +4,7 @@
 {"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 
 "sites":[
-{"key": "T4 首页","name": "开始观看","type": 4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable": 1},
+{"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"快看","name":"🔭快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Wmkk","name":"🦅完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
@@ -27,7 +27,6 @@
 {"key":"csp_AliPS","name":"🐱阿里盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"}, 
 {"key":"AliPS","name":"🐱找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"}, 
 {"key":"push_agent","name":"推送(阿里)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"}, 
-{"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4","name":"T4爬虫(仅搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4test1","name":"T4 Bttwoo(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=bttwoo&ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4test2","name":"T4 Cokemv(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=cokemv&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
@@ -310,6 +309,7 @@
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
 {"name":"高速vip","type":0,"url":"https://vip.parwix.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
+{"name": "aiku","type": 1,"url": "https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="},
 {"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/maotv/API.php?appkey=QQ172598364&url="},
 {"name":"江湖","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
 {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
