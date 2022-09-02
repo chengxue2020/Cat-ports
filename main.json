@@ -10,6 +10,7 @@
 {"key":"csp_Wmkk","name":"🦅完美看看(SP)","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
 {"key":"csp_Nbys","name":"👑泥巴[跨栏]","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
 {"key":"t4public","name":"T4公共(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"T4公共","name":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4","name":"T4爬虫(仅搜索)","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4test1","name":"T4 Bttwoo(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=bttwoo&ali_token=7c6ac8141b944cbb8cda700a4b8b9755","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"T4test2","name":"T4 Cokemv(仅搜索)","type":4,"api":"https://t4.secan.icu/vod?sites=cokemv&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
