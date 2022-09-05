@@ -1,10 +1,12 @@
 // 源地址 -->https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
+
+{
+//Jar包
 //{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar;md5;F322D5838932ABCA28F7F9BDF3F3CE11",
-{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar;md5;C5C337BB2793598E9AA5953898FBB087",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 
 "sites":[
-
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
@@ -42,7 +44,7 @@
 {"name":"☁️推送(阿里)","key":"push_agent","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
 {"name":"☁️易搜盘","key":"csp_Yiso","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"7c6ac8141b944cbb8cda700a4b8b9755"},
 
-//站点
+//常规
 {"name":"🐞360视频","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"name":"🐞厂长资源","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🐞爱看HD","key":"csp_IKan","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
