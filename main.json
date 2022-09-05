@@ -309,7 +309,7 @@
 //其他
 //{"name":"🏮相声小品","key":"csp_Blixs","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"🎈国粹戏曲","key":"csp_Blixq","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.json"},
-//{"name":"🎸演唱会","key":"csp_Bliyc","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.json"}
+{"name":"🎸演唱会","key":"csp_Bliyc","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.json"}
   ],
   
 //解析接口
