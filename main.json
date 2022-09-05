@@ -27,7 +27,7 @@
 {"name":"🅱哔哩哔哩","key":"csp_Bili","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/Bili.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/Bilibili220827.jar"},
 {"name":"🐯虎牙直播","key":"csp_xp_huya","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/虎牙.json"},
 {"name":"🐟斗鱼直播","key":"csp_xbb_斗鱼","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/斗鱼.json"},
-
+{"name": "在线直播","key":"csp_Yj1211","type": 3,"api": "csp_Yj1211","searchable":0,"quickSearch":0,"filterable": 1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/ys.jar"},
 //{"name":"🐧腾讯视频(官源)","key":"csp_QQ","type":3,"api":"csp_QQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/ts220829.jar"},
 //{"name":"🥝爱奇艺(官源)","key":"爱奇艺","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/ts220829.jar"},
 //{"name":"🥭芒果TV(官源)","key":"csp_MGTV","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/ts220829.jar"},
@@ -286,6 +286,7 @@
 {"name":"诺讯资源(官)","key":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 //{"name":"看猫(官)","key":"看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
 
+
 //动漫
 {"name":"小鸟动漫","key":"csp_app_小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
 //{"name":"熊猫动漫","key":"csp_app_熊猫动漫","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://dongman.k8aa.com/mogai_api.php/v1.vod"},
@@ -306,10 +307,12 @@
 {"name":"🎓初中学堂","key":"学堂3","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/初中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
 {"name":"🎓高中学堂","key":"学堂4","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/高中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
 
+
 //其他
 //{"name":"🏮相声小品","key":"csp_Blixs","type":3,"api":"csp_Blixs","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"🎈国粹戏曲","key":"csp_Blixq","type":3,"api":"csp_Blixq","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw-gh.gcdn.mirr.one/liu673cn/box/main/sub/ext/戏曲.json"},
-{"name":"🎸演唱会","key":"csp_Bliyc","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.json"}
+{"name":"🎸演唱会","key":"csp_Bliyc","type":3,"api":"csp_Bliyc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/演唱会.json"},
+{"name":"赛事直播","key":"csp_xpath_88kanqiu","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/88kanqiu.json"}
   ],
   
 //解析接口
