@@ -64,7 +64,7 @@
 //{"name":"293影院","key":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
 //{"name":"泥巴🚧","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"小宝影院(SP)","key":"csp_Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"兔兔影院","key":"csp_AppTT","type":3,"api": "csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220910tt.jar"},},
+{"name":"兔兔影院","key":"csp_AppTT","type":3,"api": "csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220910tt.jar"},
 {"name":"555电影(XB)","key":"csp_biubiu_555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/555电影.json"},
 {"name":"奈飞中文(XP)","key":"csp_xpath_naifeiorg","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/naifeiorg.json"},
 {"name":"美剧虫(XPF)","key": "csp_xpath_mjc","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/美剧虫(XPF).json"},
