@@ -304,10 +304,10 @@
 {"name":"看吧动漫","key":"csp_xbb_去看吧","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXB/去看吧.json"},
 
 ## 儿童学习
-{"name":"🎓学前儿童","key":"学堂1","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/学前儿童.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
-{"name":"🎓小学学堂","key":"学堂2","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/小学学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
-{"name":"🎓初中学堂","key":"学堂3","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/初中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
-{"name":"🎓高中学堂","key":"学堂4","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/高中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220827.jar"},
+{"name":"🎓学前儿童","key":"学堂1","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/学前儿童.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/bili.jar"},
+{"name":"🎓小学学堂","key":"学堂2","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/小学学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/bili.jar"},
+{"name":"🎓初中学堂","key":"学堂3","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/初中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/bili.jar"},
+{"name":"🎓高中学堂","key":"学堂4","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/高中学堂.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/bili.jar"},
 
 
 //其他
