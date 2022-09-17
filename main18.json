@@ -7,8 +7,7 @@
 "spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220918.jar;md5;19E54E730B5C69C281A0E8E7CC982B56",
 
 "sites":[
-{"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
-{"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+
 {"name":"赛事直播","key":"csp_xpath_88kanqiu","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/88kanqiu.json"}
   ],
   
