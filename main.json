@@ -9,7 +9,7 @@
 "sites":[
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
-//{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
+{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 //{"name":"泥巴[跨栏]","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
 {"name":"☁️T4公共(仅搜索)","key":"t4public","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 {"name":"☁️T4公共","key":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=7c6ac8141b944cbb8cda700a4b8b9755&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
