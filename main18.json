@@ -4,10 +4,10 @@
 {
 //Jar包
 //{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar;md5;F322D5838932ABCA28F7F9BDF3F3CE11",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220918.jar;md5;19E54E730B5C69C281A0E8E7CC982B56",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220907.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 
 "sites":[
-{"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
+{"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 //{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/sc220823.jar"},
 //{"name":"泥巴[跨栏]","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
@@ -404,20 +404,12 @@
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","leduo","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
 //电视直播
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9saXVjbi5jYy9ib3gvc3ViL2xpdmUvdHYudHh0"]}]}],
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL2NoZW5neHVlMjAyMC9DYXQtcG9ydHMvbWFpbi9saXZlL3R2LnR4dA=="]}]}],
 //base64编码"http://www.iptv-iptv.ml/iptv.txt"="aHR0cDovL3d3dy5pcHR2LWlwdHYubWwvaXB0di50eHQ="
-"lives":[{"group":"redirect","channels":[{"name":"redirect",
-//以下为自己的直播
-//"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uY3NzLmxjL2FwaS92My9maWxlL2dldC8zMDM0OS8lRTUlOEElQTglRTUlOEElOUIzLnR4dD9zaWduPXA3VU04MEZjTnlJYURIUXpES3pSTnpaMGRmcmJ5aTlza2pxMzZGRlZOamclM0QlM0Ew"]
-//http://maoyingshi.cc/tvbox/zhibo/1.txt
-//"urls":["proxy://do=live&type=txt&ext=aHR0cDovL21hb3lpbmdzaGkuY2MvdHZib3gvemhpYm8vMS50eHQ="]
-//https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/live/tv.txt
-//"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWUyMDIwL0NhdC1wb3J0cy9tYWluL2xpdmUvdHYudHh0CiA="]
-//http://111.67.196.181/mtv/zhibo.txt
-//"urls":["proxy://do=live&type=txt&ext=aHR0cDovLzExMS42Ny4xOTYuMTgxL210di96aGliby50eHQ="]
-//https://gitcode.net/kuukey/a/-/raw/master/tvlive.txt
-"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRjb2RlLm5ldC9rdXVrZXkvYS8tL3Jhdy9tYXN0ZXIvdHZsaXZlLnR4dA=="]
-}]}],
-
+//"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vY2hlbmd4dWUyMDIwL0NhdC1wb3J0cy9tYWluL2xpdmUvdHYudHh0CiA="]}]}],
+//以下为小小直播
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uY3NzLmxjL2FwaS92My9maWxlL2dldC8zMDM0OS8lRTUlOEElQTglRTUlOEElOUIzLnR4dD9zaWduPXA3VU04MEZjTnlJYURIUXpES3pSTnpaMGRmcmJ5aTlza2pxMzZGRlZOamclM0QlM0Ew"]}]}],
 
 //壁纸
 //wallpaper":"http://www.kf666888.cn/api/tvbox/img
