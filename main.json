@@ -55,6 +55,7 @@
 {"name":"🐞低端影视","key":"csp_DiDuan","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
 {"name":"🦄电影院","key":"csp_Smdyy","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"name":"优众影视","key":"csp_优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+{"name":"🍁If101(海外推荐)","key":"if101资源","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
 //{"name":"If101[跨栏]","key":"If101","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/qj-220805.jar"},
 //{"name":"UM影院(XPMF)","key":"csp_xpath_UM","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/umkan.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/umkan220902.jar"},
 //{"name":"🐞两个BT","key":"csp_Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
