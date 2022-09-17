@@ -4,7 +4,7 @@
 {
 //Jar包
 //{"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar;md5;F322D5838932ABCA28F7F9BDF3F3CE11",
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220918.jar;md5;19E54E730B5C69C281A0E8E7CC982B56",
+"spider":"https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220918.jar;md5;19E54E730B5C69C281A0E8E7CC982B56",
 
 "sites":[
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
