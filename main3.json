@@ -62,7 +62,7 @@
 {"name":"UM影院(XPMF)","key":"csp_xpath_UM","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/umkan.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/umkan220902.jar"},
 {"name":"🐞两个BT","key":"csp_Bttoo","type":3,"api":"csp_Bttoo","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🐞追剧喵","key":"csp_ZJMiao","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-//{"name":"🐞看视界""key":"csp_KanSJ",,"api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"name":"🐞看视界""key":"csp_KanSJ",,"api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 //{"name":"美剧星球","key":"csp_Mjxq","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"293视频","name":"293视频（SP随缘修）","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/SP293.jar"},
 //{"name":"泥巴🚧","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
