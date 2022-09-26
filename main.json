@@ -69,7 +69,8 @@
 {"name":"哔嘀(磁力测试)","key":"bdys","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/bdys01.json"},
 {"name":"泥巴🚧","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"小宝影院(SP)","key":"csp_Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
-
+{"name":"极品影视〔XBPQ〕","key":"csp_XBPQ极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/XBPQ/极品影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220925xBPQ.jar"},
+{"name":"黑洞影视〔XBPQ〕","key":"csp_XBPQ黑洞影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/XBPQ/极品影视.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220925xBPQ.jar"},
 
 {"name":"优众影视","key":"csp_优众影视","type":3,"api":"csp_AppYs","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
 {"name":"优众影视","key":"if101资源","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
