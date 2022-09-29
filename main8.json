@@ -1,5 +1,3 @@
-"spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"	
-
 
 {"sites": [ 
         {"key": "Bili","name": "B站","type": 3,"api": "csp_Bili","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://weavann.github.io/1/j/b-zq-jl-it.json"}, 
@@ -686,6 +684,6 @@
 //wallpaper":"http://www.kf666888.cn/api/tvbox/img
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-
+"spider":"https://gitcode.net/kuukey/a/-/raw/master/jar/cs.jar;md5;3b376fbe31fb80bf131203fae225fff5"	
 	   
 }
