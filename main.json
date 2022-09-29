@@ -58,7 +58,6 @@
 {"name":"🐞在线之家","key":"csp_Zxzj","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🐞Cokemv","key":"csp_Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🐞低端影视","key":"csp_DiDuan","type":3,"api":"csp_Ddrk","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"豆瓣","type":3,"api":"js_douban","searchable":0,"quickSearch":0,"ext":"https://raw.githubusercontent.com/pluto-player/updates/main/android/plugins/js/douban.js"},
 {"name":"🦄电影院","key":"csp_Smdyy","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"name":"🐞555影院〔SP〕","key":"csp_Dy555","type":3,"api":"csp_Dy555","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🐦Init","key":"csp_Init","type":3,"api":"csp_Init","searchable":1,"quickSearch":1,"filterable":1},
