@@ -370,12 +370,12 @@
 //-{"name":"🕋腾云驾雾","key":"dr_腾云驾雾","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=腾云驾雾","searchable":1,"quickSearch":1,"filterable":0},
 {"name":"🕋奇珍异兽","key":"dr_奇珍异兽","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=奇珍异兽","searchable":1,"quickSearch":1,"filterable":0}, 
 //-{"name":"🕋小猫咪","key":"dr_小猫咪","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=小猫咪","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"🕋l0l","key":"dr_l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0},
+
 //-{"name":"🕋AnFuns","key":"dr_AnFuns","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
 //-{"name":"🕋库马伊","key":"dr_库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
 //{"key":"t4public","name":"🎑公共", "type":4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10",  "searchable":1, "quickSearch":1, "filterable":0},
 //-{"name":"🎑备用","key":"T4备用","type":4,"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10","searchable":1,"quickSearch":1,"filterable":1}
-
+{"name":"🕋l0l","key":"dr_l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0}
   ],
   
 //解析接口
