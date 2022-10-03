@@ -19,12 +19,12 @@
 //-{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"泥巴🚧","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/top-95.jar"},
 {"key":"if101资源","name":"🍁If101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-{"name":"☁️T4公共(仅搜索)","key":"t4public","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"☁️T4公共","key":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"☁️T4爬虫(仅搜索)","key":"T4","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=d90d16f2ff634fc290c2fe48f0903610","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"☁️T4 Bttwoo(仅搜索)","key":"T4test1","type":4,"api":"https://t4.secan.icu/vod?sites=bttwoo&ali_token=d90d16f2ff634fc290c2fe48f0903610","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"☁️T4 Cokemv(仅搜索)","key":"T4test2","type":4,"api":"https://t4.secan.icu/vod?sites=cokemv&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
-//-{"name":"☁️T4_2","key":"T4-2","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"name":"☁️T4公共(仅搜索)","key":"t4public","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+{"name":"☁️T4公共","key":"T4公共","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&douban=123456789","searchable":1,"quickSearch":1,"filterable":0},
+{"name":"☁️T4爬虫(仅搜索)","key":"T4","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3865f0ab8f124688ad786a262af9b940","searchable":1,"quickSearch":1,"filterable":0},
+{"name":"☁️T4 Bttwoo(仅搜索)","key":"T4test1","type":4,"api":"https://t4.secan.icu/vod?sites=bttwoo&ali_token=3865f0ab8f124688ad786a262af9b940","searchable":1,"quickSearch":1,"filterable":0},
+{"name":"☁️T4 Cokemv(仅搜索)","key":"T4test2","type":4,"api":"https://t4.secan.icu/vod?sites=cokemv&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
+//-{"name":"☁️T4_2","key":"T4-2","type":4,"api":"https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod?ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":0},
 //{"name":"☁️Alist合集(SP)","key":"csp_Alist2","type":3,"api":"csp_Alist","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/ext/Alist220903.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/Alist220903.jar"},
 //{"name":"☁️alist","key":"csp_Alist","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"alist1$https://pan.hikerfans.com#alist2$https://drive.9t.ee#alist3$https://alist.youte.ml#alist4$https://wangpan.sangxuesheng.com#alist5$https://pan.142856.xyz”},
 //{"name":"☁️Alist【聚合】","key":"csp_Alist11","type":3,"api":"csp_Alist","searchable":1,"quickSearch":0,"filterable":0,"ext":"米奇妙妙屋$https://anime.mqmmw.ga#小光盘$https://alist.xiaoguanxiaocheng.life#帅盘$https://hi.shuaipeng.wang#资源小站$https://pan.142856.xyz#晴园的宝藏库$https://alist.52qy.repl.co#嗨翻$https://pan.hikerfans.com#一只鱼$https://alist.youte.ml#听闻网盘$https://wangpan.sangxuesheng.com#菊花盘$https://pan.142856.xyz#神族九帝$https://alist.shenzjd.com#姬路白雪の资源小站$https://pan.jlbx.xyz#七米蓝$https://al.chirmyram.com"},
@@ -47,16 +47,16 @@
 
 
 //阿里系
-{"name":"☁️小纸条","key":"csp_Gitcafe","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"d90d16f2ff634fc290c2fe48f0903610"},
-{"name":"☁️阿里盘搜(仅搜索)","key":"csp_AliPS","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"d90d16f2ff634fc290c2fe48f0903610"}, 
-{"name":"☁️找资源(仅搜索)","key":"AliPS","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"d90d16f2ff634fc290c2fe48f0903610"},
+{"name":"☁️小纸条","key":"csp_Gitcafe","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
+{"name":"☁️阿里盘搜(仅搜索)","key":"csp_AliPS","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"}, 
+{"name":"☁️找资源(仅搜索)","key":"AliPS","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"name":"🐞盘搜","key":"csp_FindZY","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0},
-{"name":"🐞找资源","key":"FindZY","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"d90d16f2ff634fc290c2fe48f0903610"},
-{"name":"☁️推送(阿里)","key":"push_agent","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"},
-{"name":"☁️易搜盘","key":"csp_Yiso","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"d90d16f2ff634fc290c2fe48f0903610"},
+{"name":"🐞找资源","key":"FindZY","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
+{"name":"☁️推送(阿里)","key":"push_agent","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"3865f0ab8f124688ad786a262af9b940"},
+{"name":"☁️易搜盘","key":"csp_Yiso","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"name":"本地文件(打开存储权限)","key":"csp_bendi","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"name":"🎯up云搜","key":"Upyunso","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"191381b8559d458699a1d8a467222f25","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220922 yunp.jar"},
-
+{"name":"⏏️内网推送┃爬虫","key":"push_agent","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"{{ali_token}}","jar":"http://43.143.21.193:9600/cat/jar/0928.jar"},
 //常规
 //{"name":"🐞爱看HD","key":"csp_IKan","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"name":"🐞Libvio","key":"csp_Lib","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -341,7 +341,7 @@
 {"name":"赛事直播","key":"csp_xpath_88kanqiu","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/MeowXP/88kanqiu.json"},
 
 
-{"name":"🎑T4聚合","key":"T4a","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🎑T4聚合","key":"T4a","type":4,"api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 //-{"name":"豆瓣电影","key":"douban_dianying","type":4,"api":"https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022","searchable":1,"quickSearch":1,"filterable":1},
 //-{"name":"🎑555影视(道长)","key":"dr_555影视","type":1,"api":"http://cms.nokia.press/vod?rule=555影视","searchable":1,"quickSearch":1,"filterable":0},
 //-{"name":"🎑cokemv(道长)","key":"dr_cokemv","type":1,"api":"http://cms.nokia.press/vod?rule=cokemv","searchable":1,"quickSearch":1,"filterable":0},
@@ -372,8 +372,8 @@
 
 //-{"name":"🕋AnFuns","key":"dr_AnFuns","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=AnFuns","searchable":1,"quickSearch":1,"filterable":0},
 //-{"name":"🕋库马伊","key":"dr_库马伊","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=库马伊","searchable":1,"quickSearch":1,"filterable":0},
-//{"key":"t4public","name":"🎑公共", "type":4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10",  "searchable":1, "quickSearch":1, "filterable":0},
-//-{"name":"🎑备用","key":"T4备用","type":4,"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=d90d16f2ff634fc290c2fe48f0903610&timeout=10","searchable":1,"quickSearch":1,"filterable":1}
+//{"key":"t4public","name":"🎑公共", "type":4, "api":"https://t4.secan.icu/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10",  "searchable":1, "quickSearch":1, "filterable":0},
+//-{"name":"🎑备用","key":"T4备用","type":4,"api":"https://t4.run.goorm.io/vod?sites=all&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=10","searchable":1,"quickSearch":1,"filterable":1}
 {"name":"🕋l0l","key":"dr_l0l","type":1,"api":"https://drpy.aqingyuan.repl.co/vod?rule=l0l","searchable":1,"quickSearch":1,"filterable":0}
   ],
   
