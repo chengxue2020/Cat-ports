@@ -56,7 +56,7 @@
 {"name":"☁️易搜盘","key":"csp_Yiso","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"name":"本地文件(打开存储权限)","key":"csp_bendi","type":3,"api":"csp_LocalFile","searchable":0,"quickSearch":0,"filterable":0,"type_flag":1},
 {"name":"🎯up云搜","key":"Upyunso","type":3,"api":"csp_Upyunso","searchable":1,"quickSearch":1,"filterable":0,"ext":"191381b8559d458699a1d8a467222f25","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220922 yunp.jar"},
-{"name":"⏏️内网推送┃爬虫","key":"push_agent","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"{{ali_token}}","jar":"http://43.143.21.193:9600/cat/jar/0928.jar"},
+
 //常规
 //{"name":"🐞爱看HD","key":"csp_IKan","type":3,"api":"csp_IKan","quickSearch":1,"searchable":1,"filterable":1},
 {"name":"🐞Libvio","key":"csp_Lib","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
