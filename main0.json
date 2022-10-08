@@ -460,7 +460,16 @@
 {"name":"最先解析","type":0,"url":"https://jx.zui.cm/?url=","ext":{"flag":["ltnb"]}},
 {"name":"诺讯解析","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
 {"name":"onejx","type":0,"url":"http://1.117.152.239:39000/?url="}
+
   ],
+
+"rules": [
+  {"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+  {"host":"*", "rule":["/m3u8.php", "path="]},
+  {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
+],
+
 
 "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","CL4K","xfyun","wuduzy","wasu","bilibili","leduo","renrenmi","xmm","xigua","m1905","funshion","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩"],
 
