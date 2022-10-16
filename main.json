@@ -318,6 +318,8 @@
 //-{"name":"忆梦(官)","key":"忆梦","type":1,"api":"http://anltv.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //-{"name":"看猫(官)","key":"看猫","type":1,"api":"http://124.222.83.15:88/api.php/provide/vod/","searchable":1,"quickSearch":1},
 //-{"name":"夜空高清","key":"csp_biubiu_yekong","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXB/夜空高清.json","jar":"https://chengxue2020.github.io/Cat-ports/jar/220902.jar"},
+{"name":"有声小说吧","key":"有声小说吧","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/json/有声小说吧.json"},
+
 
 //动漫
 {"name":"小鸟动漫","key":"csp_app_小鸟动漫","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://xydm.baicai.buzz/mogai_api.php/v1.vod"},
