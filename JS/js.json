@@ -64,6 +64,13 @@
             "api" : "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/JS/drpy.js",
             "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/JS/js/百忙无果.js"
         },
+			            {
+            "key" : "drpy_js_电影先生",
+            "name" : "电影先生[DRPY]",
+            "type" : 3,
+            "api" : "https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/JS/drpy.js",
+            "ext" : "https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/JS/js/电影先生.js"
+        },
             {
             "key" : "drpy_js_菜狗",
             "name" : "菜狗[DRPY]",
