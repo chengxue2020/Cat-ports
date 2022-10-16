@@ -471,6 +471,7 @@
   {"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
   {"host":"*", "rule":["/m3u8.php", "path="]},
   {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
+  {"host":"m.ysxs8.vip","rule":["m4a","mp3","flv"]},
   {"host":"zjmiao.com", "rule":["play.videomiao.vip/API.php", "time=", "key=", "path="]}
 ],
 
