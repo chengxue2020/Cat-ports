@@ -15,6 +15,8 @@
 {"name":"🐱2345(官源)","key":"2345_spider","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/HQD1511/main/2345.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/baikan.jar"},
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"轻松","key":"RelaxSP","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/relax.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/RelaxSP.jar"},
+
 {"name":"木子看剧(官)","key":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"小猫咪(官)","key":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"诺讯资源(官)","key":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
