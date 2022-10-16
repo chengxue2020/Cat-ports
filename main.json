@@ -10,7 +10,9 @@
 //spider java
 {"name":"🐞360视频","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
 {"name":"土狗360(官)","key":"土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"name":"🐱360(官源)","key":"360_spider","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/HQD1511/main/360.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/baikan.jar"},
 {"name":"🐞厂长资源","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"🐱2345(官源)","key":"2345_spider","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/HQD1511/main/2345.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/baikan.jar"},
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/jar/220820.jar"},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"木子看剧(官)","key":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
