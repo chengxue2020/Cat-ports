@@ -36,6 +36,13 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/drpy.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/低端影视.js"
         },
+		{
+            "key" : "drpy_js_快看",
+            "name" : "快看[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/drpy.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/快看.js"
+        },
             {
             "key" : "drpy_js_真不卡",
             "name" : "真不卡[DRPY]",
