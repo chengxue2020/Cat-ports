@@ -50,6 +50,13 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/drpy.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/if101.js"
         },
+		{
+            "key" : "drpy_js_完美看看",
+            "name" : "完美看看",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/drpy.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/完美看看.js"
+        },
             {
             "key" : "drpy_js_真不卡",
             "name" : "真不卡[DRPY]",
