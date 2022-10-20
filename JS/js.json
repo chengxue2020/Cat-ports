@@ -43,6 +43,20 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/ddys.js"
         },
+		    {
+            "key" : "drpy_js_厂长资源",
+            "name" : "厂长资源.js[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/厂长资源.js"
+        },
+		{
+            "key" : "drpy_js_厂长资源2",
+            "name" : "厂长资源2[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/厂长资源2.js"
+        },
 		{
             "key" : "drpy_js_if101",
             "name" : "if101[DRPY]跨栏",
