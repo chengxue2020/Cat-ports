@@ -45,7 +45,7 @@
         },
 		    {
             "key" : "drpy_js_厂长资源",
-            "name" : "厂长资源.js[DRPY]",
+            "name" : "厂长资源[DRPY]",
             "type" : 3,
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/厂长资源.js"
@@ -56,6 +56,13 @@
             "type" : 3,
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/厂长资源2.js"
+        },
+			{
+            "key" : "drpy_js_TVB影视",
+            "name" : "TVB影视[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/TVB影视.js"
         },
 		{
             "key" : "drpy_js_if101",
@@ -105,6 +112,20 @@
             "type" : 3,
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/尘落影视.js"
+        },
+		    {
+            "key" : "drpy_js_电影大师",
+            "name" : "电影大师[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/电影大师.js"
+        },
+		    {
+            "key" : "drpy_js_HDmoli",
+            "name" : "HDmoli[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/HDmoli.js"
         },
 			{
             "key" : "drpy_js_爱迪影视",
