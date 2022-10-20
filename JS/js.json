@@ -64,6 +64,13 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/TVB影视.js"
         },
+			{
+            "key" : "drpy_js_来看点播",
+            "name" : "来看点播[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/来看点播.js"
+        },
 		{
             "key" : "drpy_js_if101",
             "name" : "if101[DRPY]跨栏",
