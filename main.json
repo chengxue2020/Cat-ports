@@ -123,6 +123,8 @@
 {"name":"Cokemv","key":"csp_xp_cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/cokemv.json"},
 {"name":"蓝光影院","key":"csp_xp_jLgyy","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/lgyy.json"},
 {"name":"农民影视","key":"csp_xp_nmys","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/nmys2.json"},
+{"name":"农民(爬虫)","key":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":""https://chengxue2020.github.io/Cat-ports/MeowXP/农民影视.json"},
+
 {"name":"工人影视","key":"csp_xp_gongreng","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/gongreng.json"},
 //{"name":"极品影视","key":"csp_xp_jpys","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/jpys.json"},
 {"name":"VIP电影","key":"csp_xp_vip1280","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/vip1280.json"},
