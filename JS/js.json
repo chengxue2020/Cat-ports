@@ -22,6 +22,27 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/优酷.js"
         },
+		    {
+            "key" : "drpy_js_百忙无果",
+            "name" : "百忙无果[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/百忙无果.js"
+        },
+			{
+			"key": "drpy_js_mgtv",
+			"name": "芒果[DRPY]",
+			"type": 3,
+			"api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+			"ext": "http://home.jundie.top:666/JS/dr_py/js/芒果.js"
+		},
+			{
+			"key": "drpy_js_追剧达人",
+			"name": "追剧达人[DRPY]",
+			"type": 3,
+			"api": "http://home.jundie.top:666/JS/dr_py/libs/drpy.min.js",
+			"ext": "http://home.jundie.top:666/JS/dr_py/js/追剧达人.js"
+		},
             {								 
             "key" : "drpy_js_酷云77",
             "name" : "酷云77[DRPY]",
@@ -127,6 +148,13 @@
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/电影大师.js"
         },
+		    {								 
+            "key" : "drpy_js_四个圈影视",
+            "name" : "四个圈影视[DRPY]",
+            "type" : 3,
+            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
+            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/四个圈影视.js"
+        },
 		    {
             "key" : "drpy_js_HDmoli",
             "name" : "HDmoli[DRPY]",
@@ -161,13 +189,6 @@
             "type" : 3,
             "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
             "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/电影先生.js"
-        },
-            {
-            "key" : "drpy_js_百忙无果",
-            "name" : "百忙无果[DRPY]",
-            "type" : 3,
-            "api" : "https://chengxue2020.github.io/Cat-ports/JS/lib/drpy.ym.js",
-            "ext" : "https://chengxue2020.github.io/Cat-ports/JS/js/百忙无果.js"
         },
             {
             "key" : "drpy_js_69美剧",
