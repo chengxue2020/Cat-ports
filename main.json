@@ -79,7 +79,7 @@
 {"name":"🐞看视界","key":"csp_KanSJ","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"name":"美剧星球","key":"csp_Mjxq","type":3,"api":"csp_Mjxq","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"293视频(SP随缘修)","key":"293视频","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1},
-{"name":"图图影视〔SP〕","key":"APPTT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"📍图图(SP)","key":"APPTT","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://gitcdn.top/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/TT.jar"},
 {"name":"真不卡[DRPY]","key":"drpy_js_真不卡","type":3,"api":"https://ghproxy.com/https://raw.githubusercontent.com/ShadowDemon1997/CatVodSpiderJS/main/drpy.js","ext":"https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/真不卡.js"},
 {"name":"真不卡影院","key":"csp_xbb_zbkyy","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXB/真不卡zbkyy.json"},
 {"name":"Anfuns","key":"Anfuns","type":3,"api":"csp_Anfuns","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/221007.jar"},
