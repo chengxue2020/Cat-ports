@@ -123,7 +123,7 @@
 {"name":"Cokemv","key":"csp_xp_cokemv","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/cokemv.json"},
 {"name":"蓝光影院","key":"csp_xp_jLgyy","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/lgyy.json"},
 {"name":"农民影视","key":"csp_xp_nmys","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/nmys2.json"},
-{"name":"农民(爬虫)","key":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":""https://chengxue2020.github.io/Cat-ports/MeowXP/农民影视.json"},
+{"name":"农民(爬虫)","key":"农民","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/农民影视.json"},
 
 {"name":"工人影视","key":"csp_xp_gongreng","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/gongreng.json"},
 //{"name":"极品影视","key":"csp_xp_jpys","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/jpys.json"},
@@ -499,7 +499,7 @@
 
 //电视直播
 //base64编码"http://www.iptv-iptv.ml/iptv.txt"="aHR0cDovL3d3dy5pcHR2LWlwdHYubWwvaXB0di50eHQ="
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://神器每日推送.tk/tv.txt"]
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=http://home.jundie.top:81/Cat/tv/live.txt"]
 //"lives":[{"group":"redirect","channels":[{"name":"redirect",
 //以下为自己的直播
 //"urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9wYW4uY3NzLmxjL2FwaS92My9maWxlL2dldC8zMDM0OS8lRTUlOEElQTglRTUlOEElOUIzLnR4dD9zaWduPXA3VU04MEZjTnlJYURIUXpES3pSTnpaMGRmcmJ5aTlza2pxMzZGRlZOamclM0QlM0Ew"]
