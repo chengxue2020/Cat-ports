@@ -55,7 +55,7 @@
 {"name": "优酷(drpy)","key": "dr_优酷","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
 {"name": "优酷(drpy)","key": "dr_优酷","type": 3,"api": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/libs/drpy.min.js","searchable": 2,"quickSearch": 0,"filterable": 1,"ext": "https://gitcode.net/qq_32394351/dr_py/-/raw/master/js/优酷.js"},
 //阿里系
-{"name":"☁️小纸条","key":"csp_Gitcafe","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
+{"name":"☁️小纸条(爬虫)","key":"csp_Gitcafe","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://刚刚.live/json/alitoken.json"},
 {"name":"☁️阿里盘搜(仅搜索)","key":"csp_AliPS","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"}, 
 {"name":"☁️找资源(仅搜索)","key":"AliPS","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"3865f0ab8f124688ad786a262af9b940"},
 {"name":"🐞盘搜","key":"csp_FindZY","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":0},
