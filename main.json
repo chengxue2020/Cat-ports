@@ -18,8 +18,9 @@
 {"name":"️🥌真不卡〔XBPQ〕","key":"csp_xBPQ_真不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/XBPQ/真不卡.json"},
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/220820.jar"},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"name":"蓝光影院(爬虫)","key":"Lgyy","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/cs221028.jar;md5;456E591B3F88DA9E9398E33D657D2A9A"},
 {"name":"轻松","key":"RelaxSP","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/relax.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/RelaxSP.jar"},
-
+{"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/json/独播库.json"},
 {"name":"木子看剧(官)","key":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"小猫咪(官)","key":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"诺讯资源(官)","key":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
