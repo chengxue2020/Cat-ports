@@ -4,28 +4,26 @@
 
 {
 //Jar包
-//{"spider":"https://chengxue2020.github.io/Cat-ports/jar/220820.jar;md5;F322D5838932ABCA28F7F9BDF3F3CE11",
 "spider":"https://chengxue2020.github.io/Cat-ports/jar/220928.jar;md5;FF0EA5727D7F5BAFB443A2F87EBF7724",
 
 "sites":[
 //spider java
 {"name":"🐞360视频","key":"csp_SP360","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1}, 
-{"name":"土狗360(官)","key":"土狗360","type":1,"api":"http://360.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"🐱360(官源)","key":"360_spider","type":3,"api":"csp_YS360","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/HQD1511/main/360.json","jar":"https://chengxue2020.github.io/Cat-ports/jar/baikan.jar"},
 {"name":"🐞厂长资源","key":"csp_CZSPP","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"🍂厂长资源 xBPQ","key":"csp_xBPQ_厂长资源","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/XBPQ/厂长资源.json"},
 {"name":"🐱2345(官源)","key":"2345_spider","type":3,"api":"csp_YS2345","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.staticdn.net/HQD1511/HQD1511/main/2345.json","jar":"https://chengxue2020.github.io/Cat-ports/jar/baikan.jar"},
-{"name":"️🥌真不卡〔XBPQ〕","key":"csp_xBPQ_真不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/XBPQ/真不卡.json"},
+//{"name":"️🥌真不卡〔XBPQ〕","key":"csp_xBPQ_真不卡","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/XBPQ/真不卡.json"},
 {"name":"💎小苹果(SP)","key":"csp_LiteApple","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/220820.jar"},
 {"name":"💎快看(SP)","key":"快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"name":"蓝光影院(爬虫)","key":"Lgyy","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/cs221028.jar;md5;456E591B3F88DA9E9398E33D657D2A9A"},
-{"name":"轻松","key":"RelaxSP","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/relax.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/RelaxSP.jar"},
-{"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/json/独播库.json"},
+//{"name":"轻松","key":"RelaxSP","api":"csp_RelaxSP","type":3,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://agit.ai/fenwe/TVBox/raw/branch/master/sub/relax.json","jar":"https://agit.ai/fenwe/TVBox/raw/branch/master/jar/RelaxSP.jar"},
+{"name":"🦋独播库(系统播)","key":"csp_xpath_独播库","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/json/独播库.json"},
 {"name":"木子看剧(官)","key":"木子看剧","type":1,"api":"https://mzkj.maccms.cf/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"小猫咪(官)","key":"小猫咪","type":1,"api":"http://zy.xiaomaomi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"name":"诺讯资源(官)","key":"诺讯资源","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","searchable":1,"quickSearch":1}, 
 //-{"name":"🦅完美看看(SP)","key":"csp_Wmkk","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"name":"低端嗅探","key":"低端1","type":3,"api":"csp_Ddrk1","searchable":1,"quickSearch":1,"click":"ddys.tv;#vjsp > button","filterable":1},
+//{"name":"低端嗅探","key":"低端1","type":3,"api":"csp_Ddrk1","searchable":1,"quickSearch":1,"click":"ddys.tv;#vjsp > button","filterable":1},
 {"name":"泥巴🚧","key":"csp_Nbys","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://chengxue2020.github.io/Cat-ports/jar/top-95.jar"},
 {"name":"六度影视","key":"csp_xpath_六度影视","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://chengxue2020.github.io/Cat-ports/json/六度影视.json"},
 {"key":"if101资源","name":"🍁If101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
@@ -408,7 +406,6 @@
 {"name":"GGTV","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="},
 {"name":"GGTV快速","type":1,"url":"https://play.fuqizhishi.com/gang/API.php?appkey=QQ172598364&url="},
 {"name":"江湖","type":1,"url":"http://103.40.240.46/jh/?url=","ext":{"flag":["renrenmi","qq","腾讯","youku","优酷","mgtv","芒果","xigua","西瓜"]}},
-{"name":"keyu","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒果", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"QQYI","type":1,"url":"http://home.jundie.top:666/jiexi.php?url="},
 {"name":"椰子解析","type":0,"url":"http://jx.gbxy.net.cn/?url="},
 {"name":"Bozrc稳定","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
