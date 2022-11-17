@@ -208,7 +208,7 @@
 {"key":"csp_xpath_doujiaow","name":"豆角网(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/doujiaow.json"},
 {"key":"csp_xpath_dy888","name":"电影888(XP)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/dy888.json"},
 {"key":"csp_xpath_yyotv","name":"小太阳(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/yyotv.json"},
-{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/jiujiukanpian.josn"},
+{"key":"csp_xpath_jiujiukanpian","name":"久久影视(XP)","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/jiujiukanpian.json"},
 {"key":"csp_xpath_aidi","name":"爱迪影视(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/aidi.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/pianba.json"},
 {"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/duboku2.json"},
