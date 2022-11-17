@@ -3,7 +3,7 @@
   "url": "https://www.kelatv.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
-  "fenlei": "电影$/dianying/index-#电视剧$/dianshiju/index-#动漫$/dongman/index-#动作片$/dongzuopian/index-",
+  "fenlei": "电影$/dianying/index-#电视剧$/dianshiju/index-#动漫$/dongman/index-",
   "houzhui": ".html",
   "shifouercijiequ": "0",
   "jiequqian": "空",
@@ -16,8 +16,13 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
+
   "sousuoqian": "/search/",
-  "sousuohou": "",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/detail/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",

@@ -1,6 +1,6 @@
 {
   "name": "耐看点播",
-  "url": "https://www.nkdyw.com/",
+  "url": "https://www.nkdyw.com",
   //"User": "User-Agent:Dart/2.14 (dart:io)",
   "shouye": "1",
   "fenlei": "电影$/show/1--------#国产剧$/show/13--------#港台剧$/show/14--------#日韩剧$/show/15--------#欧美剧$/show/16--------#综艺$/show/3--------#国产动漫$/show/4-国产-------#日本动漫$/show/4-日本-------#欧美动漫$/show/4-欧美-------",
@@ -16,6 +16,11 @@
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "",
+  "fubiaotihou": "",
+
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/detail/",

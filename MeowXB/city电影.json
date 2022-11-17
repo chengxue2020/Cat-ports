@@ -8,14 +8,19 @@
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "class=\"col-sm-6 col-xs-3 hide-actor",
-  "jiequshuzuhou": "</span>",
-  "tupianqian": "original=\"",
+  "jiequshuzuqian": "class=\"img-pic",
+  "jiequshuzuhou": "</a>",
+  "tupianqian": "data-original=\"",
   "tupianhou": "\"",
-  "biaotiqian": "alt=\"",
+  "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span>",
+
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/detail/id-",

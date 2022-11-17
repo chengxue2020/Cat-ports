@@ -4,19 +4,26 @@
   "tihuan": "cnzz.com",
   "User": "空",
   "shouye": "1",
+
   "fenlei": "电影$/vodshow/dianying--------#连续剧$/vodshow/lianxuju--------#综艺$/vodshow/zongyi--------#动漫$/vodshow/dongman--------#国产剧$/vodshow/guochanju--------#港台剧$/vodshow/gangtaiju--------#日韩剧$/vodshow/rihanju--------#欧美剧$/vodshow/oumeiju--------",
   "houzhui": "---.html",
+
   "shifouercijiequ": "0",
   "jiequqian": "空",
   "jiequhou": "空",
-  "jiequshuzuqian": "class=\"myui-vodlist__box",
-  "jiequshuzuhou": "</div>",
+  "jiequshuzuqian": "lazyload\"",
+  "jiequshuzuhou": "class=\"myui-vodlist__detail",
   "tupianqian": "data-original=\"",
   "tupianhou": "\"",
   "biaotiqian": "title=\"",
   "biaotihou": "\"",
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
+
+  //新版Biubiu参数：副标题 (不需要的话，就不填写或者删除副标题2个字段也可以。)
+  "fubiaotiqian": "text-right\">",
+  "fubiaotihou": "</span>",
+
   "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
   "sousuohou": "&limit=500",
   "sousuohouzhui": "/voddetail/",
@@ -35,11 +42,13 @@
   "ssbiaotihou": "空",
   "sslianjieqian": "空",
   "sslianjiehou": "空",
+
   "bfshifouercijiequ": "0",
   "bfjiequqian": "空",
   "bfjiequhou": "空",
   "bfjiequshuzuqian": "class=\"myui-content__list sort-list clearfix",
   "bfjiequshuzuhou": "</ul>",
+
   "zhuangtaiqian": "更新：",
   "zhuangtaihou": "</p>",
   "daoyanqian": "导演：",
@@ -48,6 +57,7 @@
   "zhuyanhou": "</p>",
   "juqingqian": "简介：</span>",
   "juqinghou": "</p>",
+
   "bfyshifouercijiequ": "0",
   "bfyjiequqian": "空",
   "bfyjiequhou": "空",
