@@ -1,4 +1,4 @@
-name: Download
+name: 下载FM Adu
 
 on:
   schedule:
