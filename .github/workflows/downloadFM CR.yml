@@ -20,9 +20,9 @@ jobs:
 
       - name: Download
         run: |
-          curl https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json > 9+9.json
+          curl https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json > FM_CR.json
           # 更新时间
-          sed -i "/9+9.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./9+9.json
+          sed -i "/FM_CR.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./FM_CR.json
 
       - name: Commit And Push
         run: |
