@@ -1,0 +1,133 @@
+name: Build
+
+on:
+  schedule:
+    - cron: 10,40 0-15,23 * * *
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    env:
+      upstreamCode: https://github.com/q215613905/TVBoxOS
+      # 登录蓝奏云后在控制台运行document.cookie
+      ylogin: ${{ secrets.YLOGIN }}
+      phpdisk_info: ${{ secrets.PHPDISK_INFO }}
+      # 蓝奏云里的文件夹ID（TVBoxOS:5289133）
+      LANZOU_FOLDER_ID: 5289133
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          path: actions
+
+      - name: Check New Commit
+        working-directory: actions
+        run: |
+          commit=$(curl -sL ${{ env.upstreamCode }}/commits/main |grep -o '/commit/[a-z0-9]\+' |head -1 | cut -d\/ -f3)
+          if ! git log --oneline |grep -q "$commit"; then
+            echo "commit=$commit" >> $GITHUB_ENV
+            echo "commit_id=${commit:0:7}" >> $GITHUB_ENV
+          fi
+
+      - name: Pull Source Code
+        if: ${{ env.commit }}
+        run: |
+          git clone -b main ${{ env.upstreamCode }} TVBoxOSC
+          # git checkout ${{ env.commit }}
+
+      - name: Compress Source Code
+        if: ${{ env.commit }}
+        working-directory: TVBoxOSC
+        run: |
+          echo "tag=$(git log --date=format:'%Y%m%d-%H%M' --pretty=format:%cd ${{ env.commit_id }} -1)" >> $GITHUB_ENV
+          echo "update_time=$(git log --date=format:'%Y/%m/%d %H:%M' --pretty=format:%cd ${{ env.commit_id }} -1)" >> $GITHUB_ENV
+          zip -q -x ".git/*" -r ${{ env.commit_id }}-source.zip .
+
+      - name: Add Sign Info
+        if: ${{ env.commit }}
+        working-directory: TVBoxOSC
+        run: |
+          signingConfigs='ICAgIHNpZ25pbmdDb25maWdzIHtcCiAgICAgICAgaWYgKHByb2plY3QuaGFzUHJvcGVydHkoIlJFTEVBU0VfU1RPUkVfRklMRSIpKSB7XAogICAgICAgICAgICBteUNvbmZpZyB7XAogICAgICAgICAgICAgICAgc3RvcmVGaWxlIGZpbGUoUkVMRUFTRV9TVE9SRV9GSUxFKVwKICAgICAgICAgICAgICAgIHN0b3JlUGFzc3dvcmQgUkVMRUFTRV9TVE9SRV9QQVNTV09SRFwKICAgICAgICAgICAgICAgIGtleUFsaWFzIFJFTEVBU0VfS0VZX0FMSUFTXAogICAgICAgICAgICAgICAga2V5UGFzc3dvcmQgUkVMRUFTRV9LRVlfUEFTU1dPUkRcCiAgICAgICAgICAgICAgICB2MVNpZ25pbmdFbmFibGVkIHRydWVcCiAgICAgICAgICAgICAgICB2MlNpZ25pbmdFbmFibGVkIHRydWVcCiAgICAgICAgICAgICAgICBlbmFibGVWM1NpZ25pbmcgPSB0cnVlXAogICAgICAgICAgICAgICAgZW5hYmxlVjRTaWduaW5nID0gdHJ1ZVwKICAgICAgICAgICAgfVwKICAgICAgICB9XAogICAgfVwKXA=='
+          signingConfig='ICAgICAgICAgICAgaWYgKHByb2plY3QuaGFzUHJvcGVydHkoIlJFTEVBU0VfU1RPUkVfRklMRSIpKSB7XAogICAgICAgICAgICAgICAgc2lnbmluZ0NvbmZpZyBzaWduaW5nQ29uZmlncy5teUNvbmZpZ1wKICAgICAgICAgICAgfVwK'
+          signingConfigs="$(echo "$signingConfigs" |base64 -d )"
+          signingConfig="$(echo "$signingConfig" |base64 -d )"
+          sed -i -e "/defaultConfig {/i\\$signingConfigs " -e "/debug {/a\\$signingConfig " -e "/release {/a\\$signingConfig " app/build.gradle
+          cp -f ${{ github.workspace }}/actions/.github/scripts/TVBoxOSC.jks app/TVBoxOSC.jks
+          sed -i '$a\RELEASE_STORE_FILE=./TVBoxOSC.jks'     ./gradle.properties
+          sed -i '$a\RELEASE_KEY_ALIAS=TVBoxOSC'            ./gradle.properties
+          sed -i '$a\RELEASE_STORE_PASSWORD=TVBoxOSC'       ./gradle.properties
+          sed -i '$a\RELEASE_KEY_PASSWORD=TVBoxOSC'         ./gradle.properties
+          version_code=$(git rev-list --count HEAD)
+          sed -i "/versionCode/c\\versionCode ${version_code}" ./app/build.gradle
+          sed -i "/versionName/c\\versionName '${{ env.tag }}'" ./app/build.gradle
+
+      - name: Build With Gradle
+        if: ${{ env.commit }}
+        working-directory: TVBoxOSC
+        run: |
+          chmod +x gradlew
+          ./gradlew assembleRelease --build-cache --parallel --daemon --warning-mode all
+
+      - name: Rename App
+        if: ${{ env.commit }}
+        working-directory: TVBoxOSC
+        run: |
+          rm -rf apk/
+          mkdir -p apk/
+          for file in `find . -name "*release*.apk" -print`; do
+            echo $file
+            mv "$file" apk/TVBox_release_${{ env.tag }}.apk
+          done
+
+      - name: App Changelog
+        if: ${{ env.commit }}
+        run: |
+          cd actions
+          myLastCommit=`git log --oneline |grep -o '[a-z0-9]\{40\}' |head -1`
+          cd ../TVBoxOSC
+          export LESSCHARSET=utf-8
+          if [ "${{ env.commit }}" == "${myLastCommit}" ]; then
+            COMMIT_MESSAGE=$(git log --pretty=format:%B ${{ env.commit_id }} -1 |sed -e 's# \{2,\}#\n#g' -e '/^Merge pull/d' -e 's#"#\\"#g' -e '/^$/d' |cat -n |sort -k2,2 -k1,1n |uniq -f1 |sort -k1,1n |cut -f2- )
+          else
+            COMMIT_MESSAGE=$(git log --pretty=format:%B ${{ env.commit_id }}...${myLastCommit:0:7} |sed -e 's# \{2,\}#\n#g' -e '/^Merge pull/d' -e 's#"#\\"#g' -e '/^$/d' |cat -n |sort -k2,2 -k1,1n |uniq -f1 |sort -k1,1n |cut -f2- )
+          fi
+          echo "$COMMIT_MESSAGE" > Changelog.txt
+          echo "$COMMIT_MESSAGE"
+
+      - name: Release App
+        uses: softprops/action-gh-release@v1
+        if: ${{ env.commit }}
+        with:
+          name: ${{ env.tag }}
+          tag_name: ${{ env.tag }}
+          body_path: TVBoxOSC/Changelog.txt
+          files: |
+            TVBoxOSC/apk/*
+            TVBoxOSC/${{ env.commit_id }}-source.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit And Push
+        if: ${{ env.commit }}
+        working-directory: actions
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          sed -i "/Update Time/c\\+ Update Time: ${{ env.update_time }}" README.md
+          git add --all
+          git commit -m "${{ env.commit }}"
+          git push origin main
+
+      - name: Upload App To Lanzou
+        if: ${{ env.commit && env.ylogin }}
+        run: |
+          python3 ${{ github.workspace }}/actions/.github/scripts/lzy_web.py \
+          "${{ github.workspace }}/TVBoxOSC/apk/TVBox_release_${{ env.tag }}.apk" "$LANZOU_FOLDER_ID"
+          echo "share address: https://wwi.lanzoup.com/b0dah3rlc  password:TVBox"
