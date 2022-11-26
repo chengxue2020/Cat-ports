@@ -19,8 +19,7 @@
 
 "sites":[
 {"key":"Alist","name":"一个网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://drive.9t.ee"},
-  
-  	{"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
+{"key":"csp_Alist1","name":"Alist_一只鱼(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.youte.ml"},
 {"key":"csp_Alist2","name":"Alist_嗨翻(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://pan.hikerfans.com"},
 {"key":"csp_Alist3","name":"Alist_晴园(SP)","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://alist.52qy.repl.co"},
 {"key":"csp_Alist4","name":"资源小站","type": 3,"api":"csp_Alist","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://960303.xyz/"},
