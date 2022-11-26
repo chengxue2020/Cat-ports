@@ -2,7 +2,7 @@ name: Download
 
 on:
 #   schedule:
-#     - cron: 30 0,12 * * *
+#     - cron: 0 0 6,17,23 * * ? 
   workflow_dispatch:
 
 jobs:
