@@ -1,24 +1,19 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a420c6cc18e20d8eff5bafdada357669",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7d655c54d086110028be6074c85dce66",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
-      "name": "直播",
+      "name": "Adult",
       "type": 0,
-      "url": "https://raw.githubusercontent.com/jackson0829/jackson0829.github.io/main/TW.txt",
-      "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
+    },
+    {
+      "name": "10086",
+      "type": 0,
+      "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/Flzb/drzb.txt"
     }
   ],
   "sites": [
-    {
-      "key": "AList",
-      "name": "AList",
-      "type": 3,
-      "api": "csp_AList",
-      "searchable": 1,
-      "filterable": 1,
-      "ext": "9T$https://drive.9t.ee#木偶$https://www.kugutsu.ml"
-    },
     {
       "key": "泥巴",
       "name": "泥巴",
@@ -73,6 +68,14 @@
       "name": "Supjav",
       "type": 3,
       "api": "csp_Supjav",
+      "searchable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "Hanime",
+      "name": "Hanime",
+      "type": 3,
+      "api": "csp_Hanime",
       "searchable": 1,
       "filterable": 1
     },
@@ -659,7 +662,7 @@
       "api": "csp_Push",
       "searchable": 1,
       "filterable": 1,
-      "ext": "https://zdir.kebedd69.repl.co/public/TVBox/token.json"
+      "ext": "http://ali.饭太硬.ml/tok"
     }
   ]
 }
