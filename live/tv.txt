@@ -455,9 +455,13 @@ CGTN俄语,https://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 CGTN英文纪录,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8?zshijd
 CGTN英文纪录,https://livedoc.cgtn.com/500d/prog_index.m3u8?zshijd
 CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
-
+CEC汉语,http://play.cec-tv.com.cn/channel/cec-tv1.m3u8
+CEC旅游,http://play.cec-tv.com.cn/channel/cec-tv2.m3u8
+CEC新闻,http://play.cec-tv.com.cn/channel/cec-tv3.m3u8
+CEC4,http://play.cec-tv.com.cn/channel/cec-tv4.m3u8
 
 河北,#genre#
+河北卫视,rtmp://event.pull.hebtv.com/jishi/weishipindao
 河北卫视,http://39.136.48.2:8089/PLTV/88888888/224/3221225779/index.m3u8
 河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
@@ -468,17 +472,23 @@ CGTN Русский,http://liveru.cgtn.com/1000r/prog_index.m3u8?zshijd
 河北卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225773/index.m3u8?
 河北卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?
 河北卫视,http://106.115.24.46:9901/tsfile/live/1040_1.m3u8
+河北经济生活,rtmp://event.pull.hebtv.com/jishi/jingjishenghuo
 河北经济生活,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
 河北经济生活,http://106.115.24.46:9901/tsfile/live/1005_1.m3u8
+河北都市,rtmp://event.pull.hebtv.com/jishi/dushipindao
 河北都市,http://106.115.24.46:9901/tsfile/live/1006_1.m3u8
 河北都市,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd
-河北影视,http://106.115.24.46:9901/tsfile/live/1007_1.m3u8
-河北影视,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
-河北影视,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
+河北影视剧,rtmp://event.pull.hebtv.com/jishi/yingshijupindao
+河北影视剧,http://106.115.24.46:9901/tsfile/live/1007_1.m3u8
+河北影视剧,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
+河北影视剧,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
+河北少儿科教,rtmp://event.pull.hebtv.com/jishi/shaoerkejiao
 河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
 河北少儿科教,http://106.115.24.46:9901/tsfile/live/1008_1.m3u8
+河北公共,rtmp://event.pull.hebtv.com/jishi/gonggongpindao
 河北公共,http://106.115.24.46:9901/tsfile/live/1009_1.m3u8
 河北公共,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
+河北农民,rtmp://event.pull.hebtv.com/jishi/nongminpindao
 河北农民,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
 河北农民,http://106.115.24.46:9901/tsfile/live/1010_1.m3u8
 河北农民,http://hbdg.chinashadt.com:1936/live/stream:cctv7.stream/playlist.m3u8?zhebd
