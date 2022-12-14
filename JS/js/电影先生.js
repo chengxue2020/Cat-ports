@@ -17,9 +17,9 @@ var rule = {
     play_parse:true,
     lazy:'',
     limit:6,
-    推荐:'.module-list;&&.module-item&&.module-item-cover;img&&alt;img&&data-src;.module-item-text&&Text;a&&href',
+    推荐:'.module-items;.module-item&&.module-item-cover;img&&alt;img&&data-src;.module-item-text&&Text;a&&href',
     double:true, // 推荐内容是否双层定位
-    一级:'.module&&.module-item;img&&alt;img&&data-src;.module-item-text&&Text;a&&href',
+    一级:'.module-items;img&&alt;img&&data-src;.module-item-text&&Text;a&&href',
     二级:{"title":"h1&&Text;.video-info-main&&spann:eq(0)&&Text;.video-info-main&&span:eq(2)&&Text","img":".mobile-play&&img&&data-src","desc":".video-info-main&&span:eq(3)&&Text;.video-info-main&&span:eq(5)&&Text;.video-info-main&&span:eq(7)&&Text","content":".video-info-content&&Text","tabs":".module-tab-content&&span","lists":".sort-item:eq(#id) a"},
-    搜索:'.module&&.module-search-item;h3&&Text;img&&data-src;a&&Text;a&&href',
+    搜索:'.module-items;h3&&Text;img&&data-src;a&&Text;a&&href',
 }
