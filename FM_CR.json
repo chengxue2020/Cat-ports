@@ -1,16 +1,11 @@
 {
-  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;7c3920492e1d3a8d6e67caec97c7f975",
+  "spider": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;e3b236416ca6f34b41aeca2c83809837",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "lives": [
     {
-      "name": "Adult",
+      "name": "直播",
       "type": 0,
-      "url": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"
-    },
-    {
-      "name": "10086",
-      "type": 0,
-      "url": "https://agit.ai/VivoMax/Fu/raw/branch/master/drzb.txt"
+      "url": "https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/txt/adult.txt"
     }
   ],
   "sites": [
