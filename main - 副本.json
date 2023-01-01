@@ -1,6 +1,11 @@
-快
-小苹果(SP)
-{"key":"csp_Kunyu77","name":"👒七七(SP)","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
+
+{
+## spider
+"spider":"https://chengxue2020.github.io/Cat-ports/jar/XBiubiuLA4.jar;md5;E5B305191B8A3118BFEDE03A27143C19",
+
+"sites":[
+{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Kunyu77","name":"七七","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8b48a0834ee08e5e64977bc9fc8bc3e0","jar":"https://stevenfang.github.io/cs.jar;md5;7573e5dee052b6b1661a0bc400f190cc"},
 //{"key":"csp_Kuaikan","name":"🎈快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_huya","name":"🐯虎牙(XP)","type":3,"api":"csp_XPathMacFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXP/huya2.json"},
 {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://chengxue2020.github.io/Cat-ports/MeowXB/斗鱼.json"},
