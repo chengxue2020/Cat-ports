@@ -1,45 +1,6 @@
 {
   "sites": [
     {
-      "key":"js豆瓣",
-      "name":"js豆瓣",
-      "type":3,
-      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
-      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-      },
-   {
-    "key":"T4_douban",
-    "name":"T4_豆瓣",
-    "type":4,
-    "api":"https://t4.饭太硬.ml/vod",
-    "searchable":0,
-    "quickSearch":0,
-    "filterable":0
-    },
-     {
-      "key": "T4直播转点播",
-      "name": "📺︎电视点播",
-      "type": 4,
-      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key":"csp_xBPQ_dszb",
-      "name":"🖥️电视直播",
-      "type": 3,
-      "api": "csp_xBPQ",
-      "playerType":2,
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/ningmeng.json"
-    },   
-    {
       "key": "csp_Kunyu77",
       "name": "🍁酷云七七",
       "type": 3,
@@ -1242,6 +1203,45 @@
       "quickSearch": 0,
       "filterable": 0
     },
+    {
+      "key":"js豆瓣",
+      "name":"js豆瓣",
+      "type":3,
+      "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
+      "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0
+      },
+   {
+    "key":"T4_douban",
+    "name":"T4_豆瓣",
+    "type":4,
+    "api":"https://t4.饭太硬.ml/vod",
+    "searchable":0,
+    "quickSearch":0,
+    "filterable":0
+    },
+     {
+      "key": "T4直播转点播",
+      "name": "📺︎电视点播",
+      "type": 4,
+      "api": "http://120.53.102.254/live?url=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key":"csp_xBPQ_dszb",
+      "name":"🖥️电视直播",
+      "type": 3,
+      "api": "csp_xBPQ",
+      "playerType":2,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "./json/ningmeng.json"
+    },  
     {
       "key": "百淘影视",
       "name": "🍨百淘影视",
