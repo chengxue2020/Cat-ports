@@ -222,16 +222,6 @@
       "ext": "./json/真不卡.json"
     },
     {
-      "key": "搭讪",
-      "name": "💋多多搭讪",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext":"./json/dashan.json"
-    },
-    {
       "key": "搭配",
       "name": "💃多多搭配",
       "type": 3,
