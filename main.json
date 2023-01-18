@@ -1,7 +1,10 @@
+//大聪明友情提醒：本接口中的网络资源均来自于网络和各位互联网大佬的仓库，经各种整合而成，只为方便小白使用，如有冒犯请联系删除
+//关注公众号【应用多多】回复“接口”，获取最新接口
+{
   "sites": [
     {
       "key":"js豆瓣",
-      "name":"豆瓣",
+      "name":"js豆瓣",
       "type":3,
       "api":"https://gitlab.com/duomv/duo/-/raw/main/js/yingmo.js",
       "ext":"https://gitlab.com/duomv/duo/-/raw/main/js/douban.js",
