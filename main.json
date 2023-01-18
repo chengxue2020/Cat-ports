@@ -2,6 +2,35 @@
 {
     "sites": [ 
         {
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "csp_Czsapp",
+            "name": "厂长(爬虫)",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "图图",
+            "name": "图图(爬虫)",
+            "type": 3,
+            "api": "csp_AppTT2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://124.248.66.89:7788"
+        },
+       {
             "key": "Kunyu77",
             "name": "鲲鱼77(爬虫)",
             "type": 3,
@@ -40,16 +69,6 @@
             "ext": "https://gst163.github.io/s/nongminyingshi.json"
         }, 
         {
-            "key": "图图",
-            "name": "图图(爬虫)",
-            "type": 3,
-            "api": "csp_AppTT2",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.89:7788"
-        },
-        {
             "key": "BuLei",
             "name": "不雷(爬虫)",
             "type": 3,
@@ -58,16 +77,6 @@
             "quickSearch": 1,
             "filterable": 1
         }, 
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长(爬虫)",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
         {
             "key": "🐷",
             "name": "乐猪(爬虫)",
@@ -92,15 +101,6 @@
             "type": 3,
             "api": "csp_Xinsj",
             "playerType":2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "LiteApple",
-            "name": "小苹果(爬虫)",
-            "type": 3,
-            "api": "csp_LiteApple",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
