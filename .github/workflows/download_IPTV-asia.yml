@@ -20,9 +20,9 @@ jobs:
 
       - name: Download
         run: |
-          curl https://iptv-org.github.io/iptv/regions/asia.m3u > ./live/asia.m3u
+          curl https://iptv-org.github.io/iptv/regions/asia.m3u > .\live\asia.m3u
           # 更新时间
-          sed -i "./live/asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./live/asia.m3u
+          sed -i ".\live\asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" .\live\asia.m3u
 
       - name: Commit And Push
         run: |
