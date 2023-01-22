@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/startimestv.com.xml,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/sl/tv2go.t-2.net.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/rev.bs.xml,https://iptv-org.github.io/epg/guides/en/rthk.hk.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/id/useetv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/ro/programetv.ro.xml,https://iptv-org.github.io/epg/guides/zh/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/zh/mytvsuper.com.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Undefined",8TV (720p) [Geo-blocked]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
@@ -267,6 +267,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="Business",徐州經濟生活 (1080p)
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="Undefined",房山电视台 (576p)
+https://live.funhillrm.com/2/playlist.m3u8
 #EXTINF:-1 tvg-id="DunhuangTV.cn" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="Undefined",敦煌电视台 (1080p)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="Undefined",江苏卫视 (1080p)
