@@ -70,7 +70,7 @@ http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&
 #EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="News",CTi News (中天新聞台)
 https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
-http://23.237.10.66:16372
+http://50.7.220.74:8278/ctizhonghe/playlist.m3u8?ct=19193&tid=MBBB1520797915207979&tsum=3a6f7f0c591c2ec6678d51b741f290b2
 #EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Undefined",CTS HD (華視) (720p)
 http://50.7.220.74:8278/ctshd_twn/playlist.m3u8?ct=19226&tid=MAFA1309481213094812&tsum=429f7c40691cdcc6c1fb108dbd11e002
 #EXTINF:-1 tvg-id="CTSNews.tw" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News (華視新聞資訊) [Geo-blocked]
@@ -97,8 +97,6 @@ http://50.7.220.74:8278/ettvmovie/playlist.m3u8?ct=19225&tid=MDED194374041943740
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 tvg-id="EBCSuper.tw" tvg-logo="https://i.imgur.com/qZVa0Vp.png" group-title="Undefined",EBC Super (東森超視台) (720p)
 http://198.16.64.10:8278/ettvsuper/playlist.m3u8?ct=19225&tid=MA4A3005409230054092&tsum=c5d89f66fa1a8bcd26f482d4a370def5
-#EXTINF:-1 tvg-id="EBCVariety.tw" tvg-logo="https://i.imgur.com/H0lfVpg.png" group-title="Undefined",EBC Variety (東森綜合台) (720p)
-http://50.7.220.74:8278/ettvzhonghe/playlist.m3u8?ct=17874&tid=m65c4e525f24617101171&tsum=663db593cfeefc92ce4b5d7461988f3f
 #EXTINF:-1 tvg-id="EraNews.tw" tvg-logo="https://i.imgur.com/3AXrkhQ.png" group-title="News",Era News (年代新聞台) (720p)
 http://50.7.220.74:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
 #EXTINF:-1 tvg-id="ETTVNews.tw" tvg-logo="https://i.imgur.com/rNsyiyc.png" group-title="News",ETTV News (720p)
@@ -267,6 +265,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="Business",徐州經濟生活 (1080p)
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
+#EXTINF:-1 tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="Undefined",房山电视台 (576p)
+https://live.funhillrm.com/2/playlist.m3u8
 #EXTINF:-1 tvg-id="DunhuangTV.cn" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="Undefined",敦煌电视台 (1080p)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="Undefined",江苏卫视 (1080p)
