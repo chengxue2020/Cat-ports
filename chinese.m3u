@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/cs/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/mncvision.id.xml,https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml,https://iptv-org.github.io/epg/guides/en/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/en/rthk.hk.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/pl/programtv.onet.pl.xml,https://iptv-org.github.io/epg/guides/sr/mts.rs.xml,https://iptv-org.github.io/epg/guides/th/tv.trueid.net.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/en/directv.com.xml,https://iptv-org.github.io/epg/guides/en/epg.i-cable.com.xml,https://iptv-org.github.io/epg/guides/en/i.mjh.nz.xml,https://iptv-org.github.io/epg/guides/en/m.tv.sms.cz.xml,https://iptv-org.github.io/epg/guides/en/melita.com.xml,https://iptv-org.github.io/epg/guides/en/mytvsuper.com.xml,https://iptv-org.github.io/epg/guides/en/starhubtvplus.com.xml,https://iptv-org.github.io/epg/guides/en/startimestv.com.xml,https://iptv-org.github.io/epg/guides/fr/tvhebdo.com.xml,https://iptv-org.github.io/epg/guides/id/indihometv.com.xml,https://iptv-org.github.io/epg/guides/id/transvision.co.id.xml,https://iptv-org.github.io/epg/guides/ms/astro.com.my.xml,https://iptv-org.github.io/epg/guides/zh/nowplayer.now.com.xml,https://iptv-org.github.io/epg/guides/zh/rthk.hk.xml,https://iptv-org.github.io/epg/guides/zh/tv.cctv.com.xml"
 #EXTINF:-1 tvg-id="8TV.my" tvg-logo="https://i.imgur.com/Jkx9W88.png" group-title="Undefined",8TV (720p) [Geo-blocked]
 https://live-sg1.global.ssl.fastly.net/live-hls/tonton3.m3u8
 #EXTINF:-1 tvg-id="AnimaxAsia.sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Animaxlogo-20160701.png" group-title="Animation" user-agent="Mozilla/5.0 Macintosh; Intel Mac OS X 10_14_5 AppleWebKit/537.36 KHTML, like Gecko Chrome/76.0.3809.25 Safari/537.36",Animax Asia (Vietnamese Subs) (720p)
@@ -67,8 +67,6 @@ https://reflect-creatv.cablecast.tv/live-13/live/live.m3u8
 http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?ct=19226&tid=MC3C8838319088383190&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
 #EXTINF:-1 tvg-id="CTiEntertainment.tw" tvg-logo="https://i.imgur.com/FLzDLMv.png" group-title="Entertainment",CTi Entertainment (中天娛樂台) (720p)
 http://50.7.220.74:8278/ctient/playlist.m3u8?ct=17874&tid=m6780c60bd34a13540795&tsum=06089e289a460b0685447b7656d550e3
-#EXTINF:-1 tvg-id="CTiNews.tw" tvg-logo="https://i.imgur.com/u81tZtA.png" group-title="News",CTi News (中天新聞台)
-https://hls.youtb.workers.dev/channel/UC5l1Yto5oOIgRXlI4p4VKbw.m3u8
 #EXTINF:-1 tvg-id="CTiVariety.tw" tvg-logo="https://i.imgur.com/tqsKObw.png" group-title="General",CTi Variety (中天綜合台) (720p)
 http://23.237.10.66:16372
 #EXTINF:-1 tvg-id="CTS.tw" tvg-logo="https://i.imgur.com/ISl9WsI.png" group-title="Undefined",CTS HD (華視) (720p)
@@ -113,10 +111,10 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/DjI6SS1.png" group-title="Undefined",GEM (576p)
 http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Undefined",Good2 (好消息2台) (720p)
-http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
 #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Undefined",GOOD TV CH1 綜合台 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Undefined",GOOD TV CH2 真理台 (720p)
+https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="GTV1.tw" tvg-logo="https://i.imgur.com/hHj6qXs.png" group-title="Undefined",GTV1 (八大第1台) (720p)
 http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 tvg-id="GTVDrama.tw" tvg-logo="https://i.imgur.com/SjpHkBm.png" group-title="Series",GTV Drama (八大戏剧台) (720p)
@@ -137,8 +135,6 @@ http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
 https://brightstar-chinese.secure.footprint.net/egress/bhandler/brightstar/brightstarChinese/manifest.m3u8
 #EXTINF:-1 tvg-id="LSTimeMovie.tw" tvg-logo="https://i.imgur.com/xofUknz.png" group-title="Movies",LS Time Movie (720p)
 http://50.7.220.74:8278/cb7a1fec69/playlist.m3u8?ct=18335&tid=md05ab4002297&tsum=ebe4254ee0e073c2d3c9789e679c00a5
-#EXTINF:-1 tvg-id="LTVDrama.tw" tvg-logo="https://i.imgur.com/kDG8PN3.png" group-title="Series",LTV Drama (龙华戏剧) (720p)
-http://198.16.64.10:8278/lunghuaxiju_twn/playlist.m3u8?ct=19226&tid=MBAB4709384347093843&tsum=a2a7258f8565588e10b8da2f26ba8039
 #EXTINF:-1 tvg-id="LuxeTV.lu" tvg-logo="https://i.imgur.com/24ehonx.png" group-title="Undefined",Luxe TV (1080p)
 https://alchimie-luxe-fr-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyCinemaAsia.id" tvg-logo="https://i.imgur.com/4XVZLW0.png" group-title="Movies",My Cinema Asia (1080p) [Geo-blocked]
@@ -151,6 +147,8 @@ https://ntd02.akamaized.net/NTDA/index.m3u8
 https://live3.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="PhoenixChineseChannel.hk" tvg-logo="https://i.imgur.com/rwY7FHT.png" group-title="General",Phoenix Chinese Channel (鳳凰衛視中文) (576p)
 http://210.210.155.37/uq2663/h/h157/index2.m3u8
+#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",Phoenix InfoNews Channel (鳳凰衛視資訊) (576p)
+http://210.210.155.37/qwr9ew/s/s21/index.m3u8
 #EXTINF:-1 tvg-id="BabyFirst.us" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",Pluto TV BabyFirst (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-id="LoveNature.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Love_Nature_TV.png/512px-Love_Nature_TV.png" group-title="Outdoor",Pluto TV Love Nature (720p)
@@ -222,7 +220,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-id="ChinaWeatherTV.cn" tvg-logo="https://i.imgur.com/YPYVoyX.png" group-title="Weather",中国天气 (576p) [Not 24/7]
 http://112.25.48.68/live/program/live/zgqx/1300000/mnf.m3u8
 #EXTINF:-1 tvg-id="YouManCartoonChannel.cn" tvg-logo="https://i.imgur.com/GZInf2W.png" group-title="Animation;Kids",优漫卡通 (576p)
-http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
+http://183.207.249.15/PLTV/4/224/3221225933/index.m3u8
 #EXTINF:-1 tvg-id="BeijingSatelliteTV.cn" tvg-logo="https://i.imgur.com/vsktAez.png" group-title="General",北京卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 tvg-id="HezhengTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",和政电视台
@@ -263,12 +261,10 @@ http://116.199.5.51:8114/00000000/index.m3u8?Fsv_CMSID=&Fsv_SV_PARAM1=0&Fsv_Shif
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 tvg-id="GuangxiTV.cn" tvg-logo="https://i.imgur.com/dpre5Qs.png" group-title="Undefined",广西卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",康巴卫视 (720p) [Not 24/7]
-http://scgctvshow.sctv.com/hdlive/kangba/1.m3u8
+#EXTINF:-1 tvg-id="YanbianSatelliteTV.cn" tvg-logo="https://i.imgur.com/UKKsnhD.png" group-title="Undefined",延边卫视 (576p)
+http://223.110.245.139/PLTV/4/224/3221227002/index.m3u8
 #EXTINF:-1 tvg-id="XuzhouEconomicLifeChannel.cn" tvg-logo="https://i.imgur.com/LcJZVV5.png" group-title="Business",徐州經濟生活 (1080p)
 http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221225947/index.m3u8
-#EXTINF:-1 tvg-id="FangshanTV.cn" tvg-logo="https://i.imgur.com/YyYArWr.png" group-title="Undefined",房山电视台 (576p)
-https://live.funhillrm.com/2/playlist.m3u8
 #EXTINF:-1 tvg-id="DunhuangTV.cn" tvg-logo="https://i.imgur.com/RpGKOQd.jpg" group-title="Undefined",敦煌电视台 (1080p)
 http://117.156.28.119/270000001111/1110000028/index.m3u8
 #EXTINF:-1 tvg-id="JiangsuSatelliteTV.cn" tvg-logo="https://i.imgur.com/CA4F1rv.png" group-title="Undefined",江苏卫视 (1080p)
@@ -335,8 +331,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 http://183.207.248.71/cntv/live1/fengshanggw/fengshanggw
 #EXTINF:-1 tvg-id="HighChannelTV.cn" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="Undefined",高台电视台 (1080p)
 http://117.156.28.119/270000001111/1110000146/index.m3u8
-#EXTINF:-1 tvg-id="PhoenixInfoNewsChannel.hk" tvg-logo="https://i.imgur.com/mt4h3VO.png" group-title="News",鳳凰衛視資訊台HD (720p) [Not 24/7]
-http://117.169.120.138:8080/live/fhzixun/.m3u8
 #EXTINF:-1 tvg-id="HebiNewsChannel.cn" tvg-logo="https://i.imgur.com/Osw5yRW.png" group-title="News",鹤壁新闻综合 (480p) [Not 24/7]
 http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 tvg-id="HeilongjiangTV.cn" tvg-logo="https://i.imgur.com/9fj1uba.png" group-title="Undefined",黑龙江卫视 (1080p)
