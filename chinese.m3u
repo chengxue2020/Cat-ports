@@ -113,10 +113,10 @@ http://seb.sason.top/ptv/ftv.php?id=dy
 http://198.16.64.10:8278/ftvtaiwan_twn/playlist.m3u8?ct=19226&tid=MDFD8196635981966359&tsum=b82639ac8b4590b4206effe348e2f9c2
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/DjI6SS1.png" group-title="Undefined",GEM (576p)
 http://210.210.155.37/uq2663/h/h19/index.m3u8
+#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Undefined",Good2 (好消息2台) (720p)
+http://198.16.64.10:8278/good2_twn/playlist.m3u8?ct=19225&tid=ME9E3966510439665104&tsum=a2788b2ccea04a8a8082d663fb7838e5
 #EXTINF:-1 tvg-id="GoodTV.tw" tvg-logo="https://i.imgur.com/k28Kc3o.png" group-title="Undefined",GOOD TV CH1 綜合台 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 tvg-id="Good2.tw" tvg-logo="https://i.imgur.com/YxFRoft.png" group-title="Undefined",GOOD TV CH2 真理台 (720p)
-https://live.streamingfast.net/osmflivech2.m3u8
 #EXTINF:-1 tvg-id="GTV1.tw" tvg-logo="https://i.imgur.com/hHj6qXs.png" group-title="Undefined",GTV1 (八大第1台) (720p)
 http://50.7.220.74:8278/badafirst/playlist.m3u8?ct=17874&tid=mb8efded78b4e12042621&tsum=028ad819cd9a0f949a043d652fa3e164
 #EXTINF:-1 tvg-id="GTVDrama.tw" tvg-logo="https://i.imgur.com/SjpHkBm.png" group-title="Series",GTV Drama (八大戏剧台) (720p)
