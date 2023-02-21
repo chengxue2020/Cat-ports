@@ -1,0 +1,818 @@
+//欧歌10-14整合
+{
+"wallpaper":" ",
+"spider":" ",
+"lives": [{"group": "redirect","channels": [{"name": "redirect","urls": ["proxy://do=live&type=txt&ext=Y2xhbjovL3R2Ym94L3R2L3R2Lmpzb24="]}]}],
+
+"sites": [
+    
+	
+
+		{
+            "key":"榜单荐片（T4）",
+            "name":"榜单荐片（T4）",
+            "type":4,
+            "api":"https://t4.secan.icu/vod?sites=voflix,bdys01,onelist,dy555,gitcafe&ali_token=3865f0ab8f124688ad786a262af9b940&timeout=6",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":0
+
+},
+
+    {
+		"key": "py_kunyu77",
+		"name": "Py | kunyu77",
+		"type": 3,
+		"api": "py_kunyu77",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_kunyu77.py"
+	    },
+    
+    	{
+            "key" : "py_youer",
+            "name" : "Py | 幼儿教育",
+            "type" : 3,
+            "api" : "py_youer",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_youer.py"
+        }, {
+            "key" : "py_xiaoxue",
+            "name" : "Py | 小学教育",
+            "type" : 3,
+            "api" : "py_xiaoxue",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_xiaoxue.py"
+        }, {
+            "key" : "py_czxx",
+            "name" : "Py | 初中教育",
+            "type" : 3,
+            "api" : "py_czxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_czxx.py"
+        }, {
+            "key" : "py_gaozxx",
+            "name" : "Py | 高中教育",
+            "type" : 3,
+            "api" : "py_gaozxx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_gaozxx.py"
+        }, {
+            "key" : "py_xuqu1",
+            "name" : "Py | 戏曲专栏",
+            "type" : 3,
+            "api" : "py_xuqu1",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_xuqu1.py"
+        }, {
+            "key" : "py_TYjs",
+            "name" : "Py | 体育健身",
+            "type" : 3,
+            "api" : "py_TYjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_TYjs.py"
+        }, {
+            "key" : "py_xiangsh",
+            "name" : "Py | 相声小品",
+            "type" : 3,
+            "api" : "py_xiangsh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_xiangsh.py"
+        }, {
+            "key" : "py_FBqx",
+            "name" : "Py | 球队球星",
+            "type" : 3,
+            "api" : "py_FBqx",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_FBqx.py"
+        }, 
+        {
+            "key" : "py_yanchh",
+            "name" : "Py | 歌手专辑",
+            "type" : 3,
+            "api" : "py_yanchh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_yanchh.py"
+        }, 
+        {
+            "key" : "py_MTV",
+            "name" : "Py | 歌曲MTV",
+            "type" : 3,
+            "api" : "py_MTV",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_MTV.py"
+        }, {
+            "key" : "py_Yinl2",
+            "name" : "Py | B站音乐",
+            "type" : 3,
+            "api" : "py_Yinl2",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_Yinl2.py"
+        }, 
+	
+
+	{
+            "key" : "py_cctv",
+            "name" : "Py | 央视法治",
+            "type" : 3,
+            "api" : "py_cctv",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctv.py"
+        }, {
+            "key" : "py_cctvdy",
+            "name" : "Py | 央视电影电视",
+            "type" : 3,
+            "api" : "py_cctvdy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvdy.py"
+        }, {
+            "key" : "py_cctvjs",
+            "name" : "Py | 央视军事",
+            "type" : 3,
+            "api" : "py_cctvjs",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvjs.py"
+        }, {
+            "key" : "py_cctvkj",
+            "name" : "Py | 央视科教",
+            "type" : 3,
+            "api" : "py_cctvkj",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvkj.py"
+        }, {
+            "key" : "py_cctvny",
+            "name" : "Py | 央视农业",
+            "type" : 3,
+            "api" : "py_cctvny",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvny.py"
+        }, {
+            "key" : "py_cctvse",
+            "name" : "Py | 央视少儿",
+            "type" : 3,
+            "api" : "py_cctvse",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvse.py"
+        }, {
+            "key" : "py_cctvty",
+            "name" : "Py | 央视体育",
+            "type" : 3,
+            "api" : "py_cctvty",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvty.py"
+        }, {
+            "key" : "py_cctvxq",
+            "name" : "Py | 央视戏曲",
+            "type" : 3,
+            "api" : "py_cctvxq",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvxq.py"
+        }, {
+            "key" : "py_cctvxw",
+            "name" : "Py | 央视新闻",
+            "type" : 3,
+            "api" : "py_cctvxw",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvxw.py"
+        }, {
+            "key" : "py_cctvyy",
+            "name" : "Py | 央视音乐",
+            "type" : 3,
+            "api" : "py_cctvyy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvyy.py"
+        }, {
+            "key" : "py_cctvzh",
+            "name" : "Py | 央视综合",
+            "type" : 3,
+            "api" : "py_cctvzh",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvzh.py"
+        }, {
+            "key" : "py_cctvzy",
+            "name" : "Py | 央视综艺",
+            "type" : 3,
+            "api" : "py_cctvzy",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_cctvzy.py"
+        }, 
+        
+        
+    
+    
+    
+    
+    
+    
+    
+    	{
+		"key": "py_lezhutv",
+		"name": "Py | 乐猪",
+		"type": 3,
+		"api": "py_lezhutv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_lezhutv.py"
+	},  
+   	{
+		"key": "py_cyys",
+		"name": "Py | 创艺",
+		"type": 3,
+		"api": "py_cyys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_cyys.py"
+	},
+	
+	{
+		"key": "py_wmkk",
+		"name": "Py | 完美看看(半残)",
+		"type": 3,
+		"api": "py_wmkk",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_wmkk.py"
+	},{
+		"key": "py_voflix",
+		"name": "Py | Voflix",
+		"type": 3,
+		"api": "py_voflix",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_voflix.py"
+	}, {
+		"key": "py_bilimd",
+		"name": "Py | B站影视",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_bilimd.py"
+	}, {
+		"key": "py_gimytv",
+		"name": "Py | 剧迷",
+		"type": 3,
+		"api": "py_gimytv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_gimytv.py"
+	}, {
+		"key": "py_genmov",
+		"name": "Py | 跟剧",
+		"type": 3,
+		"api": "py_genmov",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_genmov.py"
+	}, 
+	            {
+            "key" : "py_yixi",
+            "name" : "Py | 一席话",
+            "type" : 3,
+            "api" : "py_yixi",
+            "searchable" : 1,
+            "quickSearch" : 1,
+            "filterable" : 1,
+            "ext" : "file:///storage/emulated/0/tvbox/plugin/py_yixi.py"
+        },{
+		"key": "py_huya",
+		"name": "Py | 虎牙",
+		"type": 3,
+		"api": "py_huya",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_huya.py"
+	}, {
+		"key": "py_douyu",
+		"name": "Py | 斗鱼",
+		"type": 3,
+		"api": "py_douyu",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_douyu.py"
+	}, {
+		"key": "py_cokemv",
+		"name": "Py | COKE",
+		"type": 3,
+		"api": "py_cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_cokemv.py"
+	}, {
+		"key": "py_xmaomi",
+		"name": "Py | 猫咪",
+		"type": 3,
+		"api": "py_xmaomi",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_xmaomi.py"
+	},
+   	
+	{
+		"key": "py_douban",
+		"name": "Py | 豆瓣",
+		"type": 3,
+		"api": "py_douban",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_douban.py"
+	}, 
+ 
+	{
+		"key": "py_freezb",
+		"name": "Py | 体育直播p",
+		"type": 3,
+		"api": "py_freezb",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_freezb.py"
+	},
+	
+	
+	{
+		"key": "py_jrskbs",
+		"name": "Py | JRS直播",
+		"type": 3,
+		"api": "py_jrskbs",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_jrskbs.py"
+	}, 
+	
+ 
+	{
+		"key": "py_libvio",
+		"name": "Py | LIbvio",
+		"type": 3,
+		"api": "py_libvio",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_libvio.py"
+	}, 
+	
+	{
+		"key": "py_bilibili",
+		"name": "Py | 哔哩",
+		"type": 3,
+		"api": "py_bilibili",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_bilibili.py"
+	}, {
+		"key": "py_bilivd",
+		"name": "Py | B站(带搜索)",
+		"type": 3,
+		"api": "py_bilivd",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_bilivd.py"
+	},{
+		"key": "py_3qu",
+		"name": "Py | 3QU",
+		"type": 3,
+		"api": "py_3qu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_3qu.py"
+	},
+	{
+		"key": "py_if101",
+		"name": "Py | if101(N)",
+		"type": 3,
+		"api": "py_if101",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_if101.py"
+	},
+	   
+      
+      
+      
+      
+      
+      
+      
+      
+      
+      
+        {
+      "key": "py_Alist",
+      "name": "Py | Alist合集",
+      "type": 3,
+      "api": "py_alist",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "file:///storage/emulated/0/tvbox/plugin/py_alist.py"
+        },
+        
+        
+        
+        
+        
+        {
+      "key": "py_Bilivd",
+      "name": "Py | Bilivd",
+      "type": 3,
+      "api": "py_bilivd",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "file:///storage/emulated/0/tvbox/plugin/py_bilivd.py"
+        }, {
+		"key": "py_cctv",
+		"name": "Py | 央视",
+		"type": 3,
+		"api": "py_cctv",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_cctv.py"
+	},{
+		"key": "py_cctv2",
+		"name": "Py | 央视2",
+		"type": 3,
+		"api": "py_cctv2",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_cctv2.py"
+	},{
+		"key": "py_czspp",
+		"name": "Py | 厂长",
+		"type": 3,
+		"api": "py_czspp",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_czspp.py"
+	}, {
+		"key": "py_star",
+		"name": "Py | 星光影视",
+		"type": 3,
+		"api": "py_star",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_star.py"
+	}, {
+		"key": "py_koudaiys",
+		"name": "Py | 口袋影视",
+		"type": 3,
+		"api": "py_koudaiys",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_koudaiys.py"
+	}, 
+	{
+		"key": "py_gitcafe",
+		"name": "Py | 小纸条",
+		"type": 3,
+		"api": "py_gitcafe",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_gitcafe.py"
+	}, {
+		"key": "py_voflix",
+		"name": "Py | Voflix",
+		"type": 3,
+		"api": "py_voflix",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_voflix.py"
+	}, {
+		"key": "py_gimytv",
+		"name": "Py | 剧迷",
+		"type": 3,
+		"api": "py_gimytv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_gimytv.py"
+	}, 
+	    {
+		"key": "py_genmov",
+		"name": "Py | 跟剧",
+		"type": 3,
+		"api": "py_genmov",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_genmov.py"
+	    },
+	    {
+		"key": "py_cokemv",
+		"name": "Py | COKE",
+		"type": 3,
+		"api": "py_cokemv",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_cokemv.py"
+	    },{
+		"key": "py_kuaikan",
+		"name": "Py | 快看影视",
+		"type": 3,
+		"api": "py_kuaikan",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_kuaikan.py"
+	    },
+	    {
+		"key": "py_ali",
+		"name": "Py | 阿里",
+		"type": 3,
+		"api": "py_ali",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "file:///storage/emulated/0/tvbox/plugin/py_ali.py"
+	    }, 
+		{
+			"key": "Yiso",
+			"name": "Py | 易搜(仅搜索)",
+			"type": 3,
+			"api": "py_yiso",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "file:///storage/emulated/0/tvbox/plugin/py_yiso.py"
+		}, 
+		{
+			"key": "Pansou",
+			"name": "Py | 盘搜(仅搜索)",
+			"type": 3,
+			"api": "py_pansou",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "file:///storage/emulated/0/tvbox/plugin/py_pansou.py"
+	    },
+		{
+			"key": "Zhaozy",
+			"name": "Py | 找资源(仅搜索)",
+			"type": 3,
+			"api": "py_zhaozy",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "file:///storage/emulated/0/tvbox/plugin/py_zhaozy.py"
+	    }
+
+  
+
+
+
+
+
+
+
+
+      
+
+
+
+
+],
+
+
+
+"parses":[
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"},
+	{
+		"name": "GGTV自用",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/jx/API.php?appkey=xiaobai888&url="
+	},
+	{
+		"name": "GGTV搜集",
+		"type": 1,
+		"url": "https://play.fuqizhishi.com/juhe/API.php?appkey=caijijuhe220902&url="
+	},
+	{"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
+	{
+		"name": "OKjx嗅探",
+		"type": 0,
+		"url": "https://okjx.cc/?url="
+	},
+
+	{
+		"name": "爱酷",
+		"type": 1,
+		"url": "https://jx.zhanlangbu.com/API.php?appkey=53df3aa2fdb66bcbc4d05730b6fbfc71&url="
+	},
+	{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
+	{
+		"name": "江湖",
+		"type": 1,
+		"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="
+
+	},
+{"name":"B站1","type":0,"url":"https://jx.bozrc.com:4433/player/?url="},
+{"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
+{"name":"云端1","type":0,"url":"https://js.52jx.top:2525/?url="}
+
+
+],
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+	"ijk": [{
+		"group": "软解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "soundtouch",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec-hevc",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "dns_cache_timeout",
+			"value": "600000000"
+		}]
+	}, {
+		"group": "硬解码",
+		"options": [{
+			"category": 4,
+			"name": "opensles",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "overlay-format",
+			"value": "842225234"
+		}, {
+			"category": 4,
+			"name": "framedrop",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "soundtouch",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "start-on-prepared",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "http-detect-range-support",
+			"value": "0"
+		}, {
+			"category": 1,
+			"name": "fflags",
+			"value": "fastseek"
+		}, {
+			"category": 2,
+			"name": "skip_loop_filter",
+			"value": "48"
+		}, {
+			"category": 4,
+			"name": "reconnect",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "enable-accurate-seek",
+			"value": "0"
+		}, {
+			"category": 4,
+			"name": "mediacodec",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-auto-rotate",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-handle-resolution-change",
+			"value": "1"
+		}, {
+			"category": 4,
+			"name": "mediacodec-hevc",
+			"value": "1"
+		}, {
+			"category": 1,
+			"name": "dns_cache_timeout",
+			"value": "600000000"
+		}]
+	}],
+	"ads": ["mimg.0c1q0l.cn", "www.googletagmanager.com", "www.google-analytics.com", "mc.usihnbcq.cn", "mg.g1mm3d.cn", "mscs.svaeuzh.cn", "cnzz.hhttm.top", "tp.vinuxhome.com", "cnzz.mmstat.com", "www.baihuillq.com", "s23.cnzz.com", "z3.cnzz.com", "c.cnzz.com", "stj.v1vo.top", "z12.cnzz.com", "img.mosflower.cn", "tips.gamevvip.com", "ehwe.yhdtns.com", "xdn.cqqc3.com", "www.jixunkyy.cn", "sp.chemacid.cn", "hm.baidu.com", "s9.cnzz.com", "z6.cnzz.com", "um.cavuc.com", "mav.mavuz.com", "wofwk.aoidf3.com", "z5.cnzz.com", "xc.hubeijieshikj.cn", "tj.tianwenhu.com", "xg.gars57.cn", "k.jinxiuzhilv.com", "cdn.bootcss.com", "ppl.xunzhuo123.com", "xomk.jiangjunmh.top", "img.xunzhuo123.com", "z1.cnzz.com", "s13.cnzz.com", "xg.huataisangao.cn", "z7.cnzz.com", "xg.huataisangao.cn", "z2.cnzz.com", "s96.cnzz.com", "q11.cnzz.com", "thy.dacedsfa.cn", "xg.whsbpw.cn", "s19.cnzz.com", "z8.cnzz.com", "s4.cnzz.com", "f5w.as12df.top", "ae01.alicdn.com", "www.92424.cn", "k.wudejia.com", "vivovip.mmszxc.top", "qiu.xixiqiu.com", "cdnjs.hnfenxun.com", "cms.qdwght.com"]
+}
