@@ -24,33 +24,9 @@
             "quickSearch": 1,
             "filterable": 0
         },
-		{
-            "key": "csp_Kunyu77",
-            "name": "酷云七七(SP)",
-            "type": 3,
-            "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Kuaikan",
-            "name": "快看(SP)",
-            "type": 3,
-            "api": "csp_Kuaikan",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_AppTT",
-            "name": "图图影院(SP)",
-            "type": 3,
-            "api": "csp_AppTT",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://124.248.66.107:9911"
+//		{"key": "csp_Kunyu77","name": "酷云七七(SP)","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
+//        {"key": "csp_Kuaikan","name": "快看(SP)","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+//        {"key": "csp_AppTT","name": "图图影院(SP)","type": 3,"api": "csp_AppTT","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://124.248.66.107:9911"
         },
         {
             "key": "csp_Lezhu",
@@ -89,33 +65,9 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_fant",
-            "name": "饭团视频(SP)",
-            "api": "csp_Fantuan",
-            "type": 3,
-            "filterable": 1,
-            "quickSearch": 1,
-            "searchable": 1
-        },
-        {
-            "key": "csp_Lgyy",
-            "name": "蓝光影院(SP)",
-            "type": 3,
-            "api": "csp_Lgyy",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Ysgc",
-            "name": "影视工厂(SP)",
-            "type": 3,
-            "api": "csp_Ysgc",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//        {"key": "csp_fant","name": "饭团视频(SP)","api": "csp_Fantuan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
+//        {"key": "csp_Lgyy","name": "蓝光影院(SP)","type": 3,"api": "csp_Lgyy","searchable": 1,"quickSearch": 1,"filterable": 1},
+//        {"key": "csp_Ysgc","name": "影视工厂(SP)","type": 3,"api": "csp_Ysgc","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_Dy1010",
             "name": "双十电影(SP)",
@@ -170,15 +122,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Libvio",
-            "name": "Libvio(SP)",
-            "type": 3,
-            "api": "csp_Lib",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0
-        },
+//        {"key": "csp_Libvio","name": "Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 1,"quickSearch": 1,"filterable": 0},
         {
             "key": "csp_Voflix",
             "name": "Voflix(SP)",
@@ -188,24 +132,8 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Zjdr",
-            "name": "追剧达人(SP)",
-            "type": 3,
-            "api": "csp_Zjdr",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Juhuang",
-            "name": "剧荒(SP)",
-            "type": 3,
-            "api": "csp_Juhuang",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//        {"key": "csp_Zjdr","name": "追剧达人(SP)","type": 3,"api": "csp_Zjdr","searchable": 1,"quickSearch": 1,"filterable": 1},
+//        {"key": "csp_Juhuang","name": "剧荒(SP)","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_DiDuan",
             "name": "低端影视(SP)",
@@ -235,15 +163,7 @@
             "quickSearch": 1,
             "filterable": 1
         },
-        {
-            "key": "csp_Zxzj",
-            "name": "在线之家(SP)",
-            "type": 3,
-            "api": "csp_Zxzj",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
+//        {"key": "csp_Zxzj","name": "在线之家(SP)","type": 3,"api": "csp_Zxzj","searchable": 1,"quickSearch": 1,"filterable": 1},
         {
             "key": "csp_Paper",
             "name": "小纸条(SP)",
