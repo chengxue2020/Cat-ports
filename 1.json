@@ -1,6 +1,6 @@
 {
   "spider": "https://chengxue2020.github.io/Cat-ports/jar/ts230220.jar;md5;178bd490131df13997c6d67bbffe9924",
-  "wallpaper": "https://ghproxy.com/https://raw.githubusercontent.com/zengjian0303/han/master/img/02.jpg",
+  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
   "lives": [
     {
       "group": "redirect",
@@ -8,7 +8,7 @@
         {
           "name": "redirect",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vemVuZ2ppYW4wMzAzL2hhbi9tYXN0ZXIvdHYvbXl0di50eHQ="
+            "proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9yYXkvdHZsaXZlLnR4dA=="
           ]
         }
       ]
@@ -16,6 +16,16 @@
   ],
   "sites": [
     {
+      "key": "Czsapp",
+      "name": "厂长",
+      "type": "3",
+      "api": "csp_Dora",
+      "searchable": "1",
+      "quickSearch": "1",
+      "filterable": "1",
+      "ext": "8ee655f702d0d21f3643504783babbc3"
+    },
+	{
       "key": "drpy_js_豆瓣",
       "name": "搜索 | 豆瓣[js]",
       "type": 3,
@@ -98,50 +108,6 @@
       "ext": "85b2986381a134ba3ebbaf25ae8138e7#https://chengxue2020.github.io/Cat-ports/json/音乐演唱.json"
     },
     {
-      "key": "AList",
-      "name": "网盘 | Alist[jar]",
-      "type": 3,
-      "api": "csp_AList",
-      "ext": "https://ghproxy.com/https://chengxue2020.github.io/Cat-ports/json/alistjar.json"
-    },
-    {
-      "key": "drpy_js_Alist",
-      "name": "网盘 | Alist[js]",
-      "type": 3,
-      "api": "https://chengxue2020.github.io/Cat-ports/JS/libs/alist.min.js",
-      "ext": "https://chengxue2020.github.io/Cat-ports/json/alistjs.json"
-    },
-    {
-      "key": "csp_XYQ_lu1",
-      "name": "直播 | 电视直播",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "https://chengxue2020.github.io/Cat-ports/json/ningmeng.json"
-    },
-    {
-      "key": "Tian",
-      "name": "天天",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "bdc1c75081e5e477189a463baa47e392"
-    },
-    {
-      "key": "Czsapp",
-      "name": "厂长",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "8ee655f702d0d21f3643504783babbc3"
-    },
-    {
       "key": "Zjdr",
       "name": "追剧达人",
       "type": "3",
@@ -152,16 +118,6 @@
       "ext": "778e8966ec0e9c0ae0b4682ad3550f40"
     },
     {
-      "key": "Yanet",
-      "name": "鸭奶飞",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "a369b1f623fe86605f1b029f0cf66349"
-    },
-    {
       "key": "Pang",
       "name": "胖虎",
       "type": "3",
@@ -170,16 +126,6 @@
       "quickSearch": "1",
       "filterable": "1",
       "ext": "c41fdb671b20925c76fa9b6ff8bad027"
-    },
-    {
-      "key": "Lgyy",
-      "name": "蓝光",
-      "type": "3",
-      "api": "csp_Dora",
-      "searchable": "1",
-      "quickSearch": "1",
-      "filterable": "1",
-      "ext": "b2e573ff040fcd54b50475660ee1a7d1"
     },
     {
       "key": "Smdyy",
