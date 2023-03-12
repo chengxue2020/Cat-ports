@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<!--------------
+
+/\\_/\
+( o   o )
+=(  =  )=
+(        )
+(         )
+(          )
+(           )
+(  不服咬我  )
+(             )
+( 肥猫天下第一 )
+(      /|_/|\\)
+(     /       \\
+ \\   /  \\ /  \\
+  \\/   /|   |\\
+       \\|   |\\
+        (\\  /)
+        ||  ||
+--------------------->
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>接口解析提取</title>
+    <!-- 引入Bootstrap样式库 -->
+    <link rel="stylesheet" href="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.0.0/css/bootstrap.min.css">
+    <style>
+        body {
+            margin-top: 40px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                max-width: 100%;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1 class="text-center mb-5">接口解析</h1>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" id="url" value="" placeholder="没有的话点击下方肥猫主页去找">
+            <button class="btn btn-outline-warning" type="button" onclick="crawl()">提取</button>
+        </div>
+       
+        <div class="text-center loading" id="loading">
+          <div class="spinner-border" role="status">
+            (>^ω^<)喵<span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
+       
+        <textarea class="form-control" id="result" cols="80" rows="20" readonly></textarea>
+        <div class="text-center mt-3">
+             <button class="btn btn-outline-info" onclick="copyText()">复制</button>
+            <button class="btn btn-outline-success" onclick="downloadJar()">下载Jar</button>
+            <a href="https://xn--z7x900a.love" class="btn btn-outline-danger">肥猫主页</a>
+        </div>
+    </div>
+    <!-- 引入Bootstrap JS库 -->
+    <script src="https://cdn.bootcdn.net/ajax/libs/twitter-bootstrap/5.0.0/js/bootstrap.min.js"></script>
+    <script>
+        function crawl() {
+            var xhr = new XMLHttpRequest();
+            var url = document.getElementById('url').value;
+            var resultBox = document.getElementById('result');
+            xhr.open("GET", "crawler.php?url=" + encodeURIComponent(url), true);
+            xhr.onreadystatechange = function() {
+                if (xhr.readyState == 4 && xhr.status == 200) {
+                    resultBox.value = xhr.responseText;
+                    document.getElementById('loading').style.display = 'none';
+                }
+            };
+            resultBox.value = '';
+            document.getElementById('loading').style.display = 'block';
+            xhr.send();
+        }
+        function downloadJar() {
+            var resultBox = document.getElementById('result');
+            var url = resultBox.value.match(/"spider":"(.*?)"/)[1];
+            if (url.includes(';md5;')) {
+                url = url.split(';md5;')[0];
+            }
+            fetch(url, {headers: {'User-Agent': 'okhttp'}})
+            .then(function(response) {
+                return response.blob();
+            })
+            .then(function(blob) {
+                var downloadUrl = URL.createObjectURL(blob);
+                var a = document.createElement('a');
+                a.href = downloadUrl;
+                a.download = 'file.jar';
+                a.click();
+                URL.revokeObjectURL(downloadUrl);
+                document.getElementById('loading').style.display = 'none';
+            });
+            document.getElementById('loading').style.display = 'block';
+        }
+    
+        function copyText() {
+          var copyText = document.getElementById("result");
+          copyText.select();
+          copyText.setSelectionRange(0, 99999);
+          document.execCommand("copy");
+          alert("偷取成功！");
+        }
+
+
+    </script>
+</body>
+</html>
