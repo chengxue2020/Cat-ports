@@ -2,6 +2,16 @@
 {
     "sites": [
         {
+            "key": "csp_Czsapp",
+            "name": "厂长",
+            "type": 3,
+            "api": "csp_Czsapp",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
             "key": "js豆瓣",
             "name": "豆瓣推荐",
             "type": 3,
@@ -86,16 +96,6 @@
             "name": "七七",
             "type": 3,
             "api": "csp_Kunyu77",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-        {
-            "key": "csp_Czsapp",
-            "name": "厂长",
-            "type": 3,
-            "api": "csp_Czsapp",
-            "playerType": 2,
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
