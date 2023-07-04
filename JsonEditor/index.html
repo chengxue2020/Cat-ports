@@ -1,62 +1,70 @@
-
-<!doctype html>
-<html lang="zh-CN">
+﻿﻿<!DOCTYPE html>
+<html>
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="./bootstrap/bootstrap.min.css">
-    <link rel="stylesheet" href="./bootstrap/animate.min.css">
-        <link rel="stylesheet" href="./static/editor.css">
-        <title>猫影视TV配置编辑器</title>
+    <title>超级商店-TVBox配置接口解密</title>
+     
+     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+     <meta name="keywords" content="超级商店-发布页,永久有效地址！" />
+     <meta name="description" content="超级商店-发布页，关注，TVBox，配置，接口，动态，解密，必应，收藏，绿清，回家，不迷路！" />
+     <link rel="shortcut icon" type="image/x-icon" href="/images/icon.ico">
+    <!-- 引入Bootstrap样式库 -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <style>
+        body {
+            margin-top: 40px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 0 15px;
+        }
+        .input-group {
+            margin-bottom: 20px;
+        }
+        .loading {
+            display: none;
+            margin-top: 20px;
+        }
+        @media (max-width: 768px) {
+            .container {
+                max-width: 100%;
+            }
+        }
+    </style>
 </head>
 <body>
-<div id="loading"
-     style="position: absolute; top: 0; bottom: 0; left: 0; right: 0; background-color: #000; opacity: 0.5; z-index:9999;">
-    <center style="position: absolute; top: 50%; left: 50%; color:#fff">请稍候...</center>
-</div>
-<div class="container">
-    <div class="page-header">
-        <h3>
-            配置编辑器 &nbsp;<small>本地记录依赖浏览器缓存，清空缓存将丢失记录</small>
-        </h3>
-    </div>
-    <div class="row">
-        <div class="btn-group btn-group-sm col-md-5" role="group" style="padding-top:10px;">
-            <button type="button" class="btn btn-success" onclick="show_visual('999999')">可视</button>
-            <button type="button" class="btn btn-info" onclick="show_code('999999')">源码</button>
-            <button type="button" class="btn btn-warning" onclick="empty_diy('999999')">清空</button>
-            <button type="button" class="btn btn-primary" onclick="save_diy('999999')">保存</button>
+    <div class="container">
+        <h1 class="text-center mb-5">TVBox配置接口解密</h1>
+        <div class="input-group mb-3">
+            <input type="text" class="form-control" id="url" value="" placeholder="输入接口地址，没地址？关注公众号猫技回复接口">
+            <button class="btn btn-secondary" type="button" onclick="crawl()">解密</button>
         </div>
-        <div class="col-md-5">
-            <label class="btn btn-primary btn-sm">
-                配置转图片 <input type="file" onchange="toImg(event)" style="display: none;">
-            </label>
-            <label class="btn btn-primary btn-sm" style="background: white; border:0; padding:4; padding-top:10px;">
-				<iframe src="jm.html" frameborder="0" style="border:0;height:30px;width:250px"></iframe>
-            </label>
+       
+        <div class="text-center loading" id="loading">
+          <div class="spinner-border" role="status">
+            野<span class="visually-hidden">Loading...</span>
+          </div>
+        </div>
+       
+        <textarea class="form-control" id="result" cols="80" rows="20" readonly></textarea>
+        <div class="text-center mt-3">
+             <a href="https://m.n13.club/"  target="_blank"class="btn btn-primary">主页</a>
+             <button class="btn btn-warning" onclick="copyText()">复制</button>
+             <button class="btn btn-success" onclick="window.location.href = 'https://bjq.n13.club/'">编辑器</button>
+            <a href="https://mp.weixin.qq.com/s/63NhS-LbZn02Xj-hJFTdCg"  target="_blank"class="btn btn-danger">更多资源关注猫技公众号</a>
+            
         </div>
     </div>
-    <h4></h4>
-    <form id="diy_cfg_jf_999999" style="display: none;"></form>
-    <textarea rows="30" class="form-control" id="diy_cfg_code_999999" style="margin-top: 10px; display: none;"></textarea>
-</div>
+    <!-- 引入Bootstrap JS库 -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/bootstrap.mins.js"></script>
+
+
+   
 </body>
-<script src="./bootstrap/jquery.min.js"></script>
-<script src="./bootstrap/bootstrap.min.js"></script>
-<script src="./bootstrap/bootstrap-notify.min.js"></script>
-<script src="./bootstrap/bootbox.min.js"></script>
-<script src="./static/index.js"></script>
-<script src="./bootstrap/underscore-min.js"></script>
-<script src="./bootstrap/jquery-ui.min.js"></script>
-<script src="./bootstrap/core-min.js"></script>
-<script src="./bootstrap/cipher-core-min.js"></script>
-<script src="./bootstrap/aes-min.js"></script>
-<script src="./bootstrap/mode-ecb-min.js"></script>
-<script src="./bootstrap/clipboard.min.js"></script>
-<script src="./static/jsonform.js"></script>
-<script src="./static/jsv.js"></script>
-<script src="./static/editor.js"></script>
-<script src="./static/jsonlint.js"></script>
-<script src="./static/editor-ex.js"></script>
+<!--雪花API-->
+<script src='https://api.vvhan.com/api/snow'></script>
 </html>
