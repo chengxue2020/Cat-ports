@@ -56,7 +56,7 @@ https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/
 https://raw.githubusercontent.com/taodicakhia/IPTV_Exception/master/channels/af/tolotv.m3u8
 #EXTINF:-1 tvg-id="TV5MondePacific.fr" tvg-logo="https://i.imgur.com/mfZOYZI.png" group-title="Afghanistan",TV5Monde Pacifique (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
-#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Afghanistan",WATAN-E-MAA
+#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Afghanistan",Watan-e-Maa TV (720p)
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="Albania",A2 CNN (720p)
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
@@ -3229,7 +3229,7 @@ https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8
 https://dee7mwgg9dzvl.cloudfront.net/hls/uvagut/playlist.m3u8
 #EXTINF:-1 tvg-id="VBS.ca" tvg-logo="https://i.imgur.com/IWpevBp.jpg" group-title="Canada",VBS (480p) [Not 24/7]
 https://uni6rtmp.tulix.tv/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Canada",WATAN-E-MAA
+#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="Canada",Watan-e-Maa TV (720p)
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="WCGtv.ca" tvg-logo="https://i.imgur.com/q7UPbEG.png" group-title="Canada",WCGtv Public (720p)
 https://wowzastream.westmancom.com/wcgtvlive/wcgtvPSA.stream/master.m3u8
@@ -9403,8 +9403,6 @@ https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
 https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FashionTVEurope.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="Iceland",Fashion TV (1080p)
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="N4.is" tvg-logo="https://i.imgur.com/71GEuIx.png" group-title="Iceland",N4 (720p)
-https://live.tv.c.is/n4/index.m3u8
 #EXTINF:-1 tvg-id="RecordTVEuropa.pt" tvg-logo="https://i.imgur.com/DvxfBTE.png" group-title="Iceland",RecordTV Europa (720p) [Geo-blocked]
 https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 #EXTINF:-1 tvg-id="RUV.is" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/R%C3%9AV_ohf_2019_logo.svg/512px-R%C3%9AV_ohf_2019_logo.svg.png" group-title="Iceland",RUV
@@ -10510,7 +10508,7 @@ https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png" group-title="Indonesia",Lejel Home Shopping (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV (1080p)
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Indonesia",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
@@ -12525,7 +12523,7 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/Li
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTV2
 #EXTINF:-1 tvg-id="KTVAlMajlis.kw" tvg-logo="https://i.imgur.com/AVEyGig.png" group-title="Kuwait",KTV Al Majlis (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportExtra
-#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Kuwait",KTV Al Qurain (1080p) [Not 24/7]
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Kuwait",KTV Al Qurain (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVPlus
 #EXTINF:-1 tvg-id="KTVArabe.kw" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Kuwait",KTV Arabe (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVArabe
