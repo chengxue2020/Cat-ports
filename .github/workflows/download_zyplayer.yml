@@ -20,7 +20,7 @@ jobs:
 
       - name: Download
         run: |
-          curl http://shuyuan.miaogongzi.net/shuyuan/1688742214.json > zyplayer.json
+          curl https://jsd.cdn.zzko.cn/gh/ls125781003/dmtg@master/zy.json > zyplayer.json
           # 更新时间
           sed -i "/zyplayer.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./zyplayer.json
 
