@@ -1,6 +1,5 @@
-<<<<<<< Updated upstream
 {
-  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;a28d41c9e6a71040d06dc948cb62a64a",
+  "spider": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/jar/custom_spider.jar;md5;8ebd953e794760d656dc0e0cbe9f8d65",
   "wallpaper": "https://gao.chuqiuyu.tk",
   "sites": [
     {
@@ -559,5 +558,3 @@
     }
   ]
 }
-=======
->>>>>>> Stashed changes
