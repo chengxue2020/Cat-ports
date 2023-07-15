@@ -6416,6 +6416,10 @@ WHIZ Radio 海口音乐广播,http://starfish.sz.aliyun.005.qingting.fm:8000/hai
 武汉青少广播·M-radio,http://stream.appwuhan.com/sepdzb/sd/live.m3u8
 烟台音乐广播,http://live.yantaitv.cn/live/899686f2687848cdbe62b1c27f3b3fc1/111dcc2035384c579cb79a260591a4ea.m3u8
 惠州音乐广播,http://stream.hztvmg.com/test17/playlist.m3u8
+
+
+
+
 CCTV新科动漫,http://cctvalic.v.myalicdn.com/live/xinkedongman_1/index.m3u8?adapt=0&BR=audio
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8
 东方卫视,http://satellitepull.cnr.cn/live/wx32dfws/playlist.m3u8
