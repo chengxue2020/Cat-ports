@@ -20,7 +20,7 @@ jobs:
 
       - name: Download from 8oop
         run: |
-          curl 8oop > 8oop.json
+          curl http://www.8oop.cn/xjh > 8oop.json
           # 更新时间
           sed -i "/8oop.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./8oop.json
 
