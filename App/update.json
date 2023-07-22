@@ -2,11 +2,11 @@
   "Code": 0,	//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",	//请求出错的信息
   "UpdateStatus": 2,	//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 230720,
-  "VersionName": "20230720",
-  "UploadTime": "2023-07-20 20:22:41",
+  "VersionCode": 1,
+  "VersionName": "Frank20230720",
+  "UploadTime": "2023-07-23 00:22:41",
   "ModifyContent": "\r\n1、测试1。\r\n2、测试2",
   "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/app.apk",
-  "ApkSize": 14717,
-  "ApkMd5": "209E4D6BDB86FF8D2D6CC6DA6CD22E1D"	//md5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkSize": 14741,
+  "ApkMd5": "9F349DC9CEDD8CB7A9F2303C9B088802"	//md5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
