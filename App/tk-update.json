@@ -3,7 +3,7 @@
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
   "VersionCode": 230723,
-  "VersionName": "3.0.20230723.1731",
+  "VersionName": "3.20230723.1731",
   "UploadTime": "2023-07-23 17:30:41",
   "ModifyContent": "\r\n1、修复解析聚合、并发、轮询时可能出现的闪退bug\r\n2、增加在线更新功能",
   "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/tk-app.apk",
