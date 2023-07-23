@@ -3,10 +3,10 @@
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
   "VersionCode": 230723,
-  "VersionName": "Frank_20230723.1600",
-  "UploadTime": "2023-07-23 20:22:41",
+  "VersionName": "Frank_20230723.1603",
+  "UploadTime": "2023-07-23 16:03:41",
   "ModifyContent": "\r\n1、在线更新\r\n2、其他",
   "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/app.apk",
-  "ApkSize": 14741,
-  "ApkMd5": "9F349DC9CEDD8CB7A9F2303C9B088802"
+  "ApkSize": 14788,
+  "ApkMd5": "DCF977DB0DC22E153EE435339B638EEC"
 }
