@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
-  "VersionCode": 1,
-  "VersionName": "20230723.1322",
+  "VersionCode": 230723,
+  "VersionName": "20230723",
   "UploadTime": "2023-07-23 20:22:41",
-  "ModifyContent": "\r\n1、修荐片播放bug;\r\n2、ijk配置优化",
+  "ModifyContent": "\r\n1、在线更新\r\n2、其他",
   "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/app.apk",
-  "ApkSize": 14931,
-  "ApkMd5": "39AFB0EE351E4CD8D80C20711C825A82"
+  "ApkSize": 14741,
+  "ApkMd5": "9F349DC9CEDD8CB7A9F2303C9B088802"
 }
