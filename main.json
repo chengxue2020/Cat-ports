@@ -14,16 +14,7 @@
     }
   ],
   "sites": [
-    {
-      "key": "Kunyu77",
-      "name": "米-🗯️手机┃七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-	{
+    	{
       "key": "csp_Czsapp",
       "name": "米-🗯️厂长┃直连",
       "type": 3,
@@ -34,7 +25,15 @@
       "ext": "https://czzy.art/",
       "filterable": 1
     },
-	
+	{
+      "key": "Kunyu77",
+      "name": "米-🗯️手机┃七七",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 	{
       "key": "豆瓣",
       "name": "豆瓣热播",
