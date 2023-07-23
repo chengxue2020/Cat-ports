@@ -1,7 +1,7 @@
 {
   "spider": "./jar包;md5;7E3728D966D4EF703D3A250D5267B99B",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
-  "warningText": "码上放生公众号免费整理维护，请勿付费购买",
+  "warningText": "Nothing",
   "lives": [
     {
       "name": "live",
@@ -16,7 +16,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "码上放生时光机💢v20230713-477",
+      "name": "豆瓣热播",
       "type": "4",
       "api": "https://douban.sec-an.cn/vod?douban&jx=1&timeout=5",
       "searchable": "0",
