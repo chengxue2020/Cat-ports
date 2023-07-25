@@ -2,7 +2,7 @@
   "Code": 0,
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
-  "VersionCode": 230723,
+  "VersionCode": 230725,
   "VersionName": "3.20230725.1651",
   "UploadTime": "2023-07-25 08:21:00",
   "ModifyContent": "\r\n1、修复bug：反复进出直播界面引起闪退，直播超时自动换源时，右侧的线路选择、播放解码反复切换闪退\r\n2、图片请求支持headers",
