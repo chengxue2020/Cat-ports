@@ -60,8 +60,6 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="A2CNN.al" tvg-logo="https://i.imgur.com/TgO3Lzi.png" group-title="Albania",A2 CNN (720p)
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="ABCNewsAlbania.al" tvg-logo="https://i.imgur.com/q5pjJ2m.png" group-title="Albania",ABC News (720p) [Not 24/7]
-https://tv2.abcnews.al/live/abcnews/playlist.m3u8
 #EXTINF:-1 tvg-id="AlbKanaleMusicTV.al" tvg-logo="https://i.imgur.com/JdKxscs.png" group-title="Albania",AlbKanale Music TV (720p)
 https://albportal.net/albkanalemusic.m3u8
 #EXTINF:-1 tvg-id="AlpoTV.al" tvg-logo="https://i.imgur.com/Pr4ixiA.png" group-title="Albania",ALPO (720p) [Not 24/7]
@@ -105,22 +103,6 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 https://live-recordeuropa.visioncdn.com/live/recordeuropa/master.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Albania",Report TV (720p)
 https://deb10stream.duckdns.org/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RTSH1.al" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Albania",RTSH 1 (780p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
-#EXTINF:-1 tvg-id="RTSH2.al" tvg-logo="https://i.imgur.com/AZ43XZn.png" group-title="Albania",RTSH 2 (720p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
-#EXTINF:-1 tvg-id="RTSH3.al" tvg-logo="https://i.imgur.com/kyhHTx3.png" group-title="Albania",RTSH 3 (720p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
-#EXTINF:-1 tvg-id="RTSH24.al" tvg-logo="https://i.imgur.com/H6tCoGW.png" group-title="Albania",RTSH 24 (720p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
-#EXTINF:-1 tvg-id="RTSHFilm.al" tvg-logo="https://i.imgur.com/EBEslci.png" group-title="Albania",RTSH Film (576p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
-#EXTINF:-1 tvg-id="RTSHMuzike.al" tvg-logo="https://i.imgur.com/7fMS5Hl.png" group-title="Albania",RTSH Muzikë (720p) [Not 24/7]
-http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
-#EXTINF:-1 tvg-id="RTSHShqip.al" tvg-logo="https://i.imgur.com/88kRsW3.png" group-title="Albania",RTSH Shqip (576p) [Not 24/7]
-http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
-#EXTINF:-1 tvg-id="RTSHSport.al" tvg-logo="https://i.imgur.com/J6NKXyJ.png" group-title="Albania",RTSH Sport (720p) [Not 24/7]
-http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-id="TlnovelasEuropa.mx" tvg-logo="https://i.imgur.com/8AKW7Uu.png" group-title="Albania",Tlnovelas Europa (720p)
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="Albania",TV5Monde Europe (1080p) [Geo-blocked]
@@ -133,8 +115,8 @@ https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 https://fe.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
 #EXTINF:-1 tvg-id="WeatherSpyEurope.us" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Albania",WeatherSpy Europe (720p)
 https://jukin-weatherspy-2-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Albania",Zjarr TV (1080p)
-https://content.jwplatform.com/live/broadcast/hiynhSaw.m3u8
+#EXTINF:-1 tvg-id="ZjarrTV.al" tvg-logo="https://i.imgur.com/hNuWZWe.png" group-title="Albania",Zjarr TV (720p)
+https://cdn.jwplayer.com/live/events/r2qgHu7W.m3u8
 #EXTINF:-1 tvg-id="2MInternational.ma" tvg-logo="https://i.imgur.com/MvpntzA.png" group-title="Algeria",2M Monde (360p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
 #EXTINF:-1 tvg-id="AbuDhabiSports1.ae" tvg-logo="https://i.imgur.com/6BVWk8z.png" group-title="Algeria",Abu Dhabi Sports 1 (1080p)
@@ -7466,7 +7448,7 @@ https://ythls.onrender.com/channel/UCEXUo0sBf0_w8rnckXuBcFA.m3u8
 https://euc-live.fl.freecaster.net/live/eucom/ebs.m3u8
 #EXTINF:-1 tvg-id="EbSPlus.be" tvg-logo="https://i.imgur.com/7V012zQ.png" group-title="France",EbS+ Live (Europe by Satellite) (1080p)
 https://euc-live.fl.freecaster.net/live/eucom/ebsp.m3u8
-#EXTINF:-1 tvg-id="EreTV.fr" tvg-logo="https://i.imgur.com/utMKPpl.png" group-title="France",Ere TV
+#EXTINF:-1 tvg-id="EreTV.fr" tvg-logo="https://i.imgur.com/utMKPpl.png" group-title="France",Ère TV (1080p)
 https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EuronewsFrench.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="France",Euronews Français (720p)
 https://euronews-euronews-french-3-us.plex.wurl.tv/playlist.m3u8
@@ -7792,7 +7774,7 @@ http://185.234.217.27:8002/play/a02f/index.m3u8
 http://tracesportstars-samsunges.amagi.tv/hls/amagi_hls_data_samsunguk-tracesport-samsungspain/CDN/playlist.m3u8
 #EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://i.imgur.com/XJf2ajf.png" group-title="France",Trace Urban
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-traceurban-samsungnz/playlist.m3u8
-#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="France",TV3V (720p)
+#EXTINF:-1 tvg-id="TV3V.fr" tvg-logo="https://i.ibb.co/X2yd0zL/logo-tv3v.jpg" group-title="France",TV3V
 https://tv3v.hdr-tv.com/live/tv3v/livestream/master.m3u8
 #EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-logo="https://i.imgur.com/rPAbMSu.png" group-title="France",TV5Monde Europe (1080p) [Geo-blocked]
 https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8
@@ -10805,7 +10787,7 @@ https://ythls.onrender.com/channel/UC5BMIWZe9isJXLZZWPWvBlg.m3u8
 https://alfa.kugo.id/playout/KugoStar.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="LejelHomeShopping.id" tvg-logo="https://i.imgur.com/Yxq05Dg.png" group-title="Indonesia",Lejel Home Shopping (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UC9q_4Ljmm0C15j25Bqx1ZOw.m3u8
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV (1080p)
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Indonesia",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Indonesia",Madu TV (576p)
 https://re1.siar.us/madutv/hd720/playlist.m3u8
