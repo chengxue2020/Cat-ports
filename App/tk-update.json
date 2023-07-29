@@ -3,10 +3,10 @@
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
   "VersionCode": 230725,
-  "VersionName": "3.20230725.1651",
-  "UploadTime": "2023-07-25 08:21:00",
+  "VersionName": "3.20230727.2343",
+  "UploadTime": "2023-07-27 23:43:00",
   "ModifyContent": "\r\n1、修复bug：反复进出直播界面引起闪退，直播超时自动换源时，右侧的线路选择、播放解码反复切换闪退\r\n2、图片请求支持headers",
   "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/tk-app.apk",
   "ApkSize": 23225,
-  "ApkMd5": "E09E8440714675E368950F32FE903C0A"
+  "ApkMd5": "6C9F9E09B65637EE90450FBE4289F296"
 }
