@@ -29,7 +29,7 @@
     "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
         "NewVersion":"1.0.3", //最新版本号
-        "ForceUpdate":false, //是否强制更新
+        "ForceUpdate":true, //是否强制更新
         "UpdateDesc":       //更新描述
            "写了也不会看\n所以不写了", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
            "UpdateDownloadUrl":"https://ghproxy.com/https://github.com/hfr1107/HomeBox_relerase/releases/download/20221025-0202/TVBox_hfr1107_20221025-0202.apk" //更新下载地址
