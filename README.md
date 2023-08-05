@@ -6,4 +6,4 @@ https://cdn.jsdelivr.net/gh/chengxue2020/Cat-ports@main/main.json
 https://ghproxy.com/https://raw.githubusercontent.com/chengxue2020/Cat-ports/main/main.json
 
 配置编辑器：
-https://chengxue2020.github.io/Cat-ports/JsonEditor/index
+https://chengxue2020.github.io/Cat-ports/JsonEditor/index.html
