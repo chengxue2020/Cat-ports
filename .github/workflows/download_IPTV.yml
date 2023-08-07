@@ -1,4 +1,4 @@
-name: IPTV-Chinese
+name: Download IPTV-Country & Asia & Chinese.m3u
 
 on:
   schedule:
@@ -18,12 +18,24 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download
+      - name: Download asia.m3u
+        run: |
+          curl https://iptv-org.github.io/iptv/regions/asia.m3u > asia.m3u
+          # 更新时间
+          sed -i "/asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./asia.m3u
+
+      - name: Download country.m3u
+        run: |
+          curl https://iptv-org.github.io/iptv/index.country.m3u > country.m3u
+          # 更新时间
+          sed -i "/country.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./country.m3u
+
+      - name: Download chinese.m3u
         run: |
           curl https://iptv-org.github.io/iptv/languages/zho.m3u > chinese.m3u
           # 更新时间
           sed -i "/chinese.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./chinese.m3u
-
+          
       - name: Commit And Push
         run: |
           git config --local user.name "github-actions[bot]"
