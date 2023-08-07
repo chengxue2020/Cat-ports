@@ -1,4 +1,4 @@
-name: 下载FM
+name: 更新 FongMi 及FM_CR
 
 on:
   schedule:
@@ -18,11 +18,17 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Download
+      - name: 更新 FongMi.json
         run: |
           curl https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/config.json > FongMi.json
           # 更新时间
           sed -i "/FongMi.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./FongMi.json
+
+      - name: 更新 FongMi_CR.json
+        run: |
+          curl https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json > FM_CR.json
+          # 更新时间
+          sed -i "/FM_CR.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./FM_CR.json
 
       - name: Commit And Push
         run: |
