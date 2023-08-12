@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
-  "VersionCode": 230730,
-  "VersionName": "3.20230730.0809",
-  "UploadTime": "2023-07-30 08:09:00",
-  "ModifyContent": "\r\n1、Small fix\r\n2、其他",
-  "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/tk-app.apk",
-  "ApkSize": 28959,
-  "ApkMd5": "796EC3A66AD38AB307DD0574AAF21BFA"
+  "VersionCode": 230812,
+  "VersionName": "3.20230812.2200",
+  "UploadTime": "2023-08-12 22:00:00",
+  "ModifyContent": "\r\修正第一个站点设置为隐藏时还是会显示出来,避免打开站点列表崩溃\r\n2、其他",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20230812-2200/TVBox_takagen99_20230812-2200_Release.apk",
+  "ApkSize": 29112,
+  "ApkMd5": "DEB18BA2CA85F8EB5674F3222D458CB4"
 }
