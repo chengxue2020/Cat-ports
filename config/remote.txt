@@ -1,9 +1,9 @@
 {
     // 代码配置相关
-    "IsRecodeLog":true, // 是否记录文件日志
+    "IsRecodeLog":false, // 是否记录文件日志
     
     // 默认配置相关
-    "ForceChangeAPIUrl": true, //强制替换首页默认API地址，防止API失效不更新包的手段
+    "ForceChangeAPIUrl": false, //强制替换首页默认API地址，防止API失效不更新包的手段
     "APIUrl":"http://我不是.肥猫.love:63/", //首页默认API地址
     "HomeID": "csp_Kunyu77", //七七
     "HomeShowType": 1, //默认首页推荐 0 豆瓣热播 1 数据源推荐 2 历史
@@ -17,21 +17,21 @@
     
     // 直播配置相关
     "Live":{
-        "Channel": "CCTV-13", // 频道名字
+        "Channel": "CCTV1", // 频道名字
         "ChannelReverse": false, // 换台反转
-        "CrossGroup": false, // 跨选分类
+        "CrossGroup": true, // 跨选分类
         "ConnectTimeout": 1, // 超时换源时间 0 5s 1 10s 2 15s 3 20s 4 25s 5 30s
         "ShowNetSpeed": true, // 显示网速
         "ShowTime": true // 显示时间
     },
     
     // 更新相关
-    "IsForceUpdate":true, //是否强制显示更新UI
+    "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"3.20230807.1730", //最新版本号
+        "NewVersion":"3.20230812.0016", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
-           "写了也不会看\n所以不写了", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-           "UpdateDownloadUrl":"https://ghproxy.com/https://github.com/hfr1107/HomeBox_relerase/releases/download/20221025-0202/TVBox_hfr1107_20221025-0202.apk" //更新下载地址
+           "修分类封面/文件夹切换bug;\n修主页配置加载时间过长不能操作的bug;\n添加dns;\n修磁力推送解析bug", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
+           "UpdateDownloadUrl":"https://ghproxy.com/https://chengxue2020.github.io/Cat-ports/config/TVBox_Frank_20230812-2039_Release.apk" //更新下载地址
     }
 }
