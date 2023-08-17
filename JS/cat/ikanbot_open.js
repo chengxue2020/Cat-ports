@@ -12,6 +12,7 @@ async function request(reqUrl, agentSp) {
         method: 'get',
         headers: {
             'User-Agent': agentSp || UA,
+            'referer': url
         },
     });
     return res.content;
@@ -170,21 +171,28 @@ async function play(flag, id, flags) {
     });
 }
 
-async function search(wd, quick) {
-    const html = await request(url + '/search?q=' + wd);
+async function search(wd, quick, pg) {
+    if (pg <= 0 || typeof(pg) == 'undefined') pg = 1;
+    const html = await request(url + '/search?q=' + wd + '&p=' + pg);
     const $ = load(html);
-    const items = $('div.media > div.media-left > a');
+    const items = $('div.media');
     var jsBase = await js2Proxy(true, siteType, siteKey, 'img/', {});
     let videos = _.map(items, (item) => {
+        const a = $(item).find('a:first')[0];
         const img = $(item).find('img:first')[0];
+        const remarks = $($(item).find('span.label')[0]).text().trim();
         return {
-            vod_id: item.attribs.href,
+            vod_id: a.attribs.href,
             vod_name: img.attribs.alt,
             vod_pic: jsBase + base64Encode(img.attribs['data-src']),
-            vod_remarks: '',
+            vod_remarks: remarks || '',
         };
     });
+    const hasMore = $('div.page-more > a:contains(下一页)').length > 0;
+    const pgCount = hasMore ? parseInt(pg) + 1 : parseInt(pg);
     return JSON.stringify({
+        page: parseInt(pg),
+        pagecount: pgCount,
         list: videos,
     });
 }
