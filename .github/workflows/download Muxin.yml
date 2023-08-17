@@ -2,7 +2,7 @@ name: 下载muxin
 
 on:
   schedule:
-    - cron: 0 9,15,22 * * ? 
+    - cron: 0 ? 0-3 * ?
   push:
     branches:
       - main

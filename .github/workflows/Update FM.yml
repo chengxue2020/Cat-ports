@@ -2,7 +2,7 @@ name: 更新 FongMi 及FM_CR
 
 on:
   schedule:
-    - cron: 0 9,15,22 * * ? 
+    - cron: 0 ? 0-3 * ?
   push:
     branches:
       - main
