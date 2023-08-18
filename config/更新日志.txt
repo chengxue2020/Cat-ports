@@ -1,5 +1,19 @@
 TVBox_3.0
 
+20230818.1715
+再次修正部分图片不加载问题;
+兼容msg(toast消息);
+兼容subs字幕(只取第1个);
+
+20230818.1627
+push://地址转推送(by waston & by idcard)
+SourceViewModel.java+secondary page push
+DetailActivity.java+history
+SourceViewModel.java+push
+DetailActivity.java+push
+get-push
+
+
 20230814.1252
 T4支持ext配置;
 当没有站点推荐时默认加载豆瓣热播推荐;

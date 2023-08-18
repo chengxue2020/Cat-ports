@@ -28,10 +28,10 @@
     // 更新相关
     "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"3.20230814.2338", //最新版本号
+        "NewVersion":"3.20230818.1715", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "T4支持ext配置;\n当没有站点推荐时默认加载豆瓣热播推荐;", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
-           "UpdateDownloadUrl":"https://github.com/chengxue2020/q215613905-Tbox/releases/download/20230814-2338/TVBox_Frank_20230814-2338_Release.apk" //更新下载地址
+           "UpdateDownloadUrl":"https://github.com/chengxue2020/q215613905-Tbox/releases/download/20230818-2126/TVBox_Frank_20230818-2126_Release.apk" //更新下载地址
     }
 }
