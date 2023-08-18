@@ -28,7 +28,7 @@
     // 更新相关
     "IsForceUpdate":true, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"3.20230818.2200", //最新版本号
+        "NewVersion":"3.20230818.2127", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "再次修正部分图片不加载问题;\n兼容msg(toast消息);\n兼容subs字幕(只取第1个);", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
