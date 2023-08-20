@@ -3,9 +3,9 @@ name: 下载MusicFree
 on:
   schedule:
     - cron: 0 0/4 * * *
-  push:
-    branches:
-      - main
+#  push:
+#    branches:
+#      - main
   workflow_dispatch:
 
 jobs:
