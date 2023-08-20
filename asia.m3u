@@ -337,6 +337,8 @@ http://onlinetv.ktrk.kg:1935/live/myStream3/playlist.m3u8
 https://live2.presstv.ir/live/alam/Playlist.m3u8
 #EXTINF:-1 tvg-id="AlanyaPostaTV.tr" tvg-logo="https://i.imgur.com/a3w9eFe.png" group-title="Undefined",Alanya Posta TV (1080p)
 https://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
+#EXTINF:-1 tvg-id="AlerthAlnabawi.ye" tvg-logo="https://i.imgur.com/LQ1mHvK.png" group-title="Religious",Alerth Alnabawi (576p)
+http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="AlerthAlnabawiChannel.jo" tvg-logo="https://i.imgur.com/iYibJxK.png" group-title="Undefined",Alerth Alnabawi Channel (576p)
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 tvg-id="AlfaSport.cy" tvg-logo="https://i.imgur.com/vhMPYIW.png" group-title="Sports",Alfa Sport (1080p) [Not 24/7]
@@ -357,6 +359,8 @@ https://svs.itworkscdn.net/alimanlive/imantv.smil/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
 #EXTINF:-1 tvg-id="AlltheKPop.kr" tvg-logo="https://i.imgur.com/IFLXi6n.png" group-title="Undefined",All The K-POP (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCPde4guD9yFBRzkxk2PatoA.m3u8
+#EXTINF:-1 tvg-id="AlmahriahTV.ye" tvg-logo="https://i.imgur.com/GgEeTNr.png" group-title="General",Almahriah TV (1080p)
+https://master.starmena-cloud.com/hls/almahriah.m3u8
 #EXTINF:-1 tvg-id="AlphaTVCyprus.cy" tvg-logo="https://i.imgur.com/No45vwk.png" group-title="Undefined",Alpha TV Cyprus (1080p)
 http://l4.cloudskep.com/alphacyp/acy/playlist.m3u8
 #EXTINF:-1 tvg-id="Alqanat9TV.iq" tvg-logo="" group-title="Undefined",Alqanat9 TV (1080p)
@@ -394,8 +398,6 @@ https://alpha.tv.online.tm/hls/ch001.m3u8
 https://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="AlWafaTarim.id" tvg-logo="https://i.ibb.co/3yfMjmf/logo-3.png" group-title="Religious",Alwafa Tarim TV (Am Media) (720p)
 https://ammedia.siar.us/ammedia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="AlyamanShabab.ye" tvg-logo="https://i.imgur.com/SGDMRML.png" group-title="Education",Alyaman Shabab (1080p) [Not 24/7]
-https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 tvg-id="AamarBangla.in" tvg-logo="https://www.jagobd.com/wp-content/uploads/2022/07/Aamar-Bangla.jpg" group-title="Entertainment",Amar Bangla TV (720p) [Not 24/7]
 https://us170.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AmarUjala.in" tvg-logo="https://i.imgur.com/ndQ8LZp.png" group-title="News",Amar Ujala (720p) [Not 24/7]
@@ -727,7 +729,7 @@ https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
 https://live.beitolabbas.tv/live/beitolabbastv.m3u8
 #EXTINF:-1 tvg-id="Beity.sa" tvg-logo="https://i.imgur.com/WyRsj6l.png" group-title="Outdoor",Beity
 http://82.212.74.2:8000/live/7312.m3u8
-#EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-logo="https://i.imgur.com/bNDJlO0.png" group-title="Undefined",Belqees TV (1080p)
+#EXTINF:-1 tvg-id="BelqeesTV.ye" tvg-logo="https://i.imgur.com/bNDJlO0.png" group-title="Undefined",Belqees TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UCxA_zZwALQMmVMSZyLKC-Nw.m3u8
 #EXTINF:-1 tvg-id="BenguturkTV.tr" tvg-logo="https://i.imgur.com/p3ON1oX.png" group-title="Undefined",BENGÜTÜRK TV (720p) [Not 24/7]
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
@@ -872,8 +874,12 @@ http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTN47.ph" tvg-logo="https://i.imgur.com/IFpAmvW.png" group-title="Undefined",CCTN 47 (1080p) [Not 24/7]
 http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
+#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/GXssRTm.png" group-title="Lifestyle",CCTV-女性时尚 (576p)
+http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="CCTVPlus1.cn" tvg-logo="https://i.imgur.com/U8d4Is6.png" group-title="News",CCTV+ 1 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
+https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV1.cn" tvg-logo="https://i.imgur.com/ChfbGqR.png" group-title="General",CCTV-1综合 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
 #EXTINF:-1 tvg-id="CCTV2.cn" tvg-logo="https://i.imgur.com/WODuqGT.png" group-title="Business",CCTV-2财经 (1080p)
@@ -934,12 +940,8 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 tvg-id="CCTV17.cn" tvg-logo="https://i.imgur.com/vOPU9eu.png" group-title="Undefined",CCTV-17农业农村 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
-#EXTINF:-1 tvg-id="CCTVWomensFashion.cn" tvg-logo="https://i.imgur.com/GXssRTm.png" group-title="Lifestyle",CCTV-女性时尚 (576p)
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227026/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",CCTV-老故事 (576p)
 http://223.110.245.145/ott.js.chinamobile.com/PLTV/3/224/3221227043/index.m3u8
-#EXTINF:-1 tvg-id="CCTVPlus2.cn" tvg-logo="https://i.imgur.com/qSg862A.png" group-title="News",CCTV+ 2 (600p) [Not 24/7]
-https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CCV.in" tvg-logo="https://i.imgur.com/4ss0KfA.png" group-title="General",CCV (480p)
 https://5a1178b42cc03.streamlock.net/8212/8212/playlist.m3u8
 #EXTINF:-1 tvg-id="CDNews.in" tvg-logo="https://i.imgur.com/zIXsuC2.png" group-title="News",CD News (576p)
@@ -1525,8 +1527,44 @@ http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 https://ythls.onrender.com/channel/UCd4d3fL-QZPCd9vMiUFhXLQ.m3u8
 #EXTINF:-1 tvg-id="GEM.sg" tvg-logo="https://i.imgur.com/DjI6SS1.png" group-title="Undefined",GEM (576p)
 http://210.210.155.37/uq2663/h/h19/index.m3u8
-#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="Comedy",GEM Comedy (576p) [Not 24/7]
-http://216.66.42.47:7777/GemComedy_HD.m3u8
+#EXTINF:-1 tvg-id="GEMAcademy.ir" tvg-logo="https://i.imgur.com/Zcu2xxN.png" group-title="Movies",GEM Academy (480p)
+https://hd.90minlive.online/live/gemacademy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6MDc6NTMgQU0maGFzaF92YWx1ZT1pQ29wUUEyS1JGTjdRK1F4MUVQT3hRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMBollywood.ir" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Movies",GEM Bollywood (480p)
+https://hd.90minlive.online/live/gemboll/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzc6NTYgQU0maGFzaF92YWx1ZT0vcXgzTDRsLzlkTjZYSVpmRTYwUklnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMClassic.ir" tvg-logo="https://i.imgur.com/25BhuOf.png" group-title="Classic",GEM Classic (480p)
+https://hd.90minlive.online/live/gemclass/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6MDkgQU0maGFzaF92YWx1ZT16VVBQYkFVbm1XOUdrTUVEQzAvOWN3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMComedy.ir" tvg-logo="https://i.imgur.com/FuscfJW.png" group-title="Comedy",GEM Comedy (576p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Comedy/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6MTQ6MDcgQU0maGFzaF92YWx1ZT1WeE1SQWRlT1VTNHFwQWxyU2FhRE9RPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMDrama.ir" tvg-logo="https://i.imgur.com/k2pGyRH.png" group-title="Movies",GEM Drama (480p)
+https://hd.90minlive.online/live/gemdrama/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6MjQgQU0maGFzaF92YWx1ZT1MREI3Y3dqTWdNbEJMVzlUNTFINFN3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMDramaPlus.ir" tvg-logo="https://i.imgur.com/5zPeOJM.png" group-title="Movies",GEM Drama + (1080p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Drama%20Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6MTk6NTkgQU0maGFzaF92YWx1ZT1YRjBWcWV5eDF5d3A1emh1S29udjFRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFilm.ir" tvg-logo="https://i.imgur.com/nrFz3LU.png" group-title="Movies",GEM Film (480p)
+https://hd.90minlive.online/live/gemfilm/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDE6MTkgQU0maGFzaF92YWx1ZT1FNlVXRUl3RFF3YzVsWU1RQ2xnclpnPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFit.ir" tvg-logo="https://i.imgur.com/7FQxaII.png" group-title="Sports",GEM Fit (480p)
+https://hd.90minlive.online/live/gemfit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDA6MzkgQU0maGFzaF92YWx1ZT1BU2lMVkxrSlcyU1dzZGgyVTdNeWxRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMFood.ir" tvg-logo="https://i.imgur.com/SMtSinK.png" group-title="Cooking",GEM Food (480p)
+https://hd.90minlive.online/live/gemfood/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDI6MDIgQU0maGFzaF92YWx1ZT0zbVVOSGdvOVRHeWw1T1JLWWg1QmdBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMJunior.ir" tvg-logo="https://i.imgur.com/jK8yzj2.png" group-title="Kids",GEM Junior (480p)
+https://hd.90minlive.online/live/gemjunior/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6NDQ6NTkgQU0maGFzaF92YWx1ZT1xNFNTaEhadVVTeDJEOG1LUUZzV1lRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMKids.ir" tvg-logo="https://i.imgur.com/ArkjaFk.png" group-title="Kids",GEM Kids (480p)
+https://hd.90minlive.online/live/gemkids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDI6MDAgQU0maGFzaF92YWx1ZT12SzJDcXBxakdKcDB5RDRZVlJvbkl3PT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMLatino.ir" tvg-logo="https://i.imgur.com/yqr7NB4.png" group-title="Undefined",GEM Latino (576p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20LATINO%20TV/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDI6NTYgQU0maGFzaF92YWx1ZT03VzFNNUxoZkVtMHZUYkZlNWQ3cElBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMLife.ir" tvg-logo="https://i.imgur.com/gI8qePa.png" group-title="Undefined",GEM Life (480p)
+https://hd.90minlive.online/live/gemlife/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDM6NTMgQU0maGFzaF92YWx1ZT1SbDNUVUE2UUQybmtDZEFLY3pyVjVBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMNature.ir" tvg-logo="https://i.imgur.com/ENvOMDQ.png" group-title="Documentary",GEM Nature (1080p)
+https://gg.hls2.xyz/live/IR%20-%20Gem%20Nature/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDQ6MzkgQU0maGFzaF92YWx1ZT1KbTl1QW9aN01VYlhlaEJmby9HNmxBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMProperty.ir" tvg-logo="https://i.imgur.com/bgIhE4i.png" group-title="Undefined",GEM Property (576p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Property/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDg6MjIgQU0maGFzaF92YWx1ZT1WSFVQNjJGcSswMHMxR20zdnc4ZzdRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMSeriesPlus.ir" tvg-logo="https://i.imgur.com/uboNGDS.png" group-title="Series",GEM Series + (720p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20Series%20Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6MTA6NTAgQU0maGFzaF92YWx1ZT0yL3B1ZXVQa0JycDVRY2ZOUzJJY09nPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMTravel.ir" tvg-logo="https://i.imgur.com/eQkBb4G.png" group-title="Travel",GEM Travel (480p)
+https://hd.90minlive.online/live/gemtravel/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6Mzk6NTggQU0maGFzaF92YWx1ZT1pZmlSVFJzdllMQzZzaUdQR2VnWUFRPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMTV.ir" tvg-logo="https://i.imgur.com/m7N6L90.png" group-title="Movies",GEM TV (480p)
+https://hd.90minlive.online/live/gemtv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMy8yMDIzIDk6MzY6NTcgQU0maGFzaF92YWx1ZT1HelU5RHVKcThoN3NEOHFMejNIUDlBPT0mdmFsaWRtaW51dGVzPTU=
+#EXTINF:-1 tvg-id="GEMPlus.ir" tvg-logo="https://i.imgur.com/JumxuLy.png" group-title="Undefined",GEM TV + (720p)
+https://gg.hls2.xyz/live/IR%20-%20GEM%20TV%20Plus/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOC8yMDIzIDk6NDc6MDIgQU0maGFzaF92YWx1ZT1Ud3hNNkxJOUd6T3JERnhIb2gwNEpBPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 tvg-id="GeoKahani.pk" tvg-logo="https://i.imgur.com/uKYH0IM.png" group-title="Undefined",Geo Kahani (360p)
 https://jk3lz82elw79-hls-live.5centscdn.com/harPalGeo/955ad3298db330b5ee880c2c9e6f23a0.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GeoNews.pk" tvg-logo="https://i.imgur.com/Op4EsaB.png" group-title="News",Geo News
@@ -2076,7 +2114,7 @@ https://app-etslive-2.vidio.com/live/9714/master.m3u8
 https://app-etslive-2.vidio.com/live/9713/master.m3u8
 #EXTINF:-1 tvg-id="K2.ua" tvg-logo="https://i.imgur.com/DeC10tS.png" group-title="Undefined",K2 [Geo-blocked]
 http://212.28.87.173:8000/play/a10y/index.m3u8
-#EXTINF:-1 tvg-id="K21News.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/K21_News_Logo.jpg/512px-K21_News_Logo.jpg" group-title="News",K21 News
+#EXTINF:-1 tvg-id="K21News.pk" tvg-logo="https://i.imgur.com/7OYSDUm.png" group-title="News",K21 News
 https://streamone.simpaisa.com:8443/pitvlive1/k21.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="KNewsIndia.in" tvg-logo="https://i.imgur.com/LeBL7ML.png" group-title="News",K News India (1080p)
 https://knews.livebox.co.in/youtubehls/live.m3u8
@@ -2303,7 +2341,7 @@ http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/Li
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTV2
 #EXTINF:-1 tvg-id="KTVAlMajlis.kw" tvg-logo="https://i.imgur.com/AVEyGig.png" group-title="Undefined",KTV Al Majlis (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVSportExtra
-#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Undefined",KTV Al Qurain (1080p)
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-logo="https://i.imgur.com/naVEZtj.png" group-title="Undefined",KTV Al Qurain (1080p) [Not 24/7]
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVPlus
 #EXTINF:-1 tvg-id="KTVArabe.kw" tvg-logo="https://i.imgur.com/jg3VAxO.png" group-title="Undefined",KTV Arabe (1080p)
 http://mc-qs.lanesh4d0w.tech/iptv-query?streaming-ip=https://www.media.gov.kw/LiveTV.aspx?PanChannel=KTVArabe
@@ -2373,7 +2411,7 @@ https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 https://ythls.onrender.com/channel/UCisr6Z2C8R2QF-Qh6NOH9cg.m3u8
 #EXTINF:-1 tvg-id="LineTV.tr" tvg-logo="https://i.imgur.com/6GNp7f8.png" group-title="Undefined",Line TV (404p) [Not 24/7]
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV
+#EXTINF:-1 tvg-id="LingkarTV.id" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Music;News;Religious",Lingkar TV (1080p)
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Lite FM (720p) [Not 24/7]
 https://ythls.onrender.com/channel/UCzDknC7OXx6l9eEsgugjU2w.m3u8
@@ -3671,6 +3709,8 @@ https://ythls.onrender.com/channel/UCOulx_rep5O4i9y6AyDqVvw.m3u8
 https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec02/index.m3u8
 #EXTINF:-1 tvg-id="SpedaTV.iq" tvg-logo="https://i.imgur.com/va3TVSd.jpg" group-title="Undefined",Speda TV (720p)
 https://speda.dwasat.com/upload/images/spedahd.m3u8
+#EXTINF:-1 tvg-id="SPILebanon.lb" tvg-logo="https://spilebanon.com/img/spi-logo.jpg" group-title="News",SPI Lebanon (720p)
+http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="QuranTV.iq" tvg-logo="https://i.ibb.co/qjsV044/IMG-20230628-141804.jpg" group-title="Religious",SPI Quran (720p)
 https://cdn1.karwan.tv/spi-quran/index.m3u8
 #EXTINF:-1 tvg-id="SPITV.iq" tvg-logo="https://i.ibb.co/sjQMzjf/IMG-20230628-141212.jpg" group-title="Undefined",SPI TV (720p)
@@ -4390,7 +4430,7 @@ https://hls.media.nic.in/hls/live/vyas/vyas.m3u8
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
 #EXTINF:-1 tvg-id="WaarTV.iq" tvg-logo="https://i.imgur.com/rK0y02d.png" group-title="Undefined",Waar TV (720p)
 https://ikomg4.s.llnwi.net/waarhd/waar-hd.m3u8
-#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="General",Watan-e-Maa TV (720p)
+#EXTINF:-1 tvg-id="WataneMaaTV.ca" tvg-logo="https://i.ibb.co/1rDrKJG/Watan-E-Maa-Tv-Logo-300-Dpi.png" group-title="General",WATAN-E-MAA
 https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 tvg-id="WatarTV.ps" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/71/Nothing_whitespace_blank.png" group-title="Undefined",Watar TV (720p) [Not 24/7]
 http://htvint.mada.ps:8889/orient/index.m3u8
@@ -4435,6 +4475,10 @@ https://ythls.onrender.com/channel/UC9OpmkDt-iR0sNAL29_zPJw.m3u8
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Yaslyk.tm" tvg-logo="https://turkmentv.gov.tm/assets/img/live-imgs/yaslyk.png" group-title="Undefined",Ýaşlyk (406p) [Not 24/7]
 https://alpha.tv.online.tm/hls/ch002.m3u8
+#EXTINF:-1 tvg-id="YemenShababChannel.ye" tvg-logo="https://i.imgur.com/WIGCR3s.png" group-title="Undefined",Yemen Shabab Channel (1080p) [Not 24/7]
+https://master.starmena-cloud.com/hls/yemenshabab.m3u8
+#EXTINF:-1 tvg-id="YemenTodayTV.ye" tvg-logo="https://i.imgur.com/8TzcJu5.png" group-title="Undefined",Yemen Today TV (480p)
+https://video.yementdy.tv/hls/yementoday.m3u8
 #EXTINF:-1 tvg-id="YenBaiTV.vn" tvg-logo="https://i.imgur.com/BwZRL7P.png" group-title="Undefined",Yen Bai TV (1080p)
 https://yenbaitv.org.vn/hls/livestream.m3u8
 #EXTINF:-1 tvg-id="YoganadamNews.in" tvg-logo="https://i.imgur.com/y3UoKhx.png" group-title="News",Yoganadam News (720p)
