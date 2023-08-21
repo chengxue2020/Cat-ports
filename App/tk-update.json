@@ -2,11 +2,11 @@
   "Code": 0,
   "Msg": "更新出错，请到官方主页重新下载程序",
   "UpdateStatus": 1,
-  "VersionCode": 230818,
-  "VersionName": "3.20230818.1150",
-  "UploadTime": "2023-08-18 11:50:00",
-  "ModifyContent": "\r\修正第一个站点设置为隐藏时还是会显示出来,避免打开站点列表崩溃\r\n2、其他",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20230818-2136/TVBox_takagen99_20230818-2136_Release.apk",
+  "VersionCode": 230821,
+  "VersionName": "3.20230821.0055",
+  "UploadTime": "2023-08-21 00:55:00",
+  "ModifyContent": "1、Revert 紧急修复闪退，部分视频原先能看变成不能看待修复\r\nThis reverts commit fc3652920d2c60197822760e8d894c0554bcc804.\r\n2、Revert  安卓9及以下支持TLSv1.3，部分站点只开启了TLSv1.3\r\nThis reverts commit 5608c21b596001d5072fc5be684bbb170faf2520.",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20230821-2046/TVBox_takagen99_20230821-2046_Release.apk",
   "ApkSize": 28618,
-  "ApkMd5": "D5131B6F159D326B42ACF5D0A94260C9"
+  "ApkMd5": "8BD90BA2801CF88630F8816307629952"
 }

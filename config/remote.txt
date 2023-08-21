@@ -31,7 +31,7 @@
         "NewVersion":"3.20230818.2127", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
-           "再次修正部分图片不加载问题;\n兼容msg(toast消息);\n兼容subs字幕(只取第1个);", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
+           "T4 ext兼容本地json文件;\n修正蜂蜜bili闪退;\nexo兼容dash;\n聚搜模式逻辑调整;\n修正字幕加载bug;\n修正上一版返回bug", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
            "UpdateDownloadUrl":"https://github.com/chengxue2020/q215613905-Tbox/releases/download/20230818-2126/TVBox_Frank_20230818-2126_Release.apk" //更新下载地址
     }
 }
