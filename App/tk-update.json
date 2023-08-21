@@ -1,12 +1,12 @@
 {
-  "Code": 0,
-  "Msg": "更新出错，请到官方主页重新下载程序",
-  "UpdateStatus": 1,
+  "Code": 0,				//0代表请求成功，非0代表失败
+  "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
+  "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "VersionCode": 230821,
-  "VersionName": "3.20230821.0055",
+  "VersionName": "3.20230821.0055",						//版本的展示名称
   "UploadTime": "2023-08-21 00:55:00",
   "ModifyContent": "1、Revert 紧急修复闪退，部分视频原先能看变成不能看待修复\r\nThis reverts commit fc3652920d2c60197822760e8d894c0554bcc804.\r\n2、Revert  安卓9及以下支持TLSv1.3，部分站点只开启了TLSv1.3\r\nThis reverts commit 5608c21b596001d5072fc5be684bbb170faf2520.",
   "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20230821-2046/TVBox_takagen99_20230821-2046_Release.apk",
   "ApkSize": 28618,
-  "ApkMd5": "8BD90BA2801CF88630F8816307629952"
+  "ApkMd5": "8BD90BA2801CF88630F8816307629952"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
