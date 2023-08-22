@@ -28,7 +28,7 @@
     // 更新相关
     "IsForceUpdate":true, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"20230823.0039", //最新版本号
+        "NewVersion":"20230823.0041", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "T4 ext兼容本地json文件;\n修正蜂蜜bili闪退;\nexo兼容dash;\n聚搜模式逻辑调整;\n修正字幕加载bug;\n修正上一版返回bug", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
