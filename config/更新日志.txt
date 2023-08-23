@@ -1,4 +1,13 @@
 ﻿TVBox_3.0
+=====================
+20230823.1401
+解决合并打包异常
+补充修复json聚合并发轮询引起的闪退bug
+merge by zhixc
+merge by 670637080
+Update PlayFragment.java
+Update PlayActivity.java
+
 
 20230822.1119
 merge by watson
