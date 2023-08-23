@@ -650,6 +650,22 @@
         "epg": "https://epg.112114.xyz/"
       },
       {
+        "id": 3,
+        "name": "肥羊精选",
+        "url": "https://telegram-feiyangdigital.v1.mk",
+        "isActive": true,
+        "type": "remote",
+        "epg": ""
+      },
+      {
+        "id": 4,
+        "name": "凤凰资讯",
+        "url": "https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8",
+        "isActive": true,
+        "type": "remote",
+        "epg": ""
+      },
+      {
         "id": 5,
         "name": "茶客",
         "url": "https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U",
@@ -660,7 +676,7 @@
       {
         "id": 6,
         "name": "CQYX",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/cqyx.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u",
         "isActive": false,
         "type": "remote",
         "epg": ""
@@ -676,7 +692,7 @@
       {
         "id": 8,
         "name": "4k/8k",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/IPTV.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
         "isActive": true,
         "type": "remote",
         "epg": ""
@@ -700,7 +716,7 @@
       {
         "id": 11,
         "name": "爱尚",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV-URL/main/aishang.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u",
         "isActive": false,
         "type": "remote",
         "epg": ""
@@ -764,7 +780,7 @@
       {
         "id": 19,
         "name": "IPV6专用",
-        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u",
+        "url": "https://ghproxy.com/https://raw.githubusercontent.com/YueChan/IPTV/main/IPTV.m3u",
         "type": "remote",
         "epg": "http://epg.112114.xyz",
         "isActive": true
