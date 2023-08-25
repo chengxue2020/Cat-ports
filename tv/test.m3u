@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-MEDIA:TYPE=VIDEO,GROUP-ID="subs",NAME="VIDEO",DEFAULT=YES,AUTOSELECT=NO,FORCED=YES,LANGUAGE="ch",URI="http://cdn.adultiptv.net/bigass.m3u8"
+
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://cdn.adultiptv.net/blowjob.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=7680000
+http://cdn.adultiptv.net/latina.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=65000
+http://cdn.adultiptv.net/fetish.m3u8
