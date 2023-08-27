@@ -20,21 +20,21 @@ jobs:
 
       - name: Download asia.m3u
         run: |
-          curl https://iptv-org.github.io/iptv/regions/asia.m3u > asia.m3u
+          curl https://iptv-org.github.io/iptv/regions/asia.m3u > tv/asia.m3u
           # 更新时间
-          sed -i "/asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./asia.m3u
+          sed -i "/asia.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv/asia.m3u
 
       - name: Download country.m3u
         run: |
-          curl https://iptv-org.github.io/iptv/index.country.m3u > country.m3u
+          curl https://iptv-org.github.io/iptv/index.country.m3u > tv/country.m3u
           # 更新时间
-          sed -i "/country.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./country.m3u
+          sed -i "/country.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv/country.m3u
 
       - name: Download chinese.m3u
         run: |
           curl https://iptv-org.github.io/iptv/languages/zho.m3u > chinese.m3u
           # 更新时间
-          sed -i "/chinese.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./chinese.m3u
+          sed -i "/chinese.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv/chinese.m3u
           
       - name: Commit And Push
         run: |
