@@ -28,7 +28,7 @@
     // 更新相关
     "IsForceUpdate":false, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"2023.0830.1358", //最新版本号
+        "NewVersion":"2023.0830.1759", //最新版本号
         "ForceUpdate":false, //是否强制更新
         "UpdateDesc":       //更新描述
            "ijk内置字幕有中文取中文没中文取第一个; \n解决内置字幕不消失的问题; \n修磁力不完全解析的问题", // \n\n\n所有更新记录:https://chengxue2020.github.io/Cat-ports/config/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
