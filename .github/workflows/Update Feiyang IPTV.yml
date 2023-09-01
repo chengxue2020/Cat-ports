@@ -3,7 +3,8 @@ name: 更新 肥羊 IPTV
 on:
   schedule:
     - cron: 0 0/4 * * *
-
+  workflow_dispatch:
+  
 env:
   TZ: Asia/Shanghai
 
