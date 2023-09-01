@@ -20,7 +20,7 @@ jobs:
 
       - name: Download
         run: |
-          curl https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json > MusicFree/MusicFree.json
+          curl https://gitee.com/maotoumao/MusicFreePlugins/raw/master/plugins.json > ./MusicFree/MusicFree.json
           # 更新时间
           sed -i "/MusicFree.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./MusicFree/MusicFree.json
 

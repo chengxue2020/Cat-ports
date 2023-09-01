@@ -20,9 +20,9 @@ jobs:
 
       - name: 更新 FongMi.json
         run: |
-          curl https://iptvindex.com/tv.txt > tv.txt
+          curl https://iptvindex.com/tv.txt > ./tv/tv.txt
           # 更新时间
-          sed -i "tv.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv.txt
+          sed -i "tv.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv/tv.txt
 
       - name: Commit And Push
         run: |
