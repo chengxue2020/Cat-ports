@@ -32,7 +32,7 @@ jobs:
 
       - name: Download chinese.m3u
         run: |
-          curl https://iptv-org.github.io/iptv/languages/zho.m3u > ./chinese.m3u
+          curl https://iptv-org.github.io/iptv/languages/zho.m3u > ./tv/chinese.m3u
           # 更新时间
           sed -i "/chinese.m3u/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./tv/chinese.m3u
           
