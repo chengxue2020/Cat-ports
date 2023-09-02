@@ -1,5 +1,16 @@
 ﻿TVBox_3.0
 =====================
+2023.0902.0114
+Credit: #q215613905
+Commit: 8b63bf8958d16626ca28e1695eecfa8de22e7628
+Changelog:
+修正一些bug;优化图片加载;(可能是最后一版对4.4以下的支持)
+Revert "Js (#1)"
+This reverts commit 86893e4f2a4c084c67d506b2e0ef88822ddd8da8.
+Revert "Update build.gradle"
+This reverts commit 2ac956396c937c58d5e26e29e2345800deaddb3f.
+
+
 20230830.1358
 update quickjs merge by waston
 Update build.gradle
