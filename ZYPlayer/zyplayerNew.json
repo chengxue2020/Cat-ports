@@ -1,0 +1,252 @@
+{
+  "sites": [
+    {
+      "key": "lziapi",
+      "name": "量子资源(切)",
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "jiexiUrl": "",
+      "group": "影视",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "search": 1,
+      "resource": 68370,
+      "id": 1
+    },
+    {
+      "key": "lziapi",
+      "name": "量子资源",
+      "api": "https://cj.lziapi.com/api.php/provide/vod/from/liangzi/",
+      "jiexiUrl": "",
+      "group": "影视",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "search": 1,
+      "resource": 68370,
+      "id": 2
+    },
+    {
+      "key": "tiankongapi",
+      "name": "天空资源",
+      "api": "https://api.tiankongapi.com/api.php/provide/vod//from/tkm3u8",
+      "jiexiUrl": "",
+      "group": "影视",
+      "isActive": true,
+      "status": true,
+      "type": 1,
+      "search": 1,
+      "resource": 50297,
+      "id": 3
+    },
+    {
+      "key": "非凡资源",
+      "name": "非凡资源",
+      "api": "http://www.ffzy.tv/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "https://ffzyplayer.com/?url=",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 58344,
+      "id": 4
+    },
+   
+    {
+      "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
+      "name": "Ikun资源",
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 46475,
+      "id": 11
+    },
+    {
+      "key": "apiyhzy",
+      "name": "樱花动漫",
+      "api": "https://m3u8.apiyhzy.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 80089,
+      "id": 12
+    },
+   
+    {
+      "key": "0cd0e64a-3efd-5cb1-9ef2-70e94998d8fe",
+      "name": "无尽资源",
+      "api": "https://api.wujinapi.me/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 53172,
+      "id": 14
+    },
+    {
+      "key": "fa4c35d5-2efe-5b1d-b8c8-0143c3a34c88",
+      "name": "红牛资源",
+      "api": "https://www.hongniuzy2.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 45007,
+      "id": 15
+    },
+  
+    {
+      "key": "闪电资源",
+      "name": "闪电资源",
+      "api": "http://sdzyapi.com/api.php/provide/vod/",
+      "download": "",
+      "jiexiUrl": "",
+      "group": "影视",
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "search": 1,
+      "resource": 35453,
+      "id": 19
+    },
+ 
+    {
+      "key": "CK资源",
+      "name": "CK资源",
+      "api": "https://ckzy.me/api.php/provide/vod/at/xml",
+      "jiexiUrl": "",
+      "group": "影视",
+      "isActive": true,
+      "status": true,
+      "reverseOrder": false,
+      "search": 1,
+      "type": 0,
+      "resource": 16156,
+      "id": 21
+    },
+   
+    {
+      "key": "fdbcf25a-e052-56e8-9642-571179c8dc04",
+      "name": "非凡┃资源",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "download": "",
+      "playUrl": "",
+      "group": "影视",
+      "search": 1,
+      "status": true,
+      "isActive": true,
+      "type": 1,
+      "resource": 58344,
+      "id": 27
+    },
+   
+   
+    {
+      "key": "bajiecaiji",
+      "name": "八戒采集",
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
+      "jiexiUrl": "",
+      "group": "影视",
+      "isActive": true,
+      "status": true,
+      "reverseOrder": false,
+      "type": 0,
+      "search": 1,
+      "resource": 54082,
+      "id": 33
+    },
+   
+    {
+      "key": "sLF8yB",
+      "name": "最大资源",
+      "api": "https://api.zuidapi.com/api.php/provide/vod/at/xml",
+      "playUrl": "",
+      "group": "默认",
+      "search": 1,
+      "status": true,
+      "isActive": true,
+      "type": 0,
+      "id": 50,
+      "isActive": true,
+      "resource": 33335
+    }
+   
+  ],
+  "iptv": [
+    
+    {
+      "name": "肥猫",
+      "url": "https://pan.shangui.cc/f/y7lAFK/feimao.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": 3
+    },
+    
+    {
+      "name": "荷城茶秀",
+      "url": "https://pan.shangui.cc/f/RnbvTz/hechengchaxiu.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": 5
+    },
+    {
+      "name": "饭太硬",
+      "url": "https://pan.shangui.cc/f/G8Gwtz/fantaiying.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": 6
+    },
+    {
+      "name": "爱尚",
+      "url": "https://pan.shangui.cc/f/BpG5Sp/aishang.txt",
+      "epg": "",
+      "type": "remote",
+      "isActive": true,
+      "id": 7
+    },
+   
+    {
+      "id": 22,
+      "name": "俊于直播",
+      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "type": "remote",
+      "epg": "http://epg.112114.xyz",
+      "isActive": true
+    }
+  ],
+  "analyze": [
+    {
+      "name": "纯净",
+      "url": "https://im1907.top/?jx=",
+      "isActive": true,
+      "id": 1
+    },
+    
+    {
+      "name": "yt",
+      "url": "https://jx.yangtu.top/?url=",
+      "isActive": true,
+      "id": 13
+    }
+  ]
+}
