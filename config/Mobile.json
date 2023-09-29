@@ -1,0 +1,8 @@
+{
+    "update" : "Yes",
+    "version_code": 2,
+    "new_version": "0.2",
+    "update_log": "测试",
+    "apk_file_url": "https://github.com/chengxue2020-org/TVBoxOS-Verti/releases/download/20230929-1624/TVBoxOS-Mobile_20230929-1624_Release.apk",
+    "constraint": false
+  }
