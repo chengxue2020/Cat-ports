@@ -40,14 +40,6 @@
       "ext": "https://fongmi.cachefly.net/FongMi/CatVodSpider/main/json/duboku.json"
     },
     {
-      "key": "布雷",
-      "name": "布雷",
-      "type": 3,
-      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/bulei_open.js",
-      "searchable": 1,
-      "changeable": 1
-    },
-    {
       "key": "廠長",
       "name": "廠長",
       "type": 3,
@@ -60,6 +52,14 @@
       "name": "快看",
       "type": 3,
       "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js",
+      "searchable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "五五",
+      "name": "五五",
+      "type": 3,
+      "api": "https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/555dy_open.js",
       "searchable": 1,
       "changeable": 1
     },
@@ -381,6 +381,15 @@
       ],
       "regex": [
         "is_play_url="
+      ]
+    },
+    {
+      "name": "農民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
       ]
     }
   ]
