@@ -1,9 +1,11 @@
 {
 "urls":[
+{"url":"https://bestpvp.github.io/tm/source/stable/master_stable.json","name":"时光机稳定版"},
+{"url":"https://bestpvp.github.io/tm/source/nightly/master_nightly.json","name":"时光机每日更新版"},
 {"url":"http://159.75.9.236/tv/ymza.json","name":"家庭影院"},
 {"url":"http://52bsj.vip:98/wuai","name":"🍃吾爱"},
 {"url":"http://am.adianshi.com:9805/.aming/TVBOX/tvbox.json","name":"阿明"},
-{"url":"https://codeberg.org/chenlong622/LIVE/raw/branch/main/long.json","name":"未知"},
+{"url":"https://codeberg.org/chenlong622/LIVE/raw/branch/main/long.json","name":"chenlong622"},
 {"url":"http://home.jundie.top:81/top98.json","name":"🍀俊宇"},
 {"url":"http://pandown.pro/tvbox/tvbox.json","name":"💦巧技"},
 {"url":"http://tt.58cxz.com/001.json","name":"爱TV"},
@@ -69,6 +71,7 @@
 {"url":"http://xuameng.vicp.net:8082/tvbox/1/xu.json","name":"阿里"},
 {"url":"http://xzam.cn/tv","name":"xuameng"},
 {"url":"http://xxxoo.shop/","name":"xxxoo.shop"},
+{"url":"https://ghproxy.com/https://raw.githubusercontent.com/swbqm/dybz/main/dybz.json","name":"大眼影院"},
 {"url":"https://神器每日推送.tk/pz.json","name":"📿神器"}
 ]
 }
