@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 231013,
-  "VersionName": "3.20231013.2112",						//版本的展示名称
-  "UploadTime": "2023-10-13 21:12:00",
-  "ModifyContent": "1、update quickjs.\r\n2、增加部分站点一集分两段mp4的支持，代码里写死该站点的嗅探逻辑\r\n3、嗅探使用okhttp后，忘记添加缓存机制，加入缓存机制以提升嗅深速度\r\n4、quickjs lib include arm64-v8a now, add it to build type.",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231013-2343/TVBox_takagen99_20231013-2343_Release.apk",
-  "ApkSize": 41025,
-  "ApkMd5": "325E31C50AE7B6281F5B34CD5C416297"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 231018,
+  "VersionName": "3.20231018.2103",						//版本的展示名称
+  "UploadTime": "2023-10-18 21:03:00",
+  "ModifyContent": "1、20231018-2103\r\n2、...",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231018-2254/TVBox_takagen99_20231018-2254_Release.apk",
+  "ApkSize": 41029,
+  "ApkMd5": "3EDF05B75654F349F143CC5E4F977C36"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
