@@ -25,6 +25,7 @@ var rule = {
         'User-Agent':'MOBILE_UA'
     },
     timeout:5000,
+    cate_exclude:'主播解说①',
     play_parse:true,
     lazy:'',
     limit:6,

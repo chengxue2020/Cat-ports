@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 231023,
-  "VersionName": "3.20231023.1340",						//版本的展示名称
-  "UploadTime": "2023-10-23 13:40:00",
-  "ModifyContent": "1、增加启动时直接进直播的开关\r\n2、...",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231023-2253/TVBox_takagen99_20231023-2253_Release.apk",
+  "VersionCode": 231028,
+  "VersionName": "3.20231028.1135",						//版本的展示名称
+  "UploadTime": "2023-10-28 11:35:00",
+  "ModifyContent": "1、tls\r\n",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231029-2130/TVBox_takagen99_20231029-2130_Release.apk",
   "ApkSize": 41029,
-  "ApkMd5": "AD618BC71B4221254C53BA146D497B4F"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "27C85D4FC7A515D4A1B74CFE5075B8EA"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
