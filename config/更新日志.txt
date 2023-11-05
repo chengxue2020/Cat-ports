@@ -1,5 +1,20 @@
 ﻿TVBox_3.0
 =====================
+20231105.0923
+Credit: #q215613905
+Commit: a545c27b99b6d6d9e54196b8a0adcf3b56a97ddf
+Changelog:
+代码回退
+
+
+20231013.1626
+Credit: #q215613905
+Commit: 59a5d9f8a13c7a20ccbfa958a1c2e5960290fa54
+Changelog:
+update quickjs.
+
+
+
 2023.0902.0114
 Credit: #q215613905
 Commit: 8b63bf8958d16626ca28e1695eecfa8de22e7628
