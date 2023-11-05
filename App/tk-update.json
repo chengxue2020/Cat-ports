@@ -5,7 +5,7 @@
   "VersionCode": 231105,
   "VersionName": "3.20231105.1157",						//版本的展示名称
   "UploadTime": "2023-11-05 11:57:00",
-  "ModifyContent": "1、修复web嗅探解析错误\r\n",
+  "ModifyContent": "1、二级页阿里链接自动跳转\r\n",
   "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231105-1936/TVBox_takagen99_20231105-1936_Release.apk",
   "ApkSize": 22953,
   "ApkMd5": "1DE278E0D4094114E78450AFDDC4D587"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
