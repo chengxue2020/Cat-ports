@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 231129,
-  "VersionName": "3.20231129.1815",						//版本的展示名称
-  "UploadTime": "2023-11-29 18:15:00",
+  "VersionCode": 231130,
+  "VersionName": "3.20231130.1313",						//版本的展示名称
+  "UploadTime": "2023-11-30 13:13:00",
   "ModifyContent": "1、解决自定义爬虫分类、详情方法调用时抛出异常导致软件无限转圈圈的问题\r\n",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20231130-1313/TVBox_takagen99_20231130-1313_Release.apk",
+  "DownloadUrl": "https://mirror.ghproxy.com/https://github.com/chengxue2020/takagen99/releases/download/20231130-1313/TVBox_takagen99_20231130-1313_Release.apk",
   "ApkSize": 23107,
   "ApkMd5": "C06DB51D4B90E5CFCDB49A65245DEB89"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
