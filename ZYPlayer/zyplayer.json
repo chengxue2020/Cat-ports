@@ -4696,7 +4696,9 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 2
+      "id": 2,
+      "isActive": true,
+      "resource": 57820
     },
     {
       "key": "wolongzyw",
@@ -4709,7 +4711,7 @@
       "type": 1,
       "id": 3,
       "isActive": true,
-      "resource": 65188
+      "resource": 64159
     },
     {
       "key": "6Uzy",
@@ -4733,7 +4735,7 @@
       "type": 1,
       "id": 5,
       "isActive": true,
-      "resource": 75607
+      "resource": 70865
     },
     {
       "key": "foxzyapi",
@@ -4755,7 +4757,9 @@
       "group": "切片",
       "status": false,
       "type": 1,
-      "id": 7
+      "id": 7,
+      "isActive": true,
+      "resource": 94918
     },
     {
       "key": "kuaibozy",
@@ -4779,7 +4783,7 @@
       "type": 1,
       "id": 9,
       "isActive": true,
-      "resource": 45213
+      "resource": 43274
     },
     {
       "key": "tomziyuan",
@@ -4800,8 +4804,10 @@
       "search": 1,
       "group": "切片",
       "status": true,
+      "isActive": true,
       "type": 1,
-      "id": 11
+      "id": 11,
+      "resource": 67965
     },
     {
       "key": "kudianzy",
@@ -4836,7 +4842,7 @@
       "type": 1,
       "id": 14,
       "isActive": true,
-      "resource": 48942
+      "resource": 46076
     },
     {
       "key": "快车资源",
@@ -4849,7 +4855,7 @@
       "type": 1,
       "id": 15,
       "isActive": true,
-      "resource": 32427
+      "resource": 30480
     },
     {
       "key": "yulecj",
@@ -4869,9 +4875,11 @@
       "playUrl": "",
       "search": 1,
       "group": "切片",
+      "isActive": true,
       "status": true,
       "type": 1,
-      "id": 17
+      "id": 17,
+      "resource": 36095
     },
     {
       "key": "yparse",
@@ -4884,7 +4892,7 @@
       "type": 1,
       "id": 18,
       "isActive": true,
-      "resource": 178984
+      "resource": 172016
     },
     {
       "key": "ckzy",
@@ -4895,7 +4903,9 @@
       "group": "切片",
       "status": false,
       "type": 1,
-      "id": 19
+      "id": 19,
+      "isActive": true,
+      "resource": 16420
     },
     {
       "key": "guangsuapi",
@@ -4908,7 +4918,7 @@
       "type": 1,
       "id": 20,
       "isActive": true,
-      "resource": 49167
+      "resource": 46307
     },
     {
       "key": "jyzyapi",
@@ -4921,7 +4931,7 @@
       "type": 1,
       "id": 21,
       "isActive": true,
-      "resource": 48914
+      "resource": 46055
     },
     {
       "key": "tiankongapi",
@@ -4932,9 +4942,7 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 22,
-      "isActive": true,
-      "resource": 54970
+      "id": 22
     },
     {
       "key": "feisuzy",
@@ -4947,7 +4955,7 @@
       "status": false,
       "type": 1,
       "id": 23,
-      "resource": 54598
+      "resource": 51977
     },
     {
       "key": "ylzy1",
@@ -4993,7 +5001,7 @@
       "isActive": true,
       "type": 1,
       "id": 27,
-      "resource": 61764
+      "resource": 59649
     },
     {
       "key": "9fbbb48c-d822-55ed-baee-40964804d8a9",
@@ -5006,7 +5014,7 @@
       "type": 1,
       "id": 28,
       "isActive": true,
-      "resource": 47725
+      "resource": 46905
     },
     {
       "key": "apiyhzy",
@@ -5019,7 +5027,7 @@
       "type": 1,
       "id": 29,
       "isActive": true,
-      "resource": 96615
+      "resource": 95810
     },
     {
       "key": "rrvipw",
@@ -5030,7 +5038,9 @@
       "group": "切片",
       "status": false,
       "type": 1,
-      "id": 30
+      "id": 30,
+      "isActive": true,
+      "resource": 104461
     },
     {
       "key": "1080zyku",
@@ -5043,7 +5053,7 @@
       "type": 1,
       "id": 31,
       "isActive": true,
-      "resource": 48916
+      "resource": 46238
     },
     {
       "key": "ukuapi",
@@ -5056,7 +5066,7 @@
       "type": 1,
       "id": 32,
       "isActive": true,
-      "resource": 34834
+      "resource": 34131
     },
     {
       "key": "vodimg",
@@ -5067,7 +5077,9 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 33
+      "id": 33,
+      "isActive": true,
+      "resource": 166232
     },
     {
       "key": "无尽资源",
@@ -5080,7 +5092,7 @@
       "isActive": true,
       "type": 1,
       "id": 34,
-      "resource": 56329
+      "resource": 55042
     },
     {
       "key": "南国资源",
@@ -5101,8 +5113,10 @@
       "search": 1,
       "group": "官采",
       "status": true,
+      "isActive": true,
       "type": 1,
-      "id": 36
+      "id": 36,
+      "resource": 64390
     },
     {
       "key": "映迷影院",
@@ -5113,9 +5127,7 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 37,
-      "isActive": true,
-      "resource": 70585
+      "id": 37
     },
     {
       "key": "1080资源",
@@ -5137,7 +5149,9 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 39
+      "id": 39,
+      "isActive": true,
+      "resource": 3915
     },
     {
       "key": "忆梦资源",
@@ -5150,7 +5164,7 @@
       "type": 1,
       "id": 40,
       "isActive": true,
-      "resource": 25265
+      "resource": 7276
     },
     {
       "key": "TOM资源",
@@ -5172,9 +5186,7 @@
       "group": "切片",
       "status": true,
       "type": 1,
-      "id": 42,
-      "isActive": true,
-      "resource": 48723
+      "id": 42
     },
     {
       "key": "77韩剧",
@@ -5240,7 +5252,9 @@
       "group": "app",
       "status": false,
       "type": 3,
-      "id": 48
+      "id": 48,
+      "isActive": true,
+      "resource": 9999
     },
     {
       "key": "realdou",
@@ -5286,7 +5300,9 @@
       "group": "app",
       "status": true,
       "type": 4,
-      "id": 52
+      "id": 52,
+      "isActive": true,
+      "resource": 60826
     },
     {
       "key": "sc1080",
@@ -5343,9 +5359,7 @@
       "group": "app",
       "status": true,
       "type": 4,
-      "id": 57,
-      "isActive": true,
-      "resource": 10321
+      "id": 57
     },
     {
       "key": "ishen520",
@@ -5366,7 +5380,7 @@
       "status": true,
       "isActive": true,
       "type": 1,
-      "resource": 61765,
+      "resource": 59650,
       "id": 59,
       "search": 1,
       "playUrl": ""
@@ -5380,9 +5394,7 @@
       "type": 1,
       "id": 60,
       "search": 1,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 54753
+      "playUrl": ""
     },
     {
       "key": "速播",
@@ -5393,9 +5405,7 @@
       "type": 1,
       "search": 1,
       "id": 61,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 47689
+      "playUrl": ""
     },
     {
       "key": "葡萄资源",
@@ -5439,7 +5449,9 @@
       "search": 2,
       "type": 0,
       "id": 65,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 92454
     },
     {
       "key": "乐播",
@@ -5450,9 +5462,7 @@
       "search": 2,
       "type": 0,
       "id": 66,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 150067
+      "playUrl": ""
     },
     {
       "key": "哥哥妹妹",
@@ -5463,9 +5473,7 @@
       "status": true,
       "search": 2,
       "id": 67,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 21335
+      "playUrl": ""
     },
     {
       "key": "shayu",
@@ -5498,7 +5506,9 @@
       "type": 0,
       "search": 2,
       "id": 70,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 68463
     },
     {
       "key": "点点娱乐",
@@ -5566,7 +5576,7 @@
       "id": 76,
       "playUrl": "",
       "isActive": true,
-      "resource": 149569
+      "resource": 137672
     },
     {
       "key": "花魁",
@@ -5577,7 +5587,9 @@
       "search": 2,
       "type": 1,
       "id": 77,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 68893
     },
     {
       "key": "大MM资源",
@@ -5610,7 +5622,9 @@
       "type": 0,
       "search": 1,
       "id": 80,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 34359
     },
     {
       "key": "656b916e-94fe-5b57-b300-80ccc1be1cea",
@@ -5621,7 +5635,9 @@
       "search": 2,
       "status": false,
       "type": 1,
-      "id": 81
+      "id": 81,
+      "isActive": true,
+      "resource": 91985
     },
     {
       "key": "cee0fca9-1808-5017-9a69-0d9013f95b47",
@@ -5667,7 +5683,7 @@
       "type": 1,
       "id": 85,
       "isActive": true,
-      "resource": 52882
+      "resource": 47213
     },
     {
       "key": "a93050f8-e282-521d-9c92-cdbbf5add205",
@@ -5713,7 +5729,7 @@
       "type": 1,
       "id": 89,
       "isActive": true,
-      "resource": 18543
+      "resource": 15744
     },
     {
       "key": "a5a4498a-04ae-5267-b11c-a68eb32ff1e8",
@@ -5724,9 +5740,7 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 90,
-      "isActive": true,
-      "resource": 47097
+      "id": 90
     },
     {
       "key": "a4d8e39c-5981-5c07-84f8-19ab9839e160",
@@ -5748,9 +5762,7 @@
       "search": 1,
       "status": true,
       "type": 1,
-      "id": 92,
-      "isActive": true,
-      "resource": 21129
+      "id": 92
     },
     {
       "key": "ffc08730-71ad-56b8-a153-e2e563e6d64c",
@@ -5761,9 +5773,7 @@
       "search": 2,
       "status": true,
       "type": 1,
-      "id": 93,
-      "isActive": true,
-      "resource": 44553
+      "id": 93
     },
     {
       "key": "b4c96d80-854d-527e-b6d8-cc9e21960eeb",
@@ -5787,7 +5797,7 @@
       "type": 1,
       "id": 95,
       "isActive": true,
-      "resource": 62345
+      "resource": 75632
     },
     {
       "key": "f4d594ec-8a57-5e48-8ab6-d5ba4a64615c",
@@ -5809,7 +5819,9 @@
       "search": 1,
       "status": false,
       "type": 1,
-      "id": 97
+      "id": 97,
+      "isActive": true,
+      "resource": 37026
     },
     {
       "key": "b8b48f6e-9e96-5619-96ba-d884ef9cb442",
@@ -5820,9 +5832,7 @@
       "search": 2,
       "status": false,
       "type": 1,
-      "id": 98,
-      "isActive": true,
-      "resource": 86306
+      "id": 98
     },
     {
       "key": "f951be46-17fa-5f4f-9f41-ff25d21e8d74",
@@ -5833,9 +5843,7 @@
       "search": 2,
       "status": true,
       "type": 0,
-      "id": 99,
-      "isActive": true,
-      "resource": 17664
+      "id": 99
     },
     {
       "key": "54658e47-58bb-5221-bec2-82b8a3be2ec4",
@@ -5846,9 +5854,7 @@
       "search": 2,
       "status": true,
       "type": 0,
-      "id": 100,
-      "isActive": true,
-      "resource": 16428
+      "id": 100
     },
     {
       "key": "f951be46-17fa-5f4f-9f41-ff25d21e8d74",
@@ -5859,9 +5865,7 @@
       "search": 2,
       "status": true,
       "type": 0,
-      "id": 101,
-      "isActive": true,
-      "resource": 17664
+      "id": 101
     },
     {
       "key": "cfa8e308-0120-5e43-a937-eebb76f99626",
@@ -5883,22 +5887,20 @@
       "search": 2,
       "status": false,
       "type": 0,
-      "id": 103,
-      "isActive": true,
-      "resource": 16643
+      "id": 103
     },
     {
       "key": "bajiecaiji",
       "name": "八戒采集",
-      "api": "https://cj.bajiecaiji.com/inc/apijson.php",
+      "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
       "group": "影视",
       "status": true,
-      "type": 1,
+      "type": 0,
       "search": 1,
       "id": 104,
       "playUrl": "",
       "isActive": true,
-      "resource": 1011
+      "resource": 54286
     },
     {
       "key": "Osu3dV",
@@ -5920,7 +5922,9 @@
       "search": 2,
       "key": "07b96ce7-0791-5f19-9321-ba6085145eef",
       "id": 106,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 10969
     },
     {
       "name": "白嫖",
@@ -5931,9 +5935,7 @@
       "search": 2,
       "key": "4eef8bc4-71f8-54fa-bffd-d1d3d9e77dce",
       "id": 107,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 16460
+      "playUrl": ""
     },
     {
       "name": "爱播",
@@ -5955,9 +5957,7 @@
       "search": 2,
       "key": "54658e47-58bb-5221-bec2-82b8a3be2ec4",
       "id": 109,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 16428
+      "playUrl": ""
     },
     {
       "name": "小湿妹",
@@ -5990,9 +5990,7 @@
       "search": 2,
       "key": "34cd623c-0b62-5426-a653-9c1db4a850e8",
       "id": 112,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 16643
+      "playUrl": ""
     },
     {
       "name": "芒果",
@@ -6014,9 +6012,7 @@
       "search": 2,
       "key": "f951be46-17fa-5f4f-9f41-ff25d21e8d74",
       "id": 114,
-      "playUrl": "",
-      "isActive": true,
-      "resource": 17664
+      "playUrl": ""
     },
     {
       "name": "辣椒2",
@@ -6027,7 +6023,9 @@
       "search": 2,
       "key": "2286c2fd-8e65-52d2-9a7a-f21ec0cae006",
       "id": 115,
-      "playUrl": ""
+      "playUrl": "",
+      "isActive": true,
+      "resource": 91985
     },
     {
       "name": "天堂",
@@ -6039,20 +6037,6 @@
       "key": "b0619031-953f-5e05-9d68-a621e8bc6514",
       "id": 116,
       "playUrl": ""
-    },
-    {
-      "key": "cb658939-5abf-5d37-81d9-16633d80818e",
-      "name": "优质资源网",
-      "api": "https://api.1080zyku.com/inc/apijson.php",
-      "download": "",
-      "playUrl": "",
-      "group": "影视",
-      "search": 1,
-      "status": true,
-      "type": 1,
-      "id": 117,
-      "isActive": true,
-      "resource": 48916
     }
   ],
   "drive": [
