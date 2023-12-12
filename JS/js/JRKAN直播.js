@@ -24,8 +24,7 @@ var rule = {
     headers:{
         'User-Agent':'MOBILE_UA'
     },
-    timeout:5000,
-    cate_exclude:'主播解说①',
+    timeout:5000,    
     play_parse:true,
     lazy:'',
     limit:6,
