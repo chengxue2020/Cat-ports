@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 231230,
-  "VersionName": "3.20231231.1656",						//版本的展示名称
-  "UploadTime": "2023-12-31 16:56:00",
-  "ModifyContent": "1、有限支持windows wsa x64架构，启动不崩溃，可使用exo播放\r\n2、修复系统时间显示\r\n",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240102-1753/TVBox_takagen99_20240102-1753_Release.apk",
-  "ApkSize": 23300,
-  "ApkMd5": "2E7CAB82B2146443C6A1895E6EBACEE2"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240104,
+  "VersionName": "3.20240104.2106",						//版本的展示名称
+  "UploadTime": "2024-01-04 21:06:00",
+  "ModifyContent": "1、不管有没有jar都应该跳转直播页\r\n2、重置APP确认\r\n",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240105-0910/TVBox_takagen99_20240105-0910_Release.apk",
+  "ApkSize": 23302,
+  "ApkMd5": "052557577196E23EED79931C4FD8C59F"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
