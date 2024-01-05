@@ -2,9 +2,9 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240104,
-  "VersionName": "3.20240104.2106",						//版本的展示名称
-  "UploadTime": "2024-01-04 21:06:00",
+  "VersionCode": 240105,
+  "VersionName": "3.20240105.0725",						//版本的展示名称
+  "UploadTime": "2024-01-05 07:25:00",
   "ModifyContent": "1、不管有没有jar都应该跳转直播页\r\n2、重置APP确认\r\n",
   "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240105-0910/TVBox_takagen99_20240105-0910_Release.apk",
   "ApkSize": 23302,
