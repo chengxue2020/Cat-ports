@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240106,
-  "VersionName": "3.20240106.1756",						//版本的展示名称
-  "UploadTime": "2024-01-06 17:56:00",
-  "ModifyContent": "1、直播页支持遥控器数字键切换频道\r\n",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240106-1910/TVBox_takagen99_20240106-1910_Release.apk",
+  "VersionCode": 240108,
+  "VersionName": "3.20240108.2210",						//版本的展示名称
+  "UploadTime": "2024-01-08 22:10:00",
+  "ModifyContent": "1、修复S渲染+系统播放器闪退问题\r\n2、Live : Allow channel selection across group (experimental)",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240108-2247/TVBox_takagen99_20240108-2247_Release.apk",
   "ApkSize": 23303,
-  "ApkMd5": "47B131E1FF5FCEC5A6FAB0117486EB04"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "A3E60DF22E166FB6A85CD733AE9D2C02"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
