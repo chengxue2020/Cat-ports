@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240108,
-  "VersionName": "3.20240108.2210",						//版本的展示名称
-  "UploadTime": "2024-01-08 22:10:00",
-  "ModifyContent": "1、修复S渲染+系统播放器闪退问题\r\n2、Live : Allow channel selection across group (experimental)",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240108-2247/TVBox_takagen99_20240108-2247_Release.apk",
+  "VersionCode": 240110,
+  "VersionName": "3.20240110.0026",						//版本的展示名称
+  "UploadTime": "2024-01-10 00:26:00",
+  "ModifyContent": "1、改界面图标",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240111-0050/TVBox_takagen99_20240111-0050_Release.apk",
   "ApkSize": 23303,
-  "ApkMd5": "A3E60DF22E166FB6A85CD733AE9D2C02"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "21A4F09940FD671022C6AE8F6DF5E83E"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
