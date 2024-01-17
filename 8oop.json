@@ -13,7 +13,7 @@
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy44b29wLmNuL3piL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"drpy_js_豆瓣","name":"🌺【压力测试】💑（宽带路由器支持IPV6才能观看所有直播线路）💑","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
+{"key":"drpy_js_豆瓣","name":"🌺【火热的冰】💑（请勿相信视频中广告 谨防上当受骗）💑","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
 
         {
             "key":"360影院",
