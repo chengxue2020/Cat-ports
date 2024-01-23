@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240121,
-  "VersionName": "3.20240121.1934",						//版本的展示名称
-  "UploadTime": "2024-01-21 19:34:00",
-  "ModifyContent": "1、正确加载301,302等跳转的图片链接\r\n2、更新room database\r\n3、搜索历史\r\n4、增加长按简介复制简介内容（方便复制阿里地址进行推送和分享）",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240121-2010/TVBox_takagen99_20240121-2010_Release.apk",
-  "ApkSize": 23314,
-  "ApkMd5": "756A69E888EF60CAA8640D7DA9BC86CE"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240123,
+  "VersionName": "3.20240123.2245",						//版本的展示名称
+  "UploadTime": "2024-01-23 22:45:00",
+  "ModifyContent": "1、mod 部分机器getExternalCacheDir()会返回空\r\n2、搜索界面调整\r\n3、wsa获取存储权限，目标版本最低需要30，否则闪退\r\n4、增加自定义字体功能，部分电视缺失emoji字体",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240124-0036/TVBox_takagen99_20240124-0036_Release.apk",
+  "ApkSize": 23331,
+  "ApkMd5": "BB57A72967AD68AAF25AE7F64642453C"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
