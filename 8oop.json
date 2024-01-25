@@ -13,13 +13,13 @@
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3d3dy44b29wLmNuL3piL2xpdmUudHh0"]}]}],
 
 "sites":[
-{"key":"drpy_js_豆瓣","name":"🌺【火热的冰】💑（请勿相信视频中广告 谨防上当受骗）💑","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
+{"key":"drpy_js_豆瓣","name":"【火热的冰】（请勿相信视频中广告 谨防上当受骗）","type":3,"api":"https://d.kstore.space/download/6296/js/lib/drpy2.min.js","searchable":1,"quickSearch":0,"changeable":0,"ext":"https://d.kstore.space/download/6296/js/豆瓣推荐.js"},
 
         {
             "key":"360影院",
             "name":"👉┃360",
             "type":3,
-            "api":"csp_SP360",
+            "api":"csp_SP360"
             "searchable":1,
             "changeable": 1,
             "jar": "https://tvbox.cainisi.cf/jar/xyq1123.jar;md5;71de3509aba374cdec13c22cbcce202f"
