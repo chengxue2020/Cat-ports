@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240125,
-  "VersionName": "3.20240125.2332",						//版本的展示名称
-  "UploadTime": "2024-01-25 23:32:00",
+  "VersionCode": 240128,
+  "VersionName": "3.20240128.0939",						//版本的展示名称
+  "UploadTime": "2024-01-28 09:39:00",
   "ModifyContent": "1、删除图标焦点\r\n2、防止主页和聚搜手机平板锁屏恢复时重新加载\r\n3、Update epg_data.json 台标更新 勘误 扩充\r\n4、修改getExternalCacheDir().getAbsolutePath() 的方法,防止空指针",
-  "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/TVBox_takagen99_20240125-2332_Release.apk",
-  "ApkSize": 23334,
-  "ApkMd5": "63876C5F118FB2F5AFC4008BD08E4B27"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "DownloadUrl": "https://chengxue2020.github.io/Cat-ports/App/TVBox_takagen99_20240128-1220_Release.apk",
+  "ApkSize": 23337,
+  "ApkMd5": "BDBEF107888267C64F5BCA9A3F78002D"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
