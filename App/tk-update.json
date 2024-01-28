@@ -5,7 +5,7 @@
   "VersionCode": 240128,
   "VersionName": "3.20240128.0939",						//版本的展示名称
   "UploadTime": "2024-01-28 09:39:00",
-  "ModifyContent": "1、删除图标焦点\r\n2、防止主页和聚搜手机平板锁屏恢复时重新加载\r\n3、Update epg_data.json 台标更新 勘误 扩充\r\n4、修改getExternalCacheDir().getAbsolutePath() 的方法,防止空指针",
+  "ModifyContent": "1、clean code\r\n2、防止播放界面调用外部软件打开视频时videoURL空指针异常\r\n3、ijk缓存开关",
   "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240128-2126/TVBox_takagen99_20240128-2126_Release.apk",
   "ApkSize": 23338,
   "ApkMd5": "0BDE2263E4E652F3E148E360E3A39F7E"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
