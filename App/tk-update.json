@@ -3,10 +3,10 @@
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "VersionCode": 240128,
-  "VersionName": "3.20240128.0939",						//版本的展示名称
-  "UploadTime": "2024-01-28 09:39:00",
-  "ModifyContent": "1、clean code\r\n2、防止播放界面调用外部软件打开视频时videoURL空指针异常\r\n3、ijk缓存开关",
+  "VersionName": "3.20240129.2018",						//版本的展示名称
+  "UploadTime": "2024-01-29 20:18:00",
+  "ModifyContent": "1、选集分组\r\n2、微调直播界面频道号及频道名称",
   "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240128-2126/TVBox_takagen99_20240128-2126_Release.apk",
-  "ApkSize": 23338,
-  "ApkMd5": "0BDE2263E4E652F3E148E360E3A39F7E"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkSize": 23339,
+  "ApkMd5": "BB3499B124D8527C03EBE2B3BE45D1BD"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
