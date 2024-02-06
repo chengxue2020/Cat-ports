@@ -1,7 +1,6 @@
 记录,#genre#
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 Love Nature 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 📡百视有线,#genre#
@@ -18,7 +17,7 @@ Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 百视TV10,https://bp-caster.bestv.com.cn/938/3/video.m3u8
 百视TV11,https://bp-caster.bestv.com.cn/937/3/video.m3u8
 百视TV12,https://bp-caster.bestv.com.cn/954/3/video.m3u8
-百视TV14,https://bp-caster.bestv.com.cn/934/3/video.m3u8
+百视TV13,https://bp-caster.bestv.com.cn/934/3/video.m3u8
 百视独播1,https://bp-caster.bestv.com.cn/946/3/video.m3u8
 百视独播2,https://bp-caster.bestv.com.cn/955/3/video.m3u8
 百视独播3,https://bp-caster.bestv.com.cn/940/3/video.m3u8
@@ -27,68 +26,55 @@ Clarity 4K,https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
 
 
 河北,#genre#
-河北卫视,rtmp://event.pull.hebtv.com/jishi/weishipindao
-河北卫视,http://39.136.48.2:8089/PLTV/88888888/224/3221225779/index.m3u8
-河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
-河北卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
-河北卫视,http://39.135.55.72:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1&IASHttpSessionId=OTT
-河北卫视,http://39.134.65.177/PLTV/88888888/224/3221225867/1.m3u8
-河北卫视,http://39.136.48.5:8089/PLTV/88888888/224/3221225779/index.m3u8
-河北卫视,http://39.136.48.8:8089/PLTV/88888888/224/3221225779/index.m3u8
-河北卫视,http://39.135.32.236:6610/PLTV/77777777/224/3221225773/index.m3u8?
-河北卫视,http://59.49.41.41/live.aishang.ctlcdn.com/00000110240317_1/encoder/0/playlist.m3u8?
-河北卫视,http://106.115.24.46:9901/tsfile/live/1040_1.m3u8
-河北经济生活,rtmp://event.pull.hebtv.com/jishi/jingjishenghuo
-河北经济生活,http://live2.plus.hebtv.com/jjshx/hd/live.m3u8?zhebd
-河北经济生活,http://106.115.24.46:9901/tsfile/live/1005_1.m3u8
-河北都市频道,rtmp://event.pull.hebtv.com/jishi/dushipindao
-河北都市频道,http://106.115.24.46:9901/tsfile/live/1006_1.m3u8
-河北都市频道,https://jwplay.hebyun.com.cn/live/hbdstv/1500k/tzwj_video.m3u8?zhebd
-河北影视剧,rtmp://event.pull.hebtv.com/jishi/yingshijupindao
-河北影视剧,http://106.115.24.46:9901/tsfile/live/1007_1.m3u8
-河北影视剧,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
-河北影视剧,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
-河北少儿科教,rtmp://event.pull.hebtv.com/jishi/shaoerkejiao
-河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
-河北少儿科教,http://106.115.24.46:9901/tsfile/live/1008_1.m3u8
-河北公共频道,rtmp://event.pull.hebtv.com/jishi/gonggongpindao
-河北公共频道,http://106.115.24.46:9901/tsfile/live/1009_1.m3u8
-河北公共频道,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
-河北农民频道,rtmp://event.pull.hebtv.com/jishi/nongminpindao
-河北农民频道,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
-河北农民频道,http://106.115.24.46:9901/tsfile/live/1010_1.m3u8
-河北农民频道,http://hbdg.chinashadt.com:1936/live/stream:cctv7.stream/playlist.m3u8?zhebd
+河北卫视,
+河北经济生活,
+x河北都市频道,rtmp://event.pull.hebtv.com/jishi/dushipindao
+x河北都市频道,http://106.115.24.46:9901/tsfile/live/1006_1.m3u8
+x河北影视剧,rtmp://event.pull.hebtv.com/jishi/yingshijupindao
+x河北影视剧,http://106.115.24.46:9901/tsfile/live/1007_1.m3u8
+x河北影视剧,http://live6.plus.hebtv.com/hbysx/hd/live.m3u8?zhebd
+x河北影视剧,https://jwplay.hebyun.com.cn/live/hbystv/1500k/tzwj_video.m3u8?zhebd
+x河北少儿科教,rtmp://event.pull.hebtv.com/jishi/shaoerkejiao
+x河北少儿科教,http://live6.plus.hebtv.com/sekjx/hd/live.m3u8?zhebd
+x河北少儿科教,http://106.115.24.46:9901/tsfile/live/1008_1.m3u8
+x河北公共频道,rtmp://event.pull.hebtv.com/jishi/gonggongpindao
+x河北公共频道,http://106.115.24.46:9901/tsfile/live/1009_1.m3u8
+x河北公共频道,http://live7.plus.hebtv.com/hbggx/hd/live.m3u8?zhebd
+x河北农民频道,rtmp://event.pull.hebtv.com/jishi/nongminpindao
+x河北农民频道,https://jwplay.hebyun.com.cn/live/hbnmtv/1500k/tzwj_video.m3u8?zhebd
+x河北农民频道,http://106.115.24.46:9901/tsfile/live/1010_1.m3u8
+x河北农民频道,http://hbdg.chinashadt.com:1936/live/stream:cctv7.stream/playlist.m3u8?zhebd
 石家庄新闻综合,http://pluslive1.sjzntv.cn/xmzh/playlist.m3u8?zhebd
 石家庄娱乐频道,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
 石家庄生活频道,http://pluslive1.sjzntv.cn/shenghuo/playlist.m3u8?zhebd
 石家庄都市频道,http://pluslive1.sjzntv.cn/dushi/playlist.m3u8?zhebd
 石家庄娱乐频道,http://pluslive1.sjzntv.cn/yule/playlist.m3u8?zhebd
-赵县电视一套,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8?zhebd
-鹿泉一套,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
-鹿泉一套,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
+x赵县电视一套,http://hbzx.chinashadt.com:2036/zhibo/stream:zx1.stream_360p/playlist.m3u8?zhebd
+鹿泉综合频道,https://jwliveqxzb.hebyun.com.cn/luquanyi/luquanyi.m3u8?zhebd
+鹿泉综合频道,https://jwcdnqx.hebyun.com.cn/live/luquanyi/1500k/tzwj_video.m3u8?zhebd
 邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.m3u8?auth_key=1861891200-0-0-d10ef6800441f798030705f4ab7e3a4b;{User-Agent@0151?zhebd}
 邢台综合频道,http://a.xttv.top/xttv/5ebe09cb3d1a0f3f3d062e99c78175a0.flv?auth_key=1861891200-0-0-d86d236a74b9a55f2596a7346ec632a8;{User-Agent@0151?zhebd}
-邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200-0-0-ac3742e661687f63ac72cd6cb2c784be;{User-Agent@0151?zhebd}
-邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.flv?auth_key=1861891200-0-0-82cd69002c4060ddabc0bfa1b3446dc2;{User-Agent@0151?zhebd}
+x邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.m3u8?auth_key=1861891200-0-0-ac3742e661687f63ac72cd6cb2c784be;{User-Agent@0151?zhebd}
+x邢台公共频道,http://a.xttv.top/xttv/d0586743dc68918f808f28b8bc90c737.flv?auth_key=1861891200-0-0-82cd69002c4060ddabc0bfa1b3446dc2;{User-Agent@0151?zhebd}
 邯郸公共频道,https://jwcdnqx.hebyun.com.cn/live/hdgg/1500k/tzwj_video.m3u8?zhebd
 邯郸公共频道,https://jwliveqxzb.hebyun.com.cn/hdgg/hdgg.m3u8
 邯郸公共频道,http://live.hd.hdbs.cn/video/s10001-2021hdgg/index.m3u8?zhebd
 邯郸科技教育,https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8?zhebd
 邯郸科技教育,https://jwliveqxzb.hebyun.com.cn/hdkj/hdkj.m3u8?zhebd
 邯郸科技教育,http://live.hd.hdbs.cn/video/s10001-2021hdkjjy/index.m3u8?zhebd
-衡水公共频道,http://hls.hsrtv.cn/hls/hstv2.m3u8?zhebd
-衡水公共频道,rtmp://hls.hsrtv.cn/hls/hstv2
+x衡水公共频道,http://hls.hsrtv.cn/hls/hstv2.m3u8?zhebd
+x衡水公共频道,rtmp://hls.hsrtv.cn/hls/hstv2
 邢台综合频道,https://jwplay.hebyun.com.cn/live/xttv/1500k/tzwj_video.m3u8?zhebd
 昌黎综合频道,https://jwcdnqx.hebyun.com.cn/live/clzhpd/1500k/tzwj_video.m3u8?zhebd
 昌黎综合频道,https://jwliveqxzb.hebyun.com.cn/clzhpd/clzhpd.m3u8?zhebd
-黄骅一套,http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8?zhebd
-黄骅二套,http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8?zhebd
-黄骅影,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8?zhebd
-黄骅互动,http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8?zhebd
-涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8?zhebd
-涿州生活频道,http://121.18.115.162:8082/live/ch4.m3u8?zhebd
-滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
-滦平新闻频道,rtmp://live.lpxrmtzx.com/live/wh?zhebd
+x黄骅一套,http://hbhh.chinashadt.com:2111/live/hhtv.stream/playlist.m3u8?zhebd
+x黄骅二套,http://hbhh.chinashadt.com:2111/live/hhtv2.stream/playlist.m3u8?zhebd
+x黄骅影,http://hbhh.chinashadt.com:2111/live/hhys.stream/playlist.m3u8?zhebd
+x黄骅互动,http://hbhh.chinashadt.com:2111/live/hdtv.stream/playlist.m3u8?zhebd
+x涿州新闻频道,http://121.18.115.162:8082/live/ch3.m3u8?zhebd
+x涿州生活频道,http://121.18.115.162:8082/live/ch4.m3u8?zhebd
+x滦平新闻频道,https://live.lpxrmtzx.com/live/wh.m3u8?zhebd
+x滦平新闻频道,rtmp://live.lpxrmtzx.com/live/wh?zhebd
 
 
 央视,#genre#
