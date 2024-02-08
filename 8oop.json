@@ -12,7 +12,7 @@
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=http://www.8oop.cn/live.txt"]}]}],
 
 "sites":[
-{ "key": "drpy_js_豆瓣", "name": "【火热的冰】（宽带路由器支持ipv6,畅享高清直播线路）", "type": 3, "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js", "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js" }, 
+{ "key": "drpy_js_豆瓣", "name": "【龍年大吉，龙腾虎跃，蒸蒸日上，祝愿新的一年，事业顺顺利利，生活红红火火】", "type": 3, "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js", "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js" }, 
 
         {
             "key":"360影院",
