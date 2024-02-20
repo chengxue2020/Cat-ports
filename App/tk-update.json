@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240207,
-  "VersionName": "3.20240207.2309",						//版本的展示名称
-  "UploadTime": "2024-02-07 23:09:00",
-  "ModifyContent": "1、加宽频道列表\r\n",
-  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240208-0627/TVBox_takagen99_20240208-0627_Release.apk",
-  "ApkSize": 23339,
-  "ApkMd5": "2401AFD9C6D17906BD7B77FF428F1B6A"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240220,
+  "VersionName": "20240220-1215",						//版本的展示名称
+  "UploadTime": "2024-02-20 12:15:00",
+  "ModifyContent": "1、版本降低至19 安卓4.4 (#119)\r\n2、分词接口502了,替换分词接口 (#121)\r\n3、修改聚搜的站点名字居中",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240220-1229/TVBox_takagen99_20240220-1229_Release.apk",
+  "ApkSize": 23884,
+  "ApkMd5": "C061E549DD136735AF6B1D5785F4FCE4"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
