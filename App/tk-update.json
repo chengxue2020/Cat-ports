@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240221,
-  "VersionName": "20240221-2249",						//版本的展示名称
-  "UploadTime": "2024-02-21 22:49:00",
-  "ModifyContent": "1、修复在播放本地文件时，点击屏幕返回按钮，程序崩溃问题\r\n2、修改播放本地或Webdav视频的进度记录功能\r\n3、修改DriveActivity的onBackPressed返回上一页逻辑\r\n4、修改本地文件列表和在线视频排序",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240221-2237/TVBox_takagen99_20240221-2249_Release.apk",
+  "VersionCode": 240222,
+  "VersionName": "20240222-0918",						//版本的展示名称
+  "UploadTime": "2024-02-22 09:18:00",
+  "ModifyContent": "1、回滚集数排序 (#126)\r\n",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20240222-1204/TVBox_takagen99_20240222-1204_Release.apk",
   "ApkSize": 23885,
-  "ApkMd5": "9546BA349545D96EA960483745232646"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "CA5FC9A4E76872F0A012E38ACD89C900"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
