@@ -7,10 +7,13 @@
 //本管理者保留随时更改或补充此免责声明的权利。一旦使用、复制、转载、发布、修改了本文内容，则视为您已接受此免责声明。否则后果自负。
 //本接口无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。<请勿相信视频中广告>
 
+
 {
  "spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705694117971/fan.txt;md5;87c10cb2cda0a4cca965373ec8d02c7b",
 "lives": [{"group": "redirect","channels": [{"name":"『live","urls": ["proxy://do=live&type=txt&ext=http://www.8oop.cn/live.txt"]}]}],
-
+//首页提示
+  "warningText": "火热的冰提醒：请勿相信视频中广告！。
+  十八岁以下内容请主动请回避！",
 "sites":[
 { "key": "drpy_js_豆瓣", "name": "【龍年大吉，龙腾虎跃，蒸蒸日上，祝愿新的一年，事业顺顺利利，生活红红火火】", "type": 3, "api": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/drpy2.min.js", "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/douban.js" }, 
 
