@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240227,
-  "VersionName": "20240227-1813",						//版本的展示名称
-  "UploadTime": "2024-02-27 18:13:00",
-  "ModifyContent": "1、修复禁用主题引起的 选择首页样式bug (#128)\r\n2、支持安卓4失败 还原",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240227-2112/TVBox_takagen99_20240227-2112_Release.apk",
+  "VersionCode": 240311,
+  "VersionName": "20240311-1405",						//版本的展示名称
+  "UploadTime": "2024-03-11 14:05:00",
+  "ModifyContent": "1、support some regex\r\n",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240312-2204/TVBox_takagen99_20240312-2204_Release.apk",
   "ApkSize": 23885,
-  "ApkMd5": "8C965258BBD450941B2564B4A6650E52"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "25A36DEC227F3E63AECCB6E46AF3552A"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
