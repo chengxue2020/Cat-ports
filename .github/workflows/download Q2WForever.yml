@@ -2,7 +2,7 @@ name: Download Q2WForever
 
 on:
 #   schedule:
-#     - cron: 0 0 6,17,23 * * ? 
+#     - cron: 0 0 6 * * ? 
   workflow_dispatch:
 
 jobs:
