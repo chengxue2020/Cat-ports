@@ -387,13 +387,14 @@
 			"api": "csp_XPathMacFilter",
 			"searchable": 1,
 			"changeable": 0,
-			"ext": "https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/duboku.json$$$"
+			"ext": "./lib/duboku.json$$$"
 		},
 		{
 			"key": "haiwaikan",
 			"name": "海外看",
 			"type": 1,
-			"api": "https://haiwaikan.com/api.php/provide/vod",
+			"api": "http://127.0.0.1:10079/p/0/null/https://haiwaikan.com/api.php/provide/vod",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"searchable": 1,
 			"changeable": 1,
 			"categories": [
@@ -436,6 +437,7 @@
 			"name": "暴風",
 			"type": 1,
 			"api": "https://bfzyapi.com/api.php/provide/vod",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -444,6 +446,7 @@
 			"name": "索尼 ",
 			"type": 1,
 			"api": "https://suoniapi.com/api.php/provide/vod",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -452,6 +455,7 @@
 			"name": "快帆",
 			"type": 1,
 			"api": "https://api.kuaifan.tv/api.php/provide/vod",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"searchable": 1,
 			"changeable": 1
 		},
@@ -460,6 +464,7 @@
 			"name": "量子",
 			"type": 1,
 			"api": "https://cj.lziapi.com/api.php/provide/vod/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1
@@ -469,6 +474,7 @@
 			"name": "非凡",
 			"type": 1,
 			"api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+			"playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",
 			"playerType":1,
 			"searchable": 1,
 			"changeable": 1,
@@ -536,7 +542,6 @@
 			"searchable": 1,
 			"changeable": 0
 		},
-		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key": "短剧",
 			"name": "短剧",
@@ -546,6 +551,7 @@
 			"changeable": 1,
 			"ext":"https://www.duanjutv.icu"
 		},
+		{"key":"drpy_js_Alist","name":"网盘 | Alist[js]","type":3,"api":"./lib/alist.min.js","searchable":1,"filterable":1,"changeable":1,"ext":"./js/alist.json"},
 		{
 			"key":"MV_vod",
 			"name":"电视┃MTV",
