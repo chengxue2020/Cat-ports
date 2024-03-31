@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240315,
-  "VersionName": "20240323-2042",						//版本的展示名称
-  "UploadTime": "2024-03-23 20:42:00",
-  "ModifyContent": "1、支持spider传过来的cookie\r\n",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240324-2220/TVBox_takagen99_20240324-2220_Release.apk",
-  "ApkSize": 24464,
-  "ApkMd5": "D0237A0E87EAF97E251FA319E93BBD61"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240331,
+  "VersionName": "20240331-1227",						//版本的展示名称
+  "UploadTime": "2024-03-31 12:27:00",
+  "ModifyContent": "1、页面加载完毕后3秒，如果还没嗅探到视频地址，则立即提示失败，避免苦等20秒\r\n2、直播支持配置文件指定播放器\r\n3、support cat open config\r\n4、fix: 修同一影片多个播放源，从播放源总集数比较多的切换到总集数比较少的会产生异常\r\n5、fix: 修部分设备选择对话框无法滚动至底部\r\n6、播放失败时提示原因\r\n",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240331-2101/TVBox_takagen99_20240331-2101_Release.apk",
+  "ApkSize": 24465,
+  "ApkMd5": "78A5EE85C3B03278AB650ECC534F8BE0"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
