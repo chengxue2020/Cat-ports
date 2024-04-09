@@ -12,7 +12,7 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
-  "warningText": "冰点影视：网络收集接口，请勿贩卖，官网：www.8oop.cn",
+  "warningText": "冰点影视：网络收集接口，请勿贩卖，官网:www.8oop.cn",
   "sites": [
     {
       "key": "豆瓣",
@@ -189,9 +189,9 @@
       "filterable": 1,
       "ext": {
         "直接播放": "1",
-        "副标题": "冰点专属+module-item-text\">&&</div>",
+        "副标题": "火热的冰专属+module-item-text\">&&</div>",
         "线路数组": "span id=\"listab&&/span>",
-        "线路标题": "冰点专属+>&&<",
+        "线路标题": "火热的冰专属+>&&<",
         "播放数组": "ulNumList clearfix list_1&&</ul>",
         "分类url": "https://www.xiguayya.com/t/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "本西瓜影视只有电影分类可用，切不支持搜索$dianying"
@@ -234,10 +234,10 @@
       "filterable": 1,
       "ext": {
         "免嗅": "1",
-        "副标题": "冰点专属+module-item-text\">&&</span>",
+        "副标题": "火热的冰专属+module-item-text\">&&</span>",
         "简介": "以下是剧情简介：&&</div>",
         "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
-        "线路标题": "冰点专属+>&&</a>",
+        "线路标题": "火热的冰专属+>&&</a>",
         "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
         "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}--{class}-{year}--.html[https://www.kpkuang.fun/vodtype/{cateId}/]",
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
@@ -500,16 +500,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.xb6v.com"
-    },
-    {
-      "key": "更多资源",
-      "name": "🛒软件下载",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "changeable": 0,
-      "ext": "http://8.210.232.168/gzh.json",
-      "jar": "http://8.210.232.168/fm商店.jar"
     },
     {
       "key": "YiSo",
