@@ -190,13 +190,25 @@
 		 
 {"key": "萌米","name": "🎦萌米","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","jar":"https://notabug.org/kite/feng/raw/master/jar/fm.jar","playerType": 2,"ext": {"key":"QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},
 
+   {
+    "key": "xiguaya",
+    "name": "🍉西瓜",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+        "直接播放": "1",
+        "副标题": "火热的冰专属+module-item-text\">&&</div>",
+        "线路数组": "span id=\"listab&&/span>",
+        "线路标题": "火热的冰专属+>&&<",
+        "播放数组": "ulNumList clearfix list_1&&</ul>",
+        "分类url": "https://www.xiguayya.com/t/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类": "本西瓜影视只有电影分类可用，切不支持搜索$dianying"
+    }
+},
    
-   
-     
-     {"key":"xiguaya","name":"🍉西瓜","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"直接播放":"1","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</div>",
-"线路数组":"span id=\"listab&&/span>",
-"\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+>&&<","播放数组":"ulNumList clearfix list_1&&</ul>","分类url":"https://www.xiguayya.com/t/{cateId}/area/{area}/class/{class}/page/{catePg}/year/{year}.html",
-"分类":"本西瓜影视只有电影分类可用，切不支持搜索$dianying"}},
 {"key":"drpy_js_达达龟","name":"🎦达龟","type":3,"api":"https://notabug.org/kite/feng/raw/master/lib/drpy.min.js","ext":"https://notabug.org/kite/feng/raw/master/jsd/达达龟.jsd"},
 
 {"key":"csp_星辰","name":"💫 星辰","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://xn--5nqxcz3am3cb7e94xzy6aa2935d.xyz/json/xc.json"},
@@ -204,7 +216,25 @@
 
 
      
-   { "key":"看片狂人","name":"🧩狂人","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":{"免嗅":"1","\u526f\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+module-item-text\">&&</span>","简介":"以下是剧情简介：&&</div>","线路数组":"class=\"fed-drop-btns fed-padding&&</li>","\u7ebf\u8def\u6807\u9898":"\u516c\u5b50\u4e13\u5c5e+>&&</a>","搜索url":"https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}","分类url":"https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}--{class}-{year}--.html[https://www.kpkuang.fun/vodtype/{cateId}/]","分类":"电影$1#连续剧$2#综艺$3#动漫$4"}},
+{
+    "key": "看片狂人",
+    "name": "🧩狂人",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": {
+        "免嗅": "1",
+        "副标题": "火热的冰专属+module-item-text\">&&</span>",
+        "简介": "以下是剧情简介：&&</div>",
+        "线路数组": "class=\"fed-drop-btns fed-padding&&</li>",
+        "线路标题": "火热的冰专属+>&&</a>",
+        "搜索url": "https://www.kpkuang.fun/vodsearch/-------------.html?wd={wd}",
+        "分类url": "https://www.kpkuang.fun/vodshow/{cateId}-{area}-------{catePg}--{class}-{year}--.html[https://www.kpkuang.fun/vodtype/{cateId}/]",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4"
+    }
+},
 
 
     
