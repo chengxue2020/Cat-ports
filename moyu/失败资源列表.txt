@@ -1,0 +1,11 @@
+http://127.0.0.1:9978/file/TVBox/quark.txt
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js
+https://agit.ai/fantaiying/dr_py/raw/branch/main/js/虎牙直播.js
+https://agit.ai/fantaiying/dr_py/raw/branch/main/js/斗鱼直播.js
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/bilibili.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/biliych.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/少儿教育.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/小学课堂.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/初中课堂.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/高中课堂.json

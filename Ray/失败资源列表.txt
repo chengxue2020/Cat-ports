@@ -1,0 +1,17 @@
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js
+https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js
+https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js
+https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js
+https://agit.ai/dxawi/ray/raw/branch/master/json/bilibili.json
+https://agit.ai/dxawi/ray/raw/branch/master/json/xx1.json
+https://agit.ai/dxawi/ray/raw/branch/master/json/xx2.json
+https://agit.ai/dxawi/ray/raw/branch/master/json/xx3.json
+https://agit.ai/dxawi/ray/raw/branch/master/json/xx4.json
+https://agit.ai/dxawi/ray/raw/branch/master/json/xx5.json
