@@ -26,9 +26,9 @@ jobs:
 
       - name: 更新 FongMi_CR.json
         run: |
-          curl https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/adult.json > FM_CR.json
+          curl https://raw.githubusercontent.com/xfcjp/xfcjp.github.io/master/adult.json > CR.json
           # 更新时间
-          sed -i "/FM_CR.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./FM_CR.json
+          sed -i "/FM_CR.json/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./CR.json
 
       - name: Commit And Push
         run: |
