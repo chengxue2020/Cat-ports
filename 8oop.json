@@ -1,7 +1,7 @@
 {
   "spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=biying&type=302",
-  "lives":[{"name":"内置直播","type":0,"url":"http://www.8oop.cn/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
+  "lives":[{"name":"内置直播","type":0,"url":"http://www.8oop.cn/zb/live.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}
 ],
   "sites": [
 {        "key":"影视仓",
