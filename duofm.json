@@ -1,9 +1,5 @@
 {
-  "urls": [
-    {
-      "url": "file://tvbox/bala/bala.json",
-      "name": "🚀巴拉线路"
-    },  
+  "urls": [ 
     {
       "url": "file://tvbox/fty/fty.json",
       "name": "🚀饭太硬线路"
@@ -29,17 +25,13 @@
       "name": "🚀小米线路"
     },
     {
-      "url": "file://tvbox/hechengchaxiu/hechengchaxiu.json",
+      "url": "file://tvbox/hecheng/hecheng.json",
       "name": "🚀荷城线路"
     },	
     {
       "url": "file://tvbox/xiangyaqing/xiangyaqing.json",
       "name": "🚀香雅情线路"
     },	
-    {
-      "url": "file://tvbox/shenxian/shenxian.json",
-      "name": "🚀神仙线路"
-    },
     {
       "url": "file://tvbox/wuyi/wuyi.json",
       "name": "🚀无意线路"
@@ -49,8 +41,8 @@
       "name": "🚀摸鱼线路"
     },		
     {
-      "url": "file://tvbox/ouge/ouge.json",
-      "name": "🚀欧歌线路"
+      "url": "file://tvbox/xiaosa/xiaosa.json",
+      "name": "🚀潇洒线路"
     },
     {
       "url": "file://tvbox/fangniu/fangniu.json",
@@ -59,18 +51,26 @@
     {
       "url": "file://tvbox/kaixin/kaixin.json",
       "name": "🚀开心线路"
-    },		
+    },	
+    {
+      "url": "file://tvbox/dongchen/dongchen.json",
+      "name": "🚀东辰线路"
+    }, 	
     {
       "url": "file://tvbox/yeyu/yeyu.json",
       "name": "🚀业余线路"
-    },
+    },		
     {
       "url": "file://tvbox/gaotianliuyun/gaotianliuyun.json",
       "name": "🚀高天线路"
-    },	
+    },		
     {
       "url": "file://tvbox/nanfeng/nanfeng.json",
       "name": "🚀南风线路"
-    }
+    },
+    {
+      "url": "file://tvbox/shenxian/shenxian.json",
+      "name": "🚀神仙线路"
+    }	
   ]
 }

@@ -1,4 +1,4 @@
-http://www.liuyunw.com:88/lib/tokenm.json$$$https://wogg.xyz/$$$null$$$1$$$./lib/wogg.json
-http://www.liuyunw.com:88/js/去看吧.js
-http://www.liuyunw.com:88/lib/tokenm.json$$$./lib/yiso.txt
-http://www.liuyunw.com:88/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt
+http://127.0.0.1:9978/file/TVBox/quark.txt
+http://dp.sxtv.top:88/js/去看吧.js
+http://dp.sxtv.top:88/lib/tokenm.json$$$./lib/yiso.txt
+http://dp.sxtv.top:88/lib/tokenm.json$$$https://pan.qianfan.app$$$null$$$./lib/qianfan.txt

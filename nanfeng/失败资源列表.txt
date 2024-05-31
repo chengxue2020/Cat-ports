@@ -1,1 +1,1 @@
-http://152.32.170.60//Yoursmile7/TVBox/raw/branch/master/js/虎牙直播.js
+http://127.0.0.1:9978/file/fatcat/cookie.txt

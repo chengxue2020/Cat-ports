@@ -3,11 +3,6 @@
   "spider": "./gd5ic01b6d4922692401eac6018178d033d06",
   "lives": [
     {
-      "name": "白嫖",
-      "type": 0,
-      "url": "./lib/itvlist.m3u"
-    },
-    {
       "name": "tvlive",
       "type": 0,
       "url": "./lib/tvlive.txt",
@@ -42,9 +37,19 @@
         "aliToken": "tvfan/token.txt",
         "quarkCookie": "tvfan/cookie.txt",
         "from": "4k|auto|fhd",
-        "siteUrl": "https://api.wogg.xyz/",
+        "siteUrl": "https://www.wogg.link/",
         "danMu": "弹"
       }
+    },
+    {
+      "key": "小点",
+      "name": "小点",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
     },
     {
       "key": "快看",
@@ -76,8 +81,8 @@
       "changeable": 1
     },
     {
-      "key": "白嫖",
-      "name": "白飘",
+      "key": "BP",
+      "name": "BP",
       "type": 3,
       "api": "csp_BaiPiao",
       "playerType": 2,
@@ -87,26 +92,27 @@
       "ext": "https://www.baipiaoys.com:9092/"
     },
     {
+      "key": "视觉",
+      "name": "视觉",
+      "type": 3,
+      "api": "csp_Xinsj",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.80yy3.com/"
+    },
+    {
       "key": "厂长",
       "name": "厂长",
       "type": 3,
-      "api": "csp_Czsapp",
+      "api": "csp_NewCz",
       "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czys03.com/"
-    },
-    {
-      "key": "77",
-      "name": "七七",
-      "type": 3,
-      "api": "csp_Kunyu77",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "ext": "https://www.czys.top/"
     },
     {
       "key": "南瓜",
@@ -120,7 +126,18 @@
       "changeable": 1
     },
     {
-      "key": "DiDuan",
+      "key": "农民",
+      "name": "农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/nmys.json"
+    },
+    {
+      "key": "低端",
       "name": "低端",
       "type": 3,
       "api": "csp_Ddrk",
@@ -130,30 +147,47 @@
       "changeable": 1
     },
     {
-      "key": "csp_Nmys",
-      "name": "农民",
+      "key": "热播",
+      "name": "热播",
       "type": 3,
-      "api": "csp_Nmys",
+      "api": "csp_AppTT",
       "timeout": 15,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+      "ext": "AO7TcBkd8I/B5wQc4Qma+pU="
     },
     {
-      "key": "Xinsj",
-      "name": "视觉",
+      "key": "短剧",
+      "name": "短剧",
       "type": 3,
-      "api": "csp_Xinsj",
-      "timeout": 15,
+      "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.80yy3.com/"
+      "changeable": 1
+    },
+    {
+      "key": "萌米",
+      "name": "萌米",
+      "type": 3,
+      "api": "csp_AppTT",
+      "timeout": 15,
+      "playerType": 1,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg=="
+    },
+    {
+      "key": "Bt",
+      "name": "Bt",
+      "type": 3,
+      "api": "csp_Bttwoo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "zxzj",
-      "name": "在线",
+      "name": "在线之家",
       "type": 3,
       "api": "csp_Zxzj",
       "timeout": 15,
@@ -161,24 +195,6 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.zxzja.com/"
-    },
-    {
-      "key": "一起看",
-      "name": "一起",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_Bttoo",
-      "name": "Bttwoo",
-      "type": 3,
-      "api": "csp_Bttwoo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "Lib",
@@ -203,25 +219,15 @@
       "ext": "https://auete.pro/"
     },
     {
-      "key": "短剧",
-      "name": "短剧",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/上头短剧.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "贱贱",
-      "name": "贱贱",
+      "key": "荐片",
+      "name": "荐片p2p",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
       "playerType": "1",
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/dr_py/raw/branch/main/js/荐片.js"
+      "api": "./lib/drpy2.min.js",
+      "ext": "./lib/jp.js"
     },
     {
       "key": "新6V",
@@ -237,7 +243,84 @@
       "key": "drpy_js_lf_p2p",
       "name": "磁力p2p(搜索)",
       "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/lf_p2p1_min.js"
+      "api": "https://xhdwc.tk/js/lf_p2p1_min.js"
+    },
+    {
+      "key": "量子资源",
+      "name": "量子资源",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
+      "searchable": 1,
+      "quickSearch": 1,
+      "categories": [
+        "国产剧",
+        "国产动漫",
+        "泰国剧",
+        "台湾剧",
+        "香港剧",
+        "欧美剧",
+        "韩国剧",
+        "日本剧",
+        "动漫",
+        "体育",
+        "剧情片",
+        "动作片",
+        "爱情片",
+        "喜剧片",
+        "伦理片"
+      ]
+    },
+    {
+      "key": "haiwaikan",
+      "name": "海外看(墙外)",
+      "type": 1,
+      "api": "https://haiwaikan.com/api.php/provide/vod",
+      "searchable": 1,
+      "changeable": 1,
+      "categories": [
+        "日本动漫",
+        "国产动漫",
+        "欧美动漫",
+        "国产剧",
+        "韩剧",
+        "日剧",
+        "台剧",
+        "泰剧",
+        "港剧",
+        "欧美剧",
+        "动画电影",
+        "韩国综艺",
+        "国产综艺",
+        "日本综艺",
+        "欧美综艺",
+        "冒险片",
+        "剧情片",
+        "动作片",
+        "同性片",
+        "喜剧片",
+        "奇幻片",
+        "恐怖片",
+        "悬疑片",
+        "惊悚片",
+        "战争片",
+        "歌舞片",
+        "灾难片",
+        "爱情片",
+        "犯罪片",
+        "科幻片",
+        "纪录片",
+        "经典片"
+      ]
+    },
+    {
+      "key": "csp_Nbys",
+      "name": "泥视频(墙外)",
+      "type": 3,
+      "api": "csp_NiNi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "腐宅",
@@ -251,43 +334,8 @@
       "ext": "http://app.zhaifutvapp.com/ruifenglb_api.php/v1.vod"
     },
     {
-      "key": "drpy_js_量子资源",
-      "name": "量子[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/量子资源.js"
-    },
-    {
-      "key": "鑫鑫[V2]",
-      "name": "鑫鑫[V2][js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"
-    },
-    {
-      "key": "ikanbot3",
-      "name": "ikanbot3[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/ikanbot3.js"
-    },
-    {
-      "key": "新视觉js",
-      "name": "新视觉[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/新视觉影视.js"
-    },
-    {
-      "key": "drpy_js_Auete",
-      "name": "Auete[js]",
-      "type": 3,
-      "api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js",
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/Auete.js"
-    },
-    {
       "key": "YiSo",
-      "name": "易搜┃搜索",
+      "name": "易搜索",
       "type": 3,
       "api": "csp_YiSo",
       "searchable": 1,
@@ -297,7 +345,7 @@
     },
     {
       "key": "PanSou",
-      "name": "盘搜┃搜索",
+      "name": "盘搜搜索",
       "type": 3,
       "api": "csp_PanSou",
       "searchable": 1,
@@ -307,7 +355,7 @@
     },
     {
       "key": "UpYun",
-      "name": "Up搜┃搜索",
+      "name": "云搜索",
       "type": 3,
       "api": "csp_UpYun",
       "searchable": 1,
@@ -317,7 +365,7 @@
     },
     {
       "key": "PanSearch",
-      "name": "盘Se┃搜索",
+      "name": "盘搜索",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -336,15 +384,6 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
     },
     {
-      "key": "csp_Nbys",
-      "name": "泥视频(墙外)",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "Bili",
       "name": "Bili",
       "type": 3,
@@ -356,7 +395,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/bilibili.json"
+      "ext": "./lib/bilibili.json"
     },
     {
       "key": "课堂教育",
@@ -366,7 +405,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx1.json"
+      "ext": "./lib/xx1.json"
     },
     {
       "key": "少儿教育",
@@ -376,7 +415,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx2.json"
+      "ext": "./lib/xx2.json"
     },
     {
       "key": "小学教育",
@@ -386,7 +425,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx3.json"
+      "ext": "./lib/xx3.json"
     },
     {
       "key": "初中教育",
@@ -396,7 +435,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx4.json"
+      "ext": "./lib/xx4.json"
     },
     {
       "key": "高中教育",
@@ -406,7 +445,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://agit.ai/dxawi/ray/raw/branch/master/json/xx5.json"
+      "ext": "./lib/xx5.json"
     }
   ],
   "doh": [

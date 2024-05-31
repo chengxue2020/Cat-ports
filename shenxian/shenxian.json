@@ -36,7 +36,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "分类url": "http://dy.liuyunw.com/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
+        "分类url": "http://ys.sxtv.top/index.php/vod/type/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html",
         "分类": "电影$1#电视剧$2#综艺$3#动漫$4#电影解说$5"
       }
     },
@@ -51,35 +51,37 @@
       "ext": "./lib/Bili.json"
     },
     {
+      "key": "玩偶",
+      "name": "玩偶 | 饭太硬接口",
+      "type": 3,
+      "api": "csp_WoGG",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "aliToken": "tvbox/token.txt",
+        "quarkCookie": "tvbox/cookie.txt",
+        "from": "4k|auto|fhd",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      },
+      "jar": "./lib/fan.txt"
+    },
+    {
       "key": "Wogg",
-      "name": "阿里 | 玩偶1线",
+      "name": "阿里 | 玩偶哥哥",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "Wogg3",
-      "name": "阿里 | 玩偶2线",
-      "type": 3,
-      "api": "csp_Wogg",
-      "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "timeout": 60,
-      "ext": "./lib/wogg.json"
-    },
-    {
-      "key": "Wogg1",
-      "name": "阿里 | 玩偶3线",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://www.wogg.net/$$$弹"
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TVBox/token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TVBox/quark.txt",
+        "site": "https://www.wogg.net/",
+        "danmu": true
+      },
+      "jar": "./lib/2.jar"
     },
     {
       "key": "厂长",
@@ -90,7 +92,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.czys01.com/"
+      "ext": "https://www.czys.top/"
     },
     {
       "key": "哔嘀",
@@ -1070,18 +1072,52 @@
   ],
   "rules": [
     {
-      "name": "非凡量子暴风",
+      "name": "量子广告",
       "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "vip.lz",
-        "hd.lz",
-        ".cdnlz",
-        "bfzy"
+        "lz"
       ],
       "regex": [
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+"
+        "18.5333",
+        "19.52"
+      ]
+    },
+    {
+      "name": "非凡广告",
+      "hosts": [
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52"
+      ]
+    },
+    {
+      "name": "暴风广告",
+      "hosts": [
+        "bf"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "星星广告",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "快看广告",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "20.123",
+        "20.167"
       ]
     },
     {
@@ -1090,10 +1126,21 @@
         "suonizy"
       ],
       "regex": [
-        "15",
+        "16.3333",
+        "15.1666",
         "15.2666",
-        "#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+"
+      ]
+    },
+    {
+      "name": "一起看广告",
+      "hosts": [
+        "ydd"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "16.5333"
       ]
     },
     {
@@ -1112,6 +1159,26 @@
       ],
       "regex": [
         "is_play_url="
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "最新",
+        "直播",
+        "更新"
+      ]
+    },
+    {
+      "name": "农民嗅探",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
       ]
     }
   ],

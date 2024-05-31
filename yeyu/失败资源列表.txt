@@ -1,6 +1,2 @@
-http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt
-http://127.0.0.1:9978/file/XYQTVBox/bili_cookie.txt
-http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://www.wogg.xyz/|104.16.245.50$$$null$$$1$$$http://yydf.540734621.xyz/yydf/yydf/bd/yydf/json/wogg.json
-http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$http://yydf.540734621.xyz/yydf/yydf/bd/yydf/json/wogg.json
-http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$http://www.ttkx.live:3328$$$null$$$1$$$http://yydf.540734621.xyz/yydf/yydf/bd/yydf/json/wogg.json
-http://127.0.0.1:9978/file/XYQTVBox/tokenm.json$$$https://aliz.lvdoui.top/$$$null$$$1$$$http://yydf.540734621.xyz/yydf/yydf/bd/yydf/json/wogg.json
+https://yydf.540734621.xyz/QQ/lib/tokenm.json$$$https://www.wogg.net/|104.16.245.50$$$null$$$1$$$./json/wogg.json
+https://yydf.540734621.xyz/QQ/lib/tokenm.json$$$https://wobge.run.goorm.io$$$null$$$1$$$./json/wogg.json

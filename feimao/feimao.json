@@ -1,6 +1,7 @@
 {
-  "spider": "./PandaQ240416.jar;md5;9f15ade02721f30f65880bef1271be69",
+  "spider": "./85e832f30273e71868b241a45f4c7082.jar;md5;85e832f30273e71868b241a45f4c7082",
   "wallpaper": "http://我不是.肥猫.live/ppic/feimao.php",
+  "logo": "http://我不是.肥猫.live/fatcat.jpg",
   "sites": [
     {
       "key": "drpy_js_豆瓣",
@@ -32,8 +33,18 @@
       "api": "csp_Xinsj",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "胖虎",
+      "name": "🐯┃胖虎┃影视",
+      "type": 3,
+      "api": "csp_Panghu",
+      "searchable": 1,
+      "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.80yy3.com/"
+      "playerType": 1,
+      "ext": "https://physvod.com"
     },
     {
       "key": "csp_Nkdy",
@@ -41,20 +52,6 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Nkdy"
-    },
-    {
-      "key": "csp_NfApp",
-      "name": "🔷┃南坊┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_NfApp"
-    },
-    {
-      "key": "csp_Czys",
-      "name": "🍊┃橙汁┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Czys"
     },
     {
       "key": "csp_Juqq",
@@ -68,7 +65,10 @@
       "name": "🍎┃苹果┃影视",
       "type": 3,
       "playerType": "2",
-      "api": "csp_LiteApple"
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "csp_Panda_玩偶哥哥",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.cz233.com/"
+      "ext": "https://czzy.top/"
     },
     {
       "key": "csp_AppRZ",
@@ -122,13 +122,6 @@
       "playerType": "2",
       "api": "csp_AppRZ",
       "ext": "http://rzys.xyz/"
-    },
-    {
-      "key": "csp_Freeok",
-      "name": "️️👌┃FreeOK┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "csp_Freeok"
     },
     {
       "key": "csp_Nmys",
@@ -158,14 +151,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Libvio",
-      "name": "💐┃Lib┃影视",
-      "type": 3,
-      "playerType": "1",
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/LIBVIO.js"
     },
     {
       "key": "FreeOK",
@@ -201,13 +186,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "白嫖",
-      "name": "🌅┃白嫖┃影视",
-      "type": 3,
-      "api": "csp_BaiPiao",
-      "playerType": "2"
     },
     {
       "key": "saohuo",
@@ -340,6 +318,27 @@
       }
     },
     {
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_SC1080",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_LIBVIO",
+      "name": "🍒┃荔波┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "playerType": 2,
+      "ext": {
+        "分类": "电影$1#剧集$2#动漫$4#日韩剧$15#欧美剧$16",
+        "分类url": "https://www.libvio.fun/show/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html",
+        "线路数组": "<h3 class=\"iconfont&&</div>[不包含:视频下载#网盘]"
+      }
+    },
+    {
       "key": "csp_SP360",
       "name": "📺┃360┃官源",
       "type": 3,
@@ -352,22 +351,6 @@
       "api": "csp_Voflix",
       "playerType": "2",
       "ext": "https://www.voflix.me/"
-    },
-    {
-      "key": "csp_Duanju",
-      "name": "🎭┃短剧┃视频",
-      "type": 3,
-      "api": "csp_Duanju",
-      "playerType": "2",
-      "searchable": 0
-    },
-    {
-      "key": "种子短剧",
-      "name": "🍒┃短剧┃种子",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/种子短剧.js",
-      "playerType": 2
     },
     {
       "key": "alist",
@@ -387,6 +370,18 @@
       "api": "csp_BookTing",
       "searchable": 0,
       "ext": "https://m.ting275.com",
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
+      "key": "csp_YouShengBook",
+      "name": "📚┃有声┃小说",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_YouShengBook",
+      "searchable": 0,
       "style": {
         "type": "rect",
         "ratio": 1.333
@@ -510,13 +505,12 @@
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
-      "key": "csp_XiaoZhiTiao",
-      "name": "📜┃纸条┃网盘",
+      "key": "csp_aisou",
+      "name": "🔭┃爱搜┃夸克",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "api": "csp_AiPanSo",
+      "timeout": 30,
+      "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {

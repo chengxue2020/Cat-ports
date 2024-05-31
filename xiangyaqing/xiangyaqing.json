@@ -1,6 +1,6 @@
 {
   "wallpaper": "https://picsum.photos/1280/720/?blur=2",
-  "spider": "./custom_spider.jar;md5;0578e48b03db152d0f0bbb03704d4ab5",
+  "spider": "./custom_spider.jar;md5;81544697bc790013fc5bb1d2939bf0b6",
   "lives": [
     {
       "name": "本地live文件",
@@ -126,16 +126,6 @@
       "ext": "./lib/玩偶哥哥.json"
     },
     {
-      "key": "csp_XYQHikerAL_玩偶妹妹",
-      "name": "📀玩偶妹妹(优)",
-      "type": 3,
-      "api": "csp_XYQHikerAL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/玩偶妹妹.json"
-    },
-    {
       "key": "csp_XYQHikerAL_云盘资源",
       "name": "📀云盘资源(搜索)",
       "type": 3,
@@ -237,17 +227,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.cz233.com"
+      "ext": "https://www.czys.top"
     },
     {
-      "key": "csp_XYQHiker_哔嘀影视",
-      "name": "🧲哔嘀影视(XYQH)",
+      "key": "csp_Bdys",
+      "name": "🐞哔嘀影视",
       "type": 3,
-      "api": "csp_XYQHiker",
+      "api": "csp_Bdys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./lib/哔嘀影视.json"
+      "filterable": 1
     },
     {
       "key": "csp_Ddys",
@@ -267,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://ownjpykxttjzuhy.jiesiwa.com"
+      "ext": "http://112.124.0.131:20000"
     },
     {
       "key": "csp_Ikanbot",
@@ -277,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://v.ikanbot.com"
+      "ext": "https://v.aikanbot.com"
     },
     {
       "key": "csp_Bili",

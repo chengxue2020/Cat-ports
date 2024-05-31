@@ -1,3 +1,3 @@
-http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/li.txt
-http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/ip.txt
-http://127.0.0.1:9978/proxy?do=live&url=https://jihulab.com/okcaptain/kko/-/raw/main/mt.txt
+http://127.0.0.1:9978/proxy?do=live&url=https://gitee.com/okjack/okk/raw/master/li.txt
+http://127.0.0.1:9978/proxy?do=live&url=https://gitee.com/okjack/okk/raw/master/ip.txt
+http://127.0.0.1:9978/proxy?do=live&url=https://gitee.com/okjack/okk/raw/master/mt.txt
