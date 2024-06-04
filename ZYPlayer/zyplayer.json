@@ -1,7 +1,7 @@
 <html>
-<head><title>404 Not Found</title></head>
+<head><title>301 Moved Permanently</title></head>
 <body oncopy = "return false" oncontextmenu = "return false">
-<center><h1>404 Not Found</h1></center>
+<center><h1>301 Moved Permanently</h1></center>
 <hr><center>nginx</center>
 </body>
 </html>
