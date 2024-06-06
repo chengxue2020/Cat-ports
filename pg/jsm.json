@@ -630,6 +630,20 @@
 			"changeable": 1
 		},
 		{
+            "key": "Taohuazu",
+            "name": "🔞桃花族",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "ext": "./lib/tokenm.json$$$http://777631.xyz/",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+		{
 			"key": "索尼",
 			"name": "索尼 ",
 			"type": 1,
