@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240430,
-  "VersionName": "20240430-2349",						//版本的展示名称
-  "UploadTime": "2024-04-30 23:49:00",
-  "ModifyContent": "1、直播列表加载rtp协议\r\n",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240430-2349/TVBox_takagen99_20240430-2349_Release.apk",
-  "ApkSize": 26362,
-  "ApkMd5": "3B91905FDF610368003E5FC92F288490"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240604,
+  "VersionName": "20240604-2211",						//版本的展示名称
+  "UploadTime": "2024-06-04 22:11:00",
+  "ModifyContent": "1、还原回原来的EXO解码，去除第三方anilbeesetti库的nextlib-media3ext解码 (#142)\r\n1、支持在配置内设定直播播放请求头 (#141)\r\n",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240606-2040/TVBox_takagen99_20240606-2040_Release.apk",
+  "ApkSize": 24465,
+  "ApkMd5": "84D1B0C74131C07440B387AD7DC03752"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
