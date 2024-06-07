@@ -602,6 +602,20 @@
 			]
 		},
 		{
+            "key": "Taohuazu",
+            "name": "🔞桃花族",
+            "type": 3,
+            "api": "csp_Taohuazu",
+            "ext": "./lib/tokenm.json$$$http://777631.xyz/",
+            "searchable": 1,
+            "changeable": 1,
+            "timeout": 60,
+            "style": {
+                "type": "rect",
+                "ratio": 1.485
+            }
+        },
+		{
 			"key": "ikun",
 			"name": "ikun",
 			"type": 1,
