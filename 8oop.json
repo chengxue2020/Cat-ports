@@ -10,9 +10,10 @@
 		"epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	}],
+  "warningText": "火热的冰：[祝愿全国学子高考必胜，金榜题名]",
 	"sites": [{
 			"key": "影视仓",
-			"name": "[冰点影视]",
+			"name": "[祝愿全国学子高考必胜，金榜题名]",
 			"type": 3,
 			"api": "csp_AppMr",
 			"searchable": 1,
