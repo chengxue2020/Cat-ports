@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240604,
-  "VersionName": "20240604-2211",						//版本的展示名称
-  "UploadTime": "2024-06-04 22:11:00",
-  "ModifyContent": "1、还原回原来的EXO解码，去除第三方anilbeesetti库的nextlib-media3ext解码 (#142)\r\n1、支持在配置内设定直播播放请求头 (#141)\r\n",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020-org/takagen99-Lyu/releases/download/20240606-2056/TVBox_Lyu_20240606-2056_Release.apk",
-  "ApkSize": 24383,
-  "ApkMd5": "C8631F326BE4A7451655B3D01AFBD1DB"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionCode": 240612,
+  "VersionName": "20240612-1920",						//版本的展示名称
+  "UploadTime": "2024-06-12 19:20:00",
+  "ModifyContent": "1、修改片尾显示和跳过逻辑 (#143)\r\n2、allow url containing commas (#144)\r\n",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020-org/takagen99-Lyu/releases/download/20240613-2354/TVBox_Lyu_20240613-2354_Release.apk",
+  "ApkSize": 24382,
+  "ApkMd5": "AB44F92098F202FA64808E311E8115EE"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
