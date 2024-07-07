@@ -6,8 +6,8 @@
 			"type_name":"Youutbe Trends"
 		},
 		{
-			"type_id":"LIST:自媒體 We Media,大刘说说 @大刘说说,岩论 @yantalk9906,老房叨叨叨 @laofangDDD,理科男士K一米 @yydk,小岛大浪吹 @xiaodaodalang,老高與小茉 @laogao,馬臉姐 @malianjie,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,科学火箭叔 @KeXueHuoJianShu,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,老肉雜談 @老肉雜談,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,primitivetechnology9550 @primitivetechnology9550,Mr Beast@MrBeast,Airforceproud95 @Airforceproud95,TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常",
-			"type_name":"自媒体"
+			"type_id":"LIST:自媒體 We Media,老高與小茉 @laogao,脑洞乌托邦 @NDWTB,自说自话的总裁 @STBoss,纪实说 @C-Documentary,老肉雜談 @老肉雜談,李永樂老師 @TchLiyongle,滇西小哥 @dianxixiaoge,李子柒 Liziqi @cnliziqi,老饭骨 @LaoFanGu,小高姐的 Magic Ingredients @MagicIngredients,小穎美食 @XiaoYingFood,primitivetechnology9550 @primitivetechnology9550,Mr Beast@MrBeast,Airforceproud95 @Airforceproud95,TheGreatWar @TheGreatWar,Mark Rober @MarkRober,不良林,涌哥侃侃 @ygkkk,悟空的日常",
+			"type_name":"自媒體"
 		},
 		{
 			"type_id":"LIST:HDR,Girls HDR,Landscape HDR,Walk HDR",
@@ -15,23 +15,23 @@
 		},
 		{
 			"type_id":"LIST:华语音乐,华语MV,点击率最高",
-			"type_name":"音乐"
+			"type_name":"音樂"
 		},
 		{
 			"type_id":"LIST:综艺,芒果综艺,腾讯综艺,爱奇艺综艺,优酷综艺,卫视综艺",
-			"type_name":"综艺"
+			"type_name":"綜藝"
 		},
 		{
-			"type_id":"LIST:紀錄片,纪录片,历史纪录片,自然纪录片,宇宙纪录片",
-			"type_name":"纪录片"
+			"type_id":"LIST:紀錄片,历史纪录片,自然纪录片,宇宙纪录片",
+			"type_name":"紀錄片"
 		},
 		{
 			"type_id":"LIST:新闻 Live,体育直播,赛事直播",
-			"type_name":"新闻直播"
+			"type_name":"新聞直播"
 		},
 		{
 			"type_id":"短劇",
-			"type_name":"短剧"
+			"type_name":"短劇"
 		},
 		{
 			"type_id":"LIST:剧集,腾讯剧集,爱奇艺剧集,优酷剧集,芒果剧集,TVB",
@@ -79,7 +79,7 @@
 		}
 	],
 	"filters":{
-		"短剧":[
+		"短劇":[
 			{
 				"key":"time",
 				"name":"時間",
@@ -1179,10 +1179,6 @@
 				"key":"tid",
 				"name":"頻道主",
 				"value":[
-					{"n":"大刘说说","v":"大刘说说 @大刘说说"},
-					{"n":"岩论","v":"岩论 @yantalk9906"},
-					{"n":"脑洞乌托邦","v":"脑洞乌托邦 @NDWTB"},
-					{"n":"科学火箭叔","v":"科学火箭叔 @KeXueHuoJianShu"},
 					{"n":"李子柒","v":"李子柒 Liziqi @cnliziqi"},
 					{"n":"滇西小哥","v":"滇西小哥 @dianxixiaoge"},
 					{"n":"老高與小茉","v":"老高與小茉 @laogao"},
