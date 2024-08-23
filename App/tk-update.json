@@ -3,10 +3,10 @@
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
   "VersionCode": 240709,
-  "VersionName": "20240709-2109",						//版本的展示名称
-  "UploadTime": "2024-07-09 21:09:00",
-  "ModifyContent": "1、开启图片缓存\r\n",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240710-0011/TVBox_takagen99_20240710-0011_Release.apk",
-  "ApkSize": 27945,
-  "ApkMd5": "6FD58D311175E832AB639CB4F3C2092A"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "VersionName": "20240819-1117",						//版本的展示名称
+  "UploadTime": "2024-08-19 11:17:00",
+  "ModifyContent": "1、添加本地M3U8文件可播放\r\n2、解决搜索页面闪退报错\r\n3、剧集判空增强\r\n4、支持js爬虫本地代理、点播失败时自动切换播放器播放\r\n",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240824-0042/TVBox_chengxue2020_20240824-0042-arm64-generic.apk",
+  "ApkSize": 27944,
+  "ApkMd5": "EDB6F391EF3645E9EBB46B95213C60E6"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
