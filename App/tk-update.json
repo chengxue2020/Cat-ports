@@ -6,7 +6,7 @@
   "VersionName": "20240827-2123",						//版本的展示名称
   "UploadTime": "2024-08-27 21:23:00",
   "ModifyContent": "1、调整去广告规则\r\n",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240827-2336/TVBox_chengxue2020_20240827-2336-arm64-generic.apk",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240828-0025/TVBox_chengxue2020_20240828-0025-arm64-generic.apk",
   "ApkSize": 28731,
-  "ApkMd5": "9031CED150627000153B2D21466C5540"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "879D3DC289DE223DF59260EDA4CAEC34"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
