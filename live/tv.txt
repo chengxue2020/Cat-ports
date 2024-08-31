@@ -1,3 +1,4 @@
+石家庄,#genre#
 石家庄生活频道,http://121.29.91.219:7077/rtp/239.253.92.94:8121
 石家庄生活频道,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/2300.m3u8
 石家庄生活频道,http://180.97.123.180/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel13012/index.m3u8
