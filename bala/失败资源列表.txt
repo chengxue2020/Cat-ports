@@ -1,3 +1,0 @@
-http://jxjson.icu/tvbox/PG推送.json$$$https://www.wogg.link/$$$null$$$1$$$https://jxjson.icu/tvbox/wogg.json
-http://jxjson.icu/tvbox/PG推送.json$$$https://tv.yydsys.top/$$$null$$$1$$$https://jxjson.icu/tvbox/wogg.json
-https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js
