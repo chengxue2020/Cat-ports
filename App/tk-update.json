@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240909,
-  "VersionName": "20240909-0844",						//版本的展示名称
-  "UploadTime": "2024-09-09 08:44:00",
-  "ModifyContent": "1、支持弹幕\r\n2、支持海阔视界APP里的世界直播投屏",
-  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240912-2259/TVBox_chengxue2020_20240912-2259-arm64-generic.apk",
+  "VersionCode": 240914,
+  "VersionName": "20240914-1409",						//版本的展示名称
+  "UploadTime": "2024-09-14 14:09:00",
+  "ModifyContent": "1、修复片尾时间设置的问题\r\n2、不同集数时间不同按正片设置片尾时间，会导致跳过片尾不正确",
+  "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020/takagen99/releases/download/20240915-0036/TVBox_chengxue2020_20240915-0036-arm64-generic.apk",
   "ApkSize": 28945,
-  "ApkMd5": "A0F66918FA6602F2CA3553BDCEDADF5A"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "3336A520C9F3E27BAD556D4E536EACF2"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
