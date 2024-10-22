@@ -1,4779 +1,1062 @@
-{
+ï»¿{
   "sites": [
     {
-      "key": "hipy_js_¶¹°ê[¹Ù]",
-      "name": "?©§¶¹°ê©§ÍÆ¼ö?Ê×´Î¼ÓÔØÉÔÂı£¬ÇëÉÔµÈÆ¬¿Ì... ...",
+      "key": "dbtj",
+      "name": "è±†ç“£â”ƒæ¨è",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¹°ê[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_360Ó°ÊÓ[¹Ù]",
-      "name": "360Ó°ÊÓ[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/360Ó°ÊÓ[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_²Ë¹·[¹Ù]",
-      "name": "²Ë¹·[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/²Ë¹·[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_ÆæÕäÒìÊŞ[¹Ù]",
-      "name": "ÆæÕäÒìÊŞ[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆæÕäÒìÊŞ[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_ÓÅ¿á[¹Ù]",
-      "name": "ÓÅ¿á[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓÅ¿á[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_ÌÚÔÆ¼İÎí[¹Ù]",
-      "name": "ÌÚÔÆ¼İÎí[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÌÚÔÆ¼İÎí[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_°ÙÃ¦ÎŞ¹û[¹Ù]",
-      "name": "°ÙÃ¦ÎŞ¹û[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°ÙÃ¦ÎŞ¹û[¹Ù].js"
-    },
-    {
-      "key": "ConfigCenter",
-      "name": "ÍøÅÌÅäÖÃ",
-      "type": 3,
-      "api": "csp_ConfigCenter",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "ÍæÅ¼gg",
-      "name": "¶à¶àÓ°Òô|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_kongbai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "[object Object]"
-    },
-    {
-      "key": "hipy_js_¶à¶àÓ°Òô",
-      "name": "¶à¶àÓ°Òô(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶à¶àÓ°Òô.js"
-    },
-    {
-      "key": "hipy_js_ßÙÁ¨Ó°ÊÓ[¹Ù]",
-      "name": "ßÙÁ¨Ó°ÊÓ[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ßÙÁ¨Ó°ÊÓ[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_ÎÒµÄßÙÁ¨[¹Ù]0",
-      "name": "ßÙÁ¨½ÌÓı[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÒµÄßÙÁ¨[¹Ù].js?type=url?ms=../json/ßÙÁ¨½ÌÓı.json"
-    },
-    {
-      "key": "hipy_js_ÎÒµÄßÙÁ¨[¹Ù]1",
-      "name": "ßÙÁ¨´óÈ«[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÒµÄßÙÁ¨[¹Ù].js?type=url?ms=../json/ßÙÁ¨´óÈ«.json"
-    },
-    {
-      "key": "hipy_js_²É¼¯Ö®Íõ[ºÏ]0",
-      "name": "²ÉÍõµÀ³¤[ºÏ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/²É¼¯Ö®Íõ[ºÏ].js?type=url?ms=../json/²É¼¯¾²Ì¬.json$1"
-    },
-    {
-      "key": "hipy_js_²É¼¯Ö®Íõ[ºÏ]1",
-      "name": "²ÉÍõzy[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/²É¼¯Ö®Íõ[ºÏ].js?type=url?ms=../json/²É¼¯[zy]¾²Ì¬.json$1"
-    },
-    {
-      "key": "hipy_js_[ÃÜ]RjAv",
-      "name": "[ÃÜ]RjAv(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/[ÃÜ]RjAv.js"
-    },
-    {
-      "key": "hipy_js_??ÑëÊÓ´óÈ«[?] ",
-      "name": "??ÑëÊÓ´óÈ«[?] (drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/??ÑëÊÓ´óÈ«[?] .js"
-    },
-    {
-      "key": "hipy_js_?ĞÇÑ¿¶Ì¾ç[?]",
-      "name": "?ĞÇÑ¿¶Ì¾ç[?](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/?ĞÇÑ¿¶Ì¾ç[?].js"
-    },
-    {
-      "key": "hipy_js_01¿´Çò[Çò]",
-      "name": "01¿´Çò[Çò](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/01¿´Çò[Çò].js"
-    },
-    {
-      "key": "hipy_js_4K-AV",
-      "name": "4K-AV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4K-AV.js"
-    },
-    {
-      "key": "hipy_js_4k¾çÔº",
-      "name": "4k¾çÔº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4k¾çÔº.js"
-    },
-    {
-      "key": "hipy_js_4khdr",
-      "name": "4khdr(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/4khdr.js"
-    },
-    {
-      "key": "hipy_js_6VĞÂ°æ[´Å]",
-      "name": "6VĞÂ°æ[´Å](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/6VĞÂ°æ[´Å].js"
-    },
-    {
-      "key": "hipy_js_7Ã¨Ğ¡Ëµ[Êé]",
-      "name": "7Ã¨Ğ¡Ëµ[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/7Ã¨Ğ¡Ëµ[Êé].js"
-    },
-    {
-      "key": "hipy_js_8ºÅÓ°Ôº",
-      "name": "8ºÅÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/8ºÅÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_29Æ¬¿â[ÃÜ]",
-      "name": "29Æ¬¿â[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/29Æ¬¿â[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_36Ö±²¥[ÃÜ]",
-      "name": "36Ö±²¥[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/36Ö±²¥[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_58¶¯Âş[Âş]",
-      "name": "58¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/58¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_85kÓ°ÊÓ",
-      "name": "85kÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/85kÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_88¿´Çò[Çò]",
-      "name": "88¿´Çò[Çò](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/88¿´Çò[Çò].js"
-    },
-    {
-      "key": "88Pan",
-      "name": "88ÍøÅÌ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_EightEight",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$https://662688.xyz$$$"
-    },
-    {
-      "key": "hipy_js_88tvs",
-      "name": "88tvs(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/88tvs.js"
-    },
-    {
-      "key": "hipy_js_111tv[×Ô¶¯]",
-      "name": "111tv[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/111tv[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_222ÌıÊé[Ìı]",
-      "name": "222ÌıÊé[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/222ÌıÊé[Ìı].js"
-    },
-    {
-      "key": "hipy_js_310Ö±²¥[Çò]",
-      "name": "310Ö±²¥[Çò](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/310Ö±²¥[Çò].js"
-    },
-    {
-      "key": "hipy_js_348µçÓ°Íø",
-      "name": "348µçÓ°Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/348µçÓ°Íø.js"
-    },
-    {
-      "key": "hipy_js_360°É[Çò]",
-      "name": "360°É[Çò](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/360°É[Çò].js"
-    },
-    {
-      "key": "hipy_js_539Ó°ÊÓ",
-      "name": "539Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/539Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_555Ó°ÊÓ[·É]",
-      "name": "555Ó°ÊÓ[·É](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/555Ó°ÊÓ[·É].js"
-    },
-    {
-      "key": "hipy_js_777Ó°ÊÓ",
-      "name": "777Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/777Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_0855Ó°ÊÓ",
-      "name": "0855Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/0855Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_926tv[Çò]",
-      "name": "926tv[Çò](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/926tv[Çò].js"
-    },
-    {
-      "key": "hipy_js_°¢ÀïÍÁ¶¹[ÅÌ]",
-      "name": "°¢ÀïÍÁ¶¹[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°¢ÀïÍÁ¶¹[ÅÌ].js"
-    },
-    {
-      "key": "AliShareEBook",
-      "name": "°¢ÀïÔÆÅÌÊé¼®·ÖÏí",
-      "type": 3,
-      "api": "csp_AliShare",
+      "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/alishare.ebook.txt$$$db$$$1"
-    },
-    {
-      "key": "AliShare",
-      "name": "°¢ÀïÔÆÅÌÓ°ÊÓ·ÖÏí",
-      "type": 3,
-      "api": "csp_AliShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/alishare.txt$$$db$$$1"
-    },
-    {
-      "key": "hipy_js_°¡¹şDJ[Ìı]",
-      "name": "°¡¹şDJ[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°¡¹şDJ[Ìı].js"
-    },
-    {
-      "key": "hipy_js_°®°®Ó°Ôº[ÃÜ]",
-      "name": "°®°®Ó°Ôº[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®°®Ó°Ôº[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_°®³µMV[Ìı]",
-      "name": "°®³µMV[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®³µMV[Ìı].js"
-    },
-    {
-      "key": "hipy_js_°®µ¯Ä»[Âş]",
-      "name": "°®µ¯Ä»[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®µ¯Ä»[Âş].js"
-    },
-    {
-      "key": "hipy_js_°®µÏÓ°ÊÓ",
-      "name": "°®µÏÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®µÏÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_°®¿´¶Ì¾ç[ÅÌ]",
-      "name": "°®¿´¶Ì¾ç[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´¶Ì¾ç[ÅÌ].js"
-    },
-    {
-      "key": "hipy_js_°®¿´»úÆ÷ÈË[³æ]",
-      "name": "°®¿´»úÆ÷ÈË[³æ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´»úÆ÷ÈË[³æ].js"
-    },
-    {
-      "key": "hipy_js_°®¿´Å©Ãñ[ÓÅ]",
-      "name": "°®¿´Å©Ãñ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´Å©Ãñ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_°®¿´Å©Ãñ2[ÓÅ]",
-      "name": "°®¿´Å©Ãñ2[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´Å©Ãñ2[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_°®¿´Ó°Ôº",
-      "name": "°®¿´Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_°®¿´hd",
-      "name": "°®¿´hd(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®¿´hd.js"
-    },
-    {
-      "key": "hipy_js_°®Äã¶Ì¾ç",
-      "name": "°®Äã¶Ì¾ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®Äã¶Ì¾ç.js"
-    },
-    {
-      "key": "hipy_js_°®ÉÏÄãÌıÊéÍø[Ìı]",
-      "name": "°®ÉÏÄãÌıÊéÍø[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®ÉÏÄãÌıÊéÍø[Ìı].js"
-    },
-    {
-      "key": "hipy_js_°®ÓÅÓ°ÊÓ[×Ô¶¯]",
-      "name": "°®ÓÅÓ°ÊÓ[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°®ÓÅÓ°ÊÓ[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_à»ÎØ¶¯Âş",
-      "name": "à»ÎØ¶¯Âş(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/à»ÎØ¶¯Âş.js"
-    },
-    {
-      "key": "hipy_js_°×æÎÕßÁªÃË",
-      "name": "°×æÎÕßÁªÃË(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°×æÎÕßÁªÃË.js"
-    },
-    {
-      "key": "hipy_js_°ñÒ»¶Ì¾ç",
-      "name": "°ñÒ»¶Ì¾ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°ñÒ»¶Ì¾ç.js"
-    },
-    {
-      "key": "hipy_js_°ü×ÓÂş»­[»­]",
-      "name": "°ü×ÓÂş»­[»­](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/°ü×ÓÂş»­[»­].js"
-    },
-    {
-      "key": "hipy_js_±¦Æ¬ÊÓÆµ",
-      "name": "±¦Æ¬ÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/±¦Æ¬ÊÓÆµ.js"
-    },
-    {
-      "key": "hipy_js_±©·ç×ÊÔ´[×Ê]",
-      "name": "±©·ç×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/±©·ç×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_±±´¨Ó°ÊÓ",
-      "name": "±±´¨Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/±±´¨Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_±´ÀÖ»¢[¶ù]",
-      "name": "±´ÀÖ»¢[¶ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/±´ÀÖ»¢[¶ù].js"
-    },
-    {
-      "key": "hipy_js_±»ÎÑµçÓ°",
-      "name": "±»ÎÑµçÓ°(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/±»ÎÑµçÓ°.js"
-    },
-    {
-      "key": "Local",
-      "name": "±¾µØ",
-      "type": 3,
-      "api": "csp_Local",
-      "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0
     },
     {
-      "key": "hipy_js_±ÊÈ¤¸ó[Êé]",
-      "name": "±ÊÈ¤¸ó[Êé](drpy_t3)",
+      "key": "ngys",
+      "name": "å—ç“œâ”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_NanGua",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2
+    },
+    {
+      "key": "mmys",
+      "name": "èŒç±³â”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_AppTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "timeout": 15,
+      "ext": "AO7TcBkd8Iifux0Y8Qze6tVlMg==",
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "pgys",
+      "name": "è‹¹æœâ”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_LiteApple",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "nkys",
+      "name": "è€çœ‹â”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_Nkdy",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/±ÊÈ¤¸ó[Êé].js"
+      "playerType": 2,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
     {
-      "key": "hipy_js_±ÊÈ¤¸ó13[Êé]",
-      "name": "±ÊÈ¤¸ó13[Êé](drpy_t3)",
+      "key": "shys",
+      "name": "éªšç«â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_SaoHuo",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/±ÊÈ¤¸ó13[Êé].js"
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
     {
-      "key": "Bdys_spider",
-      "name": "ßÙµÎ©§´ÅÁ¦",
+      "key": "gzys",
+      "name": "ç“œå­â”ƒå½±è§†",
       "type": 3,
-      "api": "csp_Bdys01",
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 2,
+      "timeout": 30,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "ygys",
+      "name": "ä¸€ä¸ªâ”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_Pptv",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://www.yjys.me/$$$None$$$1"
+      "playerType": 2,
+      "ext": "https://yigeg.pro",
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
     {
-      "key": "hipy_js_ßÙàÖÓ°ÊÓ",
-      "name": "ßÙàÖÓ°ÊÓ(drpy_t3)",
+      "key": "free",
+      "name": "Freeâ”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_FreeOK",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/ßÙàÖÓ°ÊÓ.js"
+      "click": "document.querySelector(\"#playleftiframe\").contentWindow.document.querySelector(\"#start\").click();",
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
     },
     {
-      "key": "hipy_js_ßÙàÖÓ°ÊÓ[ÓÅ]",
-      "name": "ßÙàÖÓ°ÊÓ[ÓÅ](drpy_t3)",
+      "key": "czys",
+      "name": "å‚é•¿â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_Czsapp",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/ßÙàÖÓ°ÊÓ[ÓÅ].js"
+      "playerType": 2,
+      "ext": "https://czzy.top/",
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
-      "key": "hipy_js_ßÙÁ¨Ö±²¥[¹Ù]",
-      "name": "ßÙÁ¨Ö±²¥[¹Ù](drpy_t3)",
+      "key": "atys",
+      "name": "å¥¥ç‰¹â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "timeout": 15,
+      "ext": "https://auete.pro/",
+      "jar": "http://m1839732.cf.caoni.ru/6/meow.php;md5;7949BE328984866E5E47D85228DBAC2A"
+    },
+    {
+      "key": "xxys",
+      "name": "æ–°æ–°â”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_AppYsV2",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/ßÙÁ¨Ö±²¥[¹Ù].js"
+      "ext": "http://4k.953365.cn:8090/xgapp.php/v3/"
     },
     {
-      "key": "hipy_js_²¥¿Í[Ìı]",
-      "name": "²¥¿Í[Ìı](drpy_t3)",
+      "key": "qyys",
+      "name": "å¥‡ä¼˜â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_Qiyou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "playerType": 1,
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "rzys",
+      "name": "å¿è€…â”ƒå½±è§†",
+      "type": 3,
+      "api": "csp_AppRZ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²¥¿Í[Ìı].js"
+      "playerType": 2,
+      "ext": "http://rzys.xyz/",
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
-      "key": "hipy_js_²©¿´ÌıÊé[Ìı]",
-      "name": "²©¿´ÌıÊé[Ìı](drpy_t3)",
+      "key": "nmys",
+      "name": "å†œæ°‘â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_Nongm",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²©¿´ÌıÊé[Ìı].js"
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
     },
     {
-      "key": "hipy_js_²É¼¯Ö®Íõ[ºÏ]2",
-      "name": "²ÉÍõ³ÉÈË[ÃÜ](drpy_t3)",
+      "key": "Kkys",
+      "name": "å¿«çœ‹â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_Kuaikan",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²É¼¯Ö®Íõ[ºÏ].js?type=url?ms=../json/²É¼¯[ÃÜ]¾²Ì¬.json"
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
-      "key": "hipy_js_²İİ®Ãë²¥[ÃÜ]",
-      "name": "²İİ®Ãë²¥[ÃÜ](drpy_t3)",
+      "key": "sbys",
+      "name": "ç´ ç™½â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²İİ®Ãë²¥[ÃÜ].js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sbys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
-      "key": "hipy_js_²ß³ÛÓ°Ôº(×Ô¶¯)",
-      "name": "²ß³ÛÓ°Ôº(×Ô¶¯)(drpy_t3)",
+      "key": "Qxys",
+      "name": "ä¸ƒæ–°â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²ß³ÛÓ°Ôº(×Ô¶¯).js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=qxys"
     },
     {
-      "key": "hipy_js_²è±­ºü",
-      "name": "²è±­ºü(drpy_t3)",
+      "key": "ynys",
+      "name": "é¸­å¥ˆâ”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²è±­ºü.js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=ynys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
-      "key": "hipy_js_²èÓï×ÊÔ´[×Ê]",
-      "name": "²èÓï×ÊÔ´[×Ê](drpy_t3)",
+      "key": "nfys",
+      "name": "å¥ˆé£â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XYQHiker",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/²èÓï×ÊÔ´[×Ê].js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=nfys",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
-      "key": "hipy_js_³§³¤×ÊÔ´",
-      "name": "³§³¤×ÊÔ´(drpy_t3)",
+      "key": "tvys",
+      "name": "TVB â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/³§³¤×ÊÔ´.js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=tvyb"
     },
     {
-      "key": "hipy_js_³©ÃÎÓ°ÊÓ[ÓÅ]",
-      "name": "³©ÃÎÓ°ÊÓ[ÓÅ](drpy_t3)",
+      "key": "Hhys",
+      "name": "é»‘ç‹â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/³©ÃÎÓ°ÊÓ[ÓÅ].js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=hhys"
     },
     {
-      "key": "hipy_js_³ÈÖ­Ó°ÊÓ",
-      "name": "³ÈÖ­Ó°ÊÓ(drpy_t3)",
+      "key": "55ys",
+      "name": "äº”äº”â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/³ÈÖ­Ó°ÊÓ.js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=wwys"
     },
     {
-      "key": "hipy_js_³ôµ°µ°",
-      "name": "³ôµ°µ°(drpy_t3)",
+      "key": "sxys",
+      "name": "å¸ˆå…„â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_XBPQ",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/³ôµ°µ°.js"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sxys"
     },
     {
-      "key": "hipy_js_´ÅÁ¦ĞÜ[´Å]",
-      "name": "´ÅÁ¦ĞÜ[´Å](drpy_t3)",
+      "key": "xsys",
+      "name": "å…ˆç”Ÿâ”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/´ÅÁ¦ĞÜ[´Å].js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=dyss"
     },
     {
-      "key": "hipy_js_´ÎÔª³Ç¶¯Âş[Âş]",
-      "name": "´ÎÔª³Ç¶¯Âş[Âş](drpy_t3)",
+      "key": "mays",
+      "name": "ç±³çˆ±â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/´ÎÔª³Ç¶¯Âş[Âş].js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mays"
     },
     {
-      "key": "hipy_js_´Ìâ¬Ó°ÊÓ",
-      "name": "´Ìâ¬Ó°ÊÓ(drpy_t3)",
+      "key": "xcys",
+      "name": "æ˜Ÿè¾°â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/´Ìâ¬Ó°ÊÓ.js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=xcys"
     },
     {
-      "key": "hipy_js_´ï´ï¹ê",
-      "name": "´ï´ï¹ê(drpy_t3)",
+      "key": "jpys",
+      "name": "èç‰‡â”ƒå½±è§†",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=jpys"
+    },
+    {
+      "key": "zzys",
+      "name": "å­å­â”ƒå½±è§†",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/´ï´ï¹ê.js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=zzys"
     },
     {
-      "key": "hipy_js_´ï´ïÖí",
-      "name": "´ï´ïÖí(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´ï´ïÖí.js"
-    },
-    {
-      "key": "hipy_js_´óÃ×¶¯Âş[Âş]",
-      "name": "´óÃ×¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÃ×¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_APPV2[Ä£°å]1",
-      "name": "´óÃ×ĞÇÇò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/APPV2[Ä£°å].js?type=url?ms=https://dmz8k4.wiki"
-    },
-    {
-      "key": "hipy_js_´óÃ×ĞÇÇò",
-      "name": "´óÃ×ĞÇÇò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÃ×ĞÇÇò.js"
-    },
-    {
-      "key": "hipy_js_´óÃ×ĞÇÇò[V2]",
-      "name": "´óÃ×ĞÇÇò[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÃ×ĞÇÇò[V2].js"
-    },
-    {
-      "key": "DaPanSo",
-      "name": "´óÅÌËÑ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_DaPanSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://dapanso.com$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_´óÇ§ÊÓ½ç",
-      "name": "´óÇ§ÊÓ½ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÇ§ÊÓ½ç.js"
-    },
-    {
-      "key": "hipy_js_´óÈ«[Ñë]",
-      "name": "´óÈ«[Ñë](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÈ«[Ñë].js"
-    },
-    {
-      "key": "hipy_js_´óÊ¦ĞÖÓ°ÊÓ[ÓÅ]",
-      "name": "´óÊ¦ĞÖÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÊ¦ĞÖÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_´óÖĞ¹ú",
-      "name": "´óÖĞ¹ú(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/´óÖĞ¹ú.js"
-    },
-    {
-      "key": "hipy_js_µ°µ°¾ç",
-      "name": "µ°µ°¾ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µ°µ°¾ç.js"
-    },
-    {
-      "key": "hipy_js_µ°µ°ÔŞ",
-      "name": "µ°µ°ÔŞ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µ°µ°ÔŞ.js"
-    },
-    {
-      "key": "hipy_js_µØ¹ÏÊÓÆµ[ÃÜ]",
-      "name": "µØ¹ÏÊÓÆµ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µØ¹ÏÊÓÆµ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_µÍ¶Ë",
-      "name": "µÍ¶Ë(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µÍ¶Ë.js"
-    },
-    {
-      "key": "hipy_js_àÖÁ¨àÖÁ¨",
-      "name": "àÖÁ¨àÖÁ¨(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/àÖÁ¨àÖÁ¨.js"
-    },
-    {
-      "key": "hipy_js_µÚÒ»º«Âş[»­]",
-      "name": "µÚÒ»º«Âş[»­](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µÚÒ»º«Âş[»­].js"
-    },
-    {
-      "key": "MV_vod",
-      "name": "µçÊÓ©§MTV",
+      "key": "kkzy",
+      "name": "å¿«çœ‹â”ƒèµ„æº",
       "type": 1,
-      "api": "https://mv.wogg.link/mv/vod",
+      "api": "https://kuaikan-api.com/api.php/provide/vod/from/kuaikan/",
       "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "å›½äº§å‰§",
+        "æ¸¯å°å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æµ·å¤–å‰§",
+        "åŠ¨ä½œç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "ææ€–ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "æƒŠæ‚šç‰‡",
+        "å†’é™©ç‰‡"
+      ]
+    },
+    {
+      "key": "36zy",
+      "name": "ä¸‰å…­â”ƒèµ„æº",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playUrl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "å›½äº§å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "åŠ¨ç”»ç”µå½±",
+        "ç½‘ç»œç”µå½±",
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "ç¾éš¾ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "æ¸¯å°å‰§",
+        "æ—¥éŸ©å‰§",
+        "æ¬§ç¾å‰§",
+        "æƒŠæ‚šç‰‡",
+        "çŠ¯ç½ªç‰‡",
+        "å†’é™©ç‰‡",
+        "æ‚¬ç–‘ç‰‡",
+        "æ­¦ä¾ ç‰‡",
+        "å¥‡å¹»ç‰‡",
+        "å›½äº§ç»¼è‰º"
+      ],
+      "jar": "http://m1839732.cf.caoni.ru/7/meow.php;md5;D2F2AD718A007B5733ABB5F91AD23533"
+    },
+    {
+      "key": "lzzy",
+      "name": "é‡å­â”ƒèµ„æº",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "å›½äº§å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "æ³°å›½å‰§",
+        "å°æ¹¾å‰§",
+        "é¦™æ¸¯å‰§",
+        "æ¬§ç¾å‰§",
+        "éŸ©å›½å‰§",
+        "æ—¥æœ¬å‰§",
+        "åŠ¨æ¼«",
+        "ä½“è‚²",
+        "å‰§æƒ…ç‰‡",
+        "åŠ¨ä½œç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å–œå‰§ç‰‡"
+      ]
+    },
+    {
+      "key": "ffzy",
+      "name": "éå‡¡â”ƒèµ„æº",
+      "type": 1,
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playurl": "json:http://110.42.3.99:880/rmm.php/?url=",
+      "categories": [
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "è®°å½•ç‰‡",
+        "å›½äº§å‰§",
+        "æ¬§ç¾å‰§",
+        "é¦™æ¸¯å‰§",
+        "éŸ©å›½å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥æœ¬å‰§",
+        "æµ·å¤–å‰§",
+        "æ³°å›½å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æµ·å¤–åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º"
+      ]
+    },
+    {
+      "key": "snzy",
+      "name": "ç´¢å°¼â”ƒèµ„æº",
+      "type": 1,
+      "api": "https://suoniapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "åŠ¨ä½œç‰‡",
+        "å–œå‰§ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "ææ€–ç‰‡",
+        "çˆ±æƒ…ç‰‡",
+        "å‰§æƒ…ç‰‡",
+        "æˆ˜äº‰ç‰‡",
+        "è®°å½•ç‰‡",
+        "å›½äº§å‰§",
+        "æ¬§ç¾å‰§",
+        "é¦™æ¸¯å‰§",
+        "éŸ©å›½å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥æœ¬å‰§",
+        "æµ·å¤–å‰§",
+        "æ³°å›½å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "æ—¥éŸ©åŠ¨æ¼«",
+        "æ¬§ç¾åŠ¨æ¼«",
+        "æ¸¯å°åŠ¨æ¼«",
+        "æµ·å¤–åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "æ—¥éŸ©ç»¼è‰º",
+        "æ¬§ç¾ç»¼è‰º"
+      ]
+    },
+    {
+      "key": "bfzy",
+      "name": "æš´é£â”ƒèµ„æº",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "å›½äº§å‰§",
+        "å›½äº§åŠ¨æ¼«",
+        "å¤§é™†ç»¼è‰º",
+        "æ¸¯å°ç»¼è‰º",
+        "é¦™æ¸¯å‰§",
+        "å°æ¹¾å‰§",
+        "æ—¥æœ¬å‰§",
+        "æ¬§ç¾å‰§",
+        "æ³°å›½å‰§",
+        "æ—¥æœ¬åŠ¨æ¼«",
+        "æ—¥æœ¬ç»¼è‰º",
+        "ç»¼è‰ºé¢‘é“",
+        "æ–°é©¬æ³°ç»¼è‰º",
+        "çºªå½•ç‰‡",
+        "ç§‘å¹»ç‰‡",
+        "å–œå‰§ç‰‡",
+        "æˆ˜äº‰ç‰‡"
+      ]
+    },
+    {
+      "key": "ssys",
+      "name": "ä¸‰ä¸‰â”ƒè§†é¢‘",
+      "type": 3,
+      "api": "csp_SP33",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "qysp",
+      "name": "å¥‡è‰ºâ”ƒè§†é¢‘",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=qysp"
+    },
+    {
+      "key": "txsp",
+      "name": "è…¾è®¯â”ƒè§†é¢‘",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txsp"
+    },
+    {
+      "key": "yksp",
+      "name": "ä¼˜é…·â”ƒè§†é¢‘",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=yksp"
+    },
+    {
+      "key": "mgsp",
+      "name": "èŠ’æœâ”ƒè§†é¢‘",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgsp"
+    },
+    {
+      "key": "sgys",
+      "name": "æœç‹—â”ƒè§†é¢‘",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=sgsp"
+    },
+    {
+      "key": "ygcl",
+      "name": "å½±æ¸¯â”ƒç£åŠ›",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=ygcl",
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "lwcl",
+      "name": "å…­ç»´â”ƒç£åŠ›",
+      "type": 3,
+      "api": "csp_SixV",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "http://www.xb6v.com/"
+    },
+    {
+      "key": "mp4c",
+      "name": "MP4 â”ƒç£åŠ›",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
+    },
+    {
+      "key": "dmbs",
+      "name": "å·´å£«â”ƒåŠ¨æ¼«",
+      "type": 3,
+      "api": "csp_Dm84",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "rmdm",
+      "name": "æ—¥æ¼«â”ƒåŠ¨æ¼«",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "xfdm",
+      "name": "ç¨€é¥­â”ƒåŠ¨æ¼«",
+      "type": 3,
+      "api": "csp_Xifan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "http://m1839732.cf.caoni.ru/5/meow.php;md5;9A039F481AC34BE086451AEEFBE71A68"
+    },
+    {
+      "key": "ntdm",
+      "name": "æŸ æ¡â”ƒåŠ¨æ¼«",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=ntdm"
+    },
+    {
+      "key": "qmdm",
+      "name": "å¥‡ç±³â”ƒåŠ¨æ¼«",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=qmdm"
+    },
+    {
+      "key": "qmty",
+      "name": "JRK â”ƒä½“è‚²",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=jrkq"
     },
     {
-      "key": "hipy_js_µçÓ°¹·",
-      "name": "µçÓ°¹·(drpy_t3)",
+      "key": "qety",
+      "name": "ä¼é¹…â”ƒä½“è‚²",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µçÓ°¹·.js"
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=qety"
     },
     {
-      "key": "hipy_js_µçÓ°ÁÔÊÖ[×Ô¶¯]",
-      "name": "µçÓ°ÁÔÊÖ[×Ô¶¯](drpy_t3)",
+      "key": "mxmv",
+      "name": "æ˜æ˜Ÿâ”ƒ MV ",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µçÓ°ÁÔÊÖ[×Ô¶¯].js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=mxmv"
     },
     {
-      "key": "hipy_js_µçÓ°ÌìÌÃ",
-      "name": "µçÓ°ÌìÌÃ(drpy_t3)",
+      "key": "hyzb",
+      "name": "è™ç‰™â”ƒç›´æ’­",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µçÓ°ÌìÌÃ.js"
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=hyzb"
     },
     {
-      "key": "hipy_js_µçÓ°ÍÃ",
-      "name": "µçÓ°ÍÃ(drpy_t3)",
+      "key": "blzb",
+      "name": "å“”å“©â”ƒç›´æ’­",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µçÓ°ÍÃ.js"
-    },
-    {
-      "key": "hipy_js_µçÓ°ÏÈÉú",
-      "name": "µçÓ°ÏÈÉú(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/µçÓ°ÏÈÉú.js"
-    },
-    {
-      "key": "hipy_js_¶¥µãĞ¡Ëµ[Êé]",
-      "name": "¶¥µãĞ¡Ëµ[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¥µãĞ¡Ëµ[Êé].js"
-    },
-    {
-      "key": "hipy_js_¶¥µãĞ¡Ëµ2[Êé]",
-      "name": "¶¥µãĞ¡Ëµ2[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¥µãĞ¡Ëµ2[Êé].js"
-    },
-    {
-      "key": "hipy_js_¶¯Âş°ÍÊ¿[Âş]",
-      "name": "¶¯Âş°ÍÊ¿[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¯Âş°ÍÊ¿[Âş].js"
-    },
-    {
-      "key": "hipy_js_¶¯ÂşÍø[Âş]",
-      "name": "¶¯ÂşÍø[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¯ÂşÍø[Âş].js"
-    },
-    {
-      "key": "hipy_js_¶·ÓãÖ±²¥[¹Ù]",
-      "name": "¶·ÓãÖ±²¥[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶·ÓãÖ±²¥[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_¶¹½ÇÍø",
-      "name": "¶¹½ÇÍø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¹½ÇÍø.js"
-    },
-    {
-      "key": "hipy_js_¶¾ÉßµçÓ°[ÓÅ]",
-      "name": "¶¾ÉßµçÓ°[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶¾ÉßµçÓ°[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_¶Ì¾çÌìÌÃ",
-      "name": "¶Ì¾çÌìÌÃ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶Ì¾çÌìÌÃ.js"
-    },
-    {
-      "key": "hipy_js_¶Ì¾çÔÚÏß",
-      "name": "¶Ì¾çÔÚÏß(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶Ì¾çÔÚÏß.js"
-    },
-    {
-      "key": "hipy_js_¶Ì¾çTVÍø",
-      "name": "¶Ì¾çTVÍø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶Ì¾çTVÍø.js"
-    },
-    {
-      "key": "hipy_js_¶à¶à×·¾ç[ÓÅ]",
-      "name": "¶à¶à×·¾ç[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¶à¶à×·¾ç[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_·¬ºÅ×ÊÔ´[ÃÜ]",
-      "name": "·¬ºÅ×ÊÔ´[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·¬ºÅ×ÊÔ´[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_·¬ÇÑĞ¡Ëµ[Êé]",
-      "name": "·¬ÇÑĞ¡Ëµ[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·¬ÇÑĞ¡Ëµ[Êé].js"
-    },
-    {
-      "key": "hipy_js_·¹ÍÅÓ°ÊÓ",
-      "name": "·¹ÍÅÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·¹ÍÅÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_·Éµ¶×ÊÔ´[×Ê]",
-      "name": "·Éµ¶×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·Éµ¶×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_·É¹·Ó°Ôº[ÃÜ]",
-      "name": "·É¹·Ó°Ôº[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·É¹·Ó°Ôº[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_·ÉÏèÄñ[Êé]",
-      "name": "·ÉÏèÄñ[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·ÉÏèÄñ[Êé].js"
-    },
-    {
-      "key": "hipy_js_·ÉÓãÓ°ÊÓ",
-      "name": "·ÉÓãÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·ÉÓãÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_·Ç·²×ÊÔ´[×Ê]",
-      "name": "·Ç·²×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·Ç·²×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_·ÖÏí¶ÌÊÓÆµ",
-      "name": "·ÖÏí¶ÌÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/·ÖÏí¶ÌÊÓÆµ.js"
-    },
-    {
-      "key": "hipy_js_¸É·¹Ó°ÊÓ",
-      "name": "¸É·¹Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¸É·¹Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¹·¹·ÅÌ[ËÑ]",
-      "name": "¹·¹·ÅÌ[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹·¹·ÅÌ[ËÑ].js"
-    },
-    {
-      "key": "hipy_js_¹¾¹¾·¬[Âş]",
-      "name": "¹¾¹¾·¬[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹¾¹¾·¬[Âş].js"
-    },
-    {
-      "key": "hipy_js_¹Å·çÂş»­[»­]",
-      "name": "¹Å·çÂş»­[»­](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹Å·çÂş»­[»­].js"
-    },
-    {
-      "key": "hipy_js_¹Ú½¨Ó°ÊÓ",
-      "name": "¹Ú½¨Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹Ú½¨Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¹ã²¥ÃÔFM[Ìı]",
-      "name": "¹ã²¥ÃÔFM[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹ã²¥ÃÔFM[Ìı].js"
-    },
-    {
-      "key": "hipy_js_¹şÆ¤Ó°ÊÓ[ÓÅ]",
-      "name": "¹şÆ¤Ó°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¹şÆ¤Ó°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_º£Íâ¾ç»ã",
-      "name": "º£Íâ¾ç»ã(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/º£Íâ¾ç»ã.js"
-    },
-    {
-      "key": "hipy_js_º£ÑóÌıÊé[Ìı]",
-      "name": "º£ÑóÌıÊé[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/º£ÑóÌıÊé[Ìı].js"
-    },
-    {
-      "key": "hipy_js_ºÃÈ¤Íø[²¥]",
-      "name": "ºÃÈ¤Íø[²¥](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÃÈ¤Íø[²¥].js"
-    },
-    {
-      "key": "hipy_js_APPV2[Ä£°å]3",
-      "name": "ºÓÀêÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/APPV2[Ä£°å].js?type=url?ms=https://www.heli888.cc"
-    },
-    {
-      "key": "hipy_js_ºÓÀêÓ°ÊÓ[V2]",
-      "name": "ºÓÀêÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÓÀêÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_ºÚºüÓ°Ôº",
-      "name": "ºÚºüÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÚºüÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ºÚÁÏ²»´òìÈ-z",
-      "name": "ºÚÁÏ²»´òìÈ-z(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÚÁÏ²»´òìÈ-z.js"
-    },
-    {
-      "key": "hipy_js_ºÚÁÏ²»´òìÈ[ÃÜ]",
-      "name": "ºÚÁÏ²»´òìÈ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÚÁÏ²»´òìÈ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_ºÚÄ¾¶ú×ÊÔ´[×Ê]",
-      "name": "ºÚÄ¾¶ú×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºÚÄ¾¶ú×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ºã´óÓ°ÊÓ[ÃÜ]",
-      "name": "ºã´óÓ°ÊÓ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ºã´óÓ°ÊÓ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_»¢ÑÀÖ±²¥[¹Ù]",
-      "name": "»¢ÑÀÖ±²¥[¹Ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/»¢ÑÀÖ±²¥[¹Ù].js"
-    },
-    {
-      "key": "hipy_js_»¨×Ó¶¯Âş[Âş]",
-      "name": "»¨×Ó¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/»¨×Ó¶¯Âş[Âş].js"
-    },
-    {
-      "key": "»ìºÏÅÌ",
-      "name": "»ìºÏÅÌ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_HunHePan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "hipy_js_»ğºüÓ°ÊÓ",
-      "name": "»ğºüÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/»ğºüÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¼´¿´Ó°ÊÓ",
-      "name": "¼´¿´Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼´¿´Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¼«µãÓ°ÊÓ",
-      "name": "¼«µãÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼«µãÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¼«¿Í×ÊÔ´[×Ê]",
-      "name": "¼«¿Í×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼«¿Í×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_¼«ËÙ×ÊÔ´[×Ê]",
-      "name": "¼«ËÙ×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼«ËÙ×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÇÑ×ÓÓ°ÊÓ[×Ô¶¯]",
-      "name": "ÇÑ×ÓÓ°ÊÓ[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÇÑ×ÓÓ°ÊÓ[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_¼ÒÍ¥Ó°ÊÓ",
-      "name": "¼ÒÍ¥Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼ÒÍ¥Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¼öÆ¬[ÓÅ]",
-      "name": "¼öÆ¬[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¼öÆ¬[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_½È×ÓÓ°Ôº",
-      "name": "½È×ÓÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/½È×ÓÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_½ğ½ğ³æ",
-      "name": "½ğ½ğ³æ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/½ğ½ğ³æ.js"
-    },
-    {
-      "key": "hipy_js_½ğÅÆÓ°Ôº",
-      "name": "½ğÅÆÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/½ğÅÆÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_½ğÓ¥×ÊÔ´[×Ê]",
-      "name": "½ğÓ¥×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/½ğÓ¥×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_¾ÅÅ£µçÓ°",
-      "name": "¾ÅÅ£µçÓ°(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾ÅÅ£µçÓ°.js"
-    },
-    {
-      "key": "hipy_js_¾ÅÑı²Ö¿â[ÃÜ]",
-      "name": "¾ÅÑı²Ö¿â[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾ÅÑı²Ö¿â[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_éÙ×ÓèÖ[ÅÌ]",
-      "name": "éÙ×ÓèÖ[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/éÙ×ÓèÖ[ÅÌ].js"
-    },
-    {
-      "key": "hipy_js_¾ç°Í°Í",
-      "name": "¾ç°Í°Í(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾ç°Í°Í.js"
-    },
-    {
-      "key": "hipy_js_¾ç¸ç¸ç",
-      "name": "¾ç¸ç¸ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾ç¸ç¸ç.js"
-    },
-    {
-      "key": "hipy_js_¾ç¼¯TV",
-      "name": "¾ç¼¯TV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾ç¼¯TV.js"
-    },
-    {
-      "key": "hipy_js_¾çÃÔ",
-      "name": "¾çÃÔ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾çÃÔ.js"
-    },
-    {
-      "key": "hipy_js_¾çÈ¦È¦",
-      "name": "¾çÈ¦È¦(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾çÈ¦È¦.js"
-    },
-    {
-      "key": "hipy_js_¾çÈ¦È¦[×Ô¶¯]",
-      "name": "¾çÈ¦È¦[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¾çÈ¦È¦[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_¿§·ÈÓ°ÊÓ",
-      "name": "¿§·ÈÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿§·ÈÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¿´57",
-      "name": "¿´57(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´57.js"
-    },
-    {
-      "key": "hipy_js_¿´¿´Ó°ÊÓ",
-      "name": "¿´¿´Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´¿´Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¿´¿ÍÊÓÆµ",
-      "name": "¿´¿ÍÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´¿ÍÊÓÆµ.js"
-    },
-    {
-      "key": "hipy_js_¿´¿ÍÓ°Ôº",
-      "name": "¿´¿ÍÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´¿ÍÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_¿´ÁËÃ´",
-      "name": "¿´ÁËÃ´(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´ÁËÃ´.js"
-    },
-    {
-      "key": "hipy_js_¿´Ï·Íø",
-      "name": "¿´Ï·Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´Ï·Íø.js"
-    },
-    {
-      "key": "hipy_js_¿´Ñ½¿´",
-      "name": "¿´Ñ½¿´(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿´Ñ½¿´.js"
-    },
-    {
-      "key": "hipy_js_¿É´ïÓ°ÊÓ",
-      "name": "¿É´ïÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿É´ïÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¿É¿ÉÓ°ÊÓ[ÓÅ]",
-      "name": "¿É¿ÉÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿É¿ÉÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "¿á¹·",
-      "name": "¿á¹·",
-      "type": 3,
-      "api": "csp_Kugou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "hipy_js_¿á¿ÍÓ°ÊÓ",
-      "name": "¿á¿ÍÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿á¿ÍÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_¿áÎÒÌıÊé[Ìı]",
-      "name": "¿áÎÒÌıÊé[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿áÎÒÌıÊé[Ìı].js"
-    },
-    {
-      "key": "hipy_js_¿áÔÆÓ°ÊÓ",
-      "name": "¿áÔÆÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/¿áÔÆÓ°ÊÓ.js"
-    },
-    {
-      "key": "QuarkPanso",
-      "name": "¿ä¿ËÅÌËÑ|¿ä¿ËËÑË÷",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "QuarkShare",
-      "name": "¿ä¿ËÔÆÅÌ·ÖÏí",
-      "type": 3,
-      "api": "csp_QuarkShare",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/quarkshare.txt"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=blzb"
     },
     {
-      "key": "hipy_js_¿ì¿´Ó°ÊÓ",
-      "name": "¿ì¿´Ó°ÊÓ(drpy_t3)",
+      "key": "ysxs",
+      "name": "æœ‰å£°â”ƒå°è¯´",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=ysxs"
+    },
+    {
+      "key": "blhj",
+      "name": "å“”å“©â”ƒåˆé›†",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=blhj"
+    },
+    {
+      "key": "blgq",
+      "name": "å“”å“©â”ƒæ­Œæ›²",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=blgq"
+    },
+    {
+      "key": "qydh",
+      "name": "å¥‡è‰ºâ”ƒåŠ¨ç”»",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/¿ì¿´Ó°ÊÓ.js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=qydh"
     },
     {
-      "key": "hipy_js_À¯±Ê[ÅÌ]",
-      "name": "À¯±Ê[ÅÌ](drpy_t3)",
+      "key": "txdh",
+      "name": "è…¾è®¯â”ƒåŠ¨ç”»",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/À¯±Ê[ÅÌ].js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=txdh"
     },
     {
-      "key": "hipy_js_À´¿´µã²¥[×Ô¶¯]",
-      "name": "À´¿´µã²¥[×Ô¶¯](drpy_t3)",
+      "key": "mgdh",
+      "name": "èŠ’æœâ”ƒåŠ¨ç”»",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/À´¿´µã²¥[×Ô¶¯].js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=mgdh"
     },
     {
-      "key": "hipy_js_À¶¹âÓ°ÊÓ",
-      "name": "À¶¹âÓ°ÊÓ(drpy_t3)",
+      "key": "jjjx",
+      "name": "æ€¥æ•‘â”ƒæ•™å­¦",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
+      "api": "csp_FirstAid",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "tqss",
+      "name": "ç«¥è¶£â”ƒæœè§†",
+      "type": 3,
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./drpy_js/À¶¹âÓ°ÊÓ.js"
+      "ext": "http://www.meowtv.cn/js/meow.php?file=tqss"
     },
     {
-      "key": "hipy_js_ÀÏ°×¹ÊÊÂ[Ìı]",
-      "name": "ÀÏ°×¹ÊÊÂ[Ìı](drpy_t3)",
+      "key": "etqm",
+      "name": "å„¿ç«¥â”ƒå¯è’™",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÀÏ°×¹ÊÊÂ[Ìı].js"
+      "api": "http://www.meowtv.cn/js/drpy2.min.js",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/js/meow.php?file=etqm"
     },
     {
-      "key": "hipy_js_ÀÏË¾ÊÓÆµ[ÃÜ]",
-      "name": "ÀÏË¾ÊÓÆµ[ÃÜ](drpy_t3)",
+      "key": "dtgx",
+      "name": "ç¯å¡”â”ƒå›½å­¦",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÀÏË¾ÊÓÆµ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_ÀÏÍõµçÓ°[×Ô¶¯]",
-      "name": "ÀÏÍõµçÓ°[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÀÏÍõµçÓ°[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_ÀÖ²İTV[ÃÜ]",
-      "name": "ÀÖ²İTV[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÀÖ²İTV[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_Á½¸öBT",
-      "name": "Á½¸öBT(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Á½¸öBT.js"
-    },
-    {
-      "key": "hipy_js_Á¿×ÓÓ°ÊÓ[×Ê]",
-      "name": "Á¿×ÓÓ°ÊÓ[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Á¿×ÓÓ°ÊÓ[×Ê].js"
-    },
-    {
-      "key": "hipy_js_Á¿×Ó×ÊÔ´[×Ê]",
-      "name": "Á¿×Ó×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Á¿×Ó×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÁùÔÂÌıÊé[Ìı]",
-      "name": "ÁùÔÂÌıÊé[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÁùÔÂÌıÊé[Ìı].js"
-    },
-    {
-      "key": "hipy_js_Â·ÂşÂş[Âş]",
-      "name": "Â·ÂşÂş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Â·ÂşÂş[Âş].js"
-    },
-    {
-      "key": "hipy_js_Â·ÊÓÆµ[ÃÜ]",
-      "name": "Â·ÊÓÆµ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Â·ÊÓÆµ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_Â¿·¬[Âş]",
-      "name": "Â¿·¬[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Â¿·¬[Âş].js"
-    },
-    {
-      "key": "hipy_js_ÂÌ²è",
-      "name": "ÂÌ²è(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÂÌ²è.js"
-    },
-    {
-      "key": "hipy_js_ÂÌÉ«²Ö¿â[ÃÜ]",
-      "name": "ÂÌÉ«²Ö¿â[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÂÌÉ«²Ö¿â[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_ÂéÈ¸ÊÓÆµ[ÓÅ]",
-      "name": "ÂéÈ¸ÊÓÆµ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÂéÈ¸ÊÓÆµ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÂìÒÏÓ°ÊÓ",
-      "name": "ÂìÒÏÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÂìÒÏÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Âş»­×ßÀÈ[»­ÃÜ·É]",
-      "name": "Âş»­×ßÀÈ[»­ÃÜ·É](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Âş»­×ßÀÈ[»­ÃÜ·É].js"
-    },
-    {
-      "key": "hipy_js_ÂşĞ¡ËÁ[»­]",
-      "name": "ÂşĞ¡ËÁ[»­](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÂşĞ¡ËÁ[»­].js"
-    },
-    {
-      "key": "hipy_js_Ã¨ÊÓ½ç",
-      "name": "Ã¨ÊÓ½ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ã¨ÊÓ½ç.js"
-    },
-    {
-      "key": "hipy_js_ÃÀ¾çÎÑ",
-      "name": "ÃÀ¾çÎÑ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÃÀ¾çÎÑ.js"
-    },
-    {
-      "key": "hipy_js_ÃÀ¾çĞÇÇò",
-      "name": "ÃÀ¾çĞÇÇò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÃÀ¾çĞÇÇò.js"
-    },
-    {
-      "key": "hipy_js_ÃÀÒæ´ï",
-      "name": "ÃÀÒæ´ï(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÃÀÒæ´ï.js"
-    },
-    {
-      "key": "hipy_js_ÃÈ·¬[Âş]",
-      "name": "ÃÈ·¬[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÃÈ·¬[Âş].js"
-    },
-    {
-      "key": "hipy_js_Ã×°®Ó°ÊÓ",
-      "name": "Ã×°®Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ã×°®Ó°ÊÓ.js"
-    },
-    {
-      "key": "ÃëËÑ",
-      "name": "ÃëËÑ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_MiaoSou",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/tokenm.json"
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=dtgx"
     },
     {
-      "key": "hipy_js_Ä§¶¼×ÊÔ´[×Ê]",
-      "name": "Ä§¶¼×ÊÔ´[×Ê](drpy_t3)",
+      "key": "sejy",
+      "name": "å°‘å„¿â”ƒæ•™è‚²",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ä§¶¼×ÊÔ´[×Ê].js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=sejy"
     },
     {
-      "key": "hipy_js_Ä§·½Ó°ÊÓ",
-      "name": "Ä§·½Ó°ÊÓ(drpy_t3)",
+      "key": "xxkt",
+      "name": "å°å­¦â”ƒè¯¾å ‚",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ä§·½Ó°ÊÓ.js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=xxkt"
     },
     {
-      "key": "hipy_js_Ä«µãÓ°ÊÓ",
-      "name": "Ä«µãÓ°ÊÓ(drpy_t3)",
+      "key": "czkt",
+      "name": "åˆä¸­â”ƒè¯¾å ‚",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ä«µãÓ°ÊÓ.js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=czkt"
     },
     {
-      "key": "hipy_js_Ä¾¹ÏÓ°ÊÓ",
-      "name": "Ä¾¹ÏÓ°ÊÓ(drpy_t3)",
+      "key": "gzkt",
+      "name": "é«˜ä¸­â”ƒè¯¾å ‚",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ä¾¹ÏÓ°ÊÓ.js"
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "http://www.meowtv.cn/xp/meow.php?file=gzkt"
     },
     {
-      "key": "hipy_js_Ä¾Å¼¸ç¸ç[ÅÌ]",
-      "name": "Ä¾Å¼¸ç¸ç[ÅÌ](drpy_t3)",
+      "key": "bdsp",
+      "name": "æœ¬åœ°â”ƒè§†é¢‘",
       "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ä¾Å¼¸ç¸ç[ÅÌ].js"
-    },
-    {
-      "key": "hipy_js_ÄÇÍÃÊÓÆµ",
-      "name": "ÄÇÍÃÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÇÍÃÊÓÆµ.js"
-    },
-    {
-      "key": "hipy_js_ÄÌ¹·Ó°ÊÓ[Âı]",
-      "name": "ÄÌ¹·Ó°ÊÓ[Âı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÌ¹·Ó°ÊÓ[Âı].js"
-    },
-    {
-      "key": "hipy_js_ÄÎ·ÉÖĞÎÄ[×Ô¶¯]",
-      "name": "ÄÎ·ÉÖĞÎÄ[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÎ·ÉÖĞÎÄ[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_ÄÍ¿´",
-      "name": "ÄÍ¿´(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÍ¿´.js"
-    },
-    {
-      "key": "hipy_js_ÄÏ¹ÏÓ°ÊÓ",
-      "name": "ÄÏ¹ÏÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÏ¹ÏÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÄÏ¹ÏÓ°ÊÓ[ÓÅ]",
-      "name": "ÄÏ¹ÏÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄÏ¹ÏÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_Äà°ÍÓ°Ôº",
-      "name": "Äà°ÍÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Äà°ÍÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÄàÊÓÆµ[×Ê]",
-      "name": "ÄàÊÓÆµ[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄàÊÓÆµ[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÄãºÃË§Ó°Ôº",
-      "name": "ÄãºÃË§Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄãºÃË§Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÄûÃÊÓ°ÊÓ[V2]",
-      "name": "ÄûÃÊÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÄûÃÊÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_Å©ÃñÓ°ÊÓ[ÓÅ]",
-      "name": "Å©ÃñÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Å©ÃñÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_Å¬Å¬Ó°Ôº1",
-      "name": "Å¬Å¬Ó°Ôº1(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Å¬Å¬Ó°Ôº1.js"
-    },
-    {
-      "key": "hipy_js_Å¯¹âÓ°ÊÓ",
-      "name": "Å¯¹âÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Å¯¹âÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÅÆÅÆÓ°Ôº",
-      "name": "ÅÆÅÆÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÅÆÅÆÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÅÌËÑ",
-      "name": "ÅÌËÑ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÅÌËÑ.js"
-    },
-    {
-      "key": "ÅÌÓÑÈ¦",
-      "name": "ÅÌÓÑÈ¦|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_Panyq",
-      "searchable": 1,
-      "quickSearch": 1,
+      "api": "csp_LocalFile",
+      "searchable": 0,
+      "quickSearch": 0,
       "filterable": 0,
-      "ext": "./json/tokenm.json$$$site$$$proxy"
-    },
-    {
-      "key": "hipy_js_ÅÖ»¢Ó°ÊÓ",
-      "name": "ÅÖ»¢Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÅÖ»¢Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÅİÅİÓ°Ôº",
-      "name": "ÅİÅİÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÅİÅİÓ°Ôº.js"
-    },
-    {
-      "key": "PikaSo",
-      "name": "Æ¤¿¨ËÑ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_PikaSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://www.pikaso.top/$$$None"
-    },
-    {
-      "key": "Ppxzy",
-      "name": "Æ¤Æ¤Ïº|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Ppxzy",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://ppxzy.ink$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_Æ¤Æ¤Ó°ÊÓ",
-      "name": "Æ¤Æ¤Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Æ¤Æ¤Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Æ¬¶à¶à[ÓÅ]",
-      "name": "Æ¬¶à¶à[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Æ¬¶à¶à[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_Æ®»¨Ó°Ôº",
-      "name": "Æ®»¨Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Æ®»¨Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÆÓÓ£Ó°ÊÓ",
-      "name": "ÆÓÓ£Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆÓÓ£Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÆßÄêÓ°ÊÓ",
-      "name": "ÆßÄêÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆßÄêÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÆßÉ«·¬[Âş]",
-      "name": "ÆßÉ«·¬[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆßÉ«·¬[Âş].js"
-    },
-    {
-      "key": "hipy_js_ÆßĞÂµçÓ°Íø",
-      "name": "ÆßĞÂµçÓ°Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆßĞÂµçÓ°Íø.js"
-    },
-    {
-      "key": "hipy_js_ÆæÃ×¶¯Âş[Âş]",
-      "name": "ÆæÃ×¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÆæÃ×¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_Ç§°ÙÊÓÆµ[ÃÜ]",
-      "name": "Ç§°ÙÊÓÆµ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ç§°ÙÊÓÆµ[ÃÜ].js"
-    },
-    {
-      "key": "Qianfan",
-      "name": "Ç§·«|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_Qianfan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://pan.qianfan.app$$$None$$$./json/qianfan.txt$$$1"
-    },
-    {
-      "key": "hipy_js_Ç§ÉñÓ°ÊÓ",
-      "name": "Ç§ÉñÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ç§ÉñÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÇàÁú",
-      "name": "ÇàÁú(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÇàÁú.js"
-    },
-    {
-      "key": "hipy_js_Çå·çDJ[Ìı]",
-      "name": "Çå·çDJ[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Çå·çDJ[Ìı].js"
-    },
-    {
-      "key": "Funletu",
-      "name": "È¤ÅÌËÑ|¿ä¿ËËÑË÷",
-      "type": 3,
-      "api": "csp_Funletu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "hipy_js_È«ÄÜÓ°ÊÓ",
-      "name": "È«ÄÜÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/È«ÄÜÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÈÈ²¥Ö®¼Ò",
-      "name": "ÈÈ²¥Ö®¼Ò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÈÈ²¥Ö®¼Ò.js"
-    },
-    {
-      "key": "hipy_js_ÈÈÆ¬Íø",
-      "name": "ÈÈÆ¬Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÈÈÆ¬Íø.js"
-    },
-    {
-      "key": "hipy_js_ÈËÈËÓ°ÊÓ",
-      "name": "ÈËÈËÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÈËÈËÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÈÌÕßÓ°ÊÓ",
-      "name": "ÈÌÕßÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÈÌÕßÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÈçÒâÓ°ÊÓ",
-      "name": "ÈçÒâÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÈçÒâÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Èı¼¯µçÓ°[×Ô¶¯]",
-      "name": "Èı¼¯µçÓ°[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Èı¼¯µçÓ°[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_É«¿â[ÃÜ]",
-      "name": "É«¿â[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/É«¿â[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_ÉÁÀ×µç",
-      "name": "ÉÁÀ×µç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÉÁÀ×µç.js"
-    },
-    {
-      "key": "hipy_js_ÉÕ»ğÓ°ÊÓ[ÓÅ]",
-      "name": "ÉÕ»ğÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÉÕ»ğÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÉñÂíµçÓ°[ËÑ]",
-      "name": "ÉñÂíµçÓ°[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÉñÂíµçÓ°[ËÑ].js"
-    },
-    {
-      "key": "hipy_js_ÉñÂíÓ°Ôº[×Ô¶¯]",
-      "name": "ÉñÂíÓ°Ôº[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÉñÂíÓ°Ôº[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_ÉñÏÉÓ°ÊÓ",
-      "name": "ÉñÏÉÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÉñÏÉÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ê±¹âÓ°Ôº",
-      "name": "Ê±¹âÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ê±¹âÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÊÀ¼ÍDJÒôÀÖÍø[Ìı]",
-      "name": "ÊÀ¼ÍDJÒôÀÖÍø[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÊÀ¼ÍDJÒôÀÖÍø[Ìı].js"
-    },
-    {
-      "key": "hipy_js_Ê×·¢Íø",
-      "name": "Ê×·¢Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ê×·¢Íø.js"
-    },
-    {
-      "key": "hipy_js_Ë¢¾çÍø",
-      "name": "Ë¢¾çÍø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ë¢¾çÍø.js"
-    },
-    {
-      "key": "hipy_js_Ë¼¹ÅÓ°ÊÓ[V2]",
-      "name": "Ë¼¹ÅÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ë¼¹ÅÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_ËØ°×°×",
-      "name": "ËØ°×°×(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ËØ°×°×.js"
-    },
-    {
-      "key": "hipy_js_ËØ°×°×[ÓÅ]",
-      "name": "ËØ°×°×[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ËØ°×°×[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ËÙ²¥Ğ¡Îİ",
-      "name": "ËÙ²¥Ğ¡Îİ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ËÙ²¥Ğ¡Îİ.js"
-    },
-    {
-      "key": "hipy_js_ËÙÑ¶Ó°Ôº",
-      "name": "ËÙÑ¶Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ËÙÑ¶Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_Ë÷Äá×ÊÔ´[×Ê]",
-      "name": "Ë÷Äá×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ë÷Äá×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÌÒ×ÓÓ°ÊÓ[ÓÅ]",
-      "name": "ÌÒ×ÓÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÌÒ×ÓÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÌìÁúÓ°Ôº",
-      "name": "ÌìÁúÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÌìÁúÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ÌìÆô",
-      "name": "ÌìÆô(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÌìÆô.js"
-    },
-    {
-      "key": "hipy_js_ÌìÌìÓ°ÊÓ",
-      "name": "ÌìÌìÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÌìÌìÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Í¯È¤[¶ù]",
-      "name": "Í¯È¤[¶ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Í¯È¤[¶ù].js"
-    },
-    {
-      "key": "hipy_js_ÍÃĞ¡±´[¶ù]",
-      "name": "ÍÃĞ¡±´[¶ù](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÍÃĞ¡±´[¶ù].js"
+      "type_flag": 0,
+      "jar": "http://m1839732.cf.caoni.ru/4/meow.php;md5;369DE8C4321A5C0ED6E7497F93863319"
     },
     {
       "key": "push_agent",
-      "name": "ÍÆËÍ",
+      "name": "æ¨é€â”ƒé“¾æ¥",
       "type": 3,
       "api": "csp_Push",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "hipy_js_ÍáÆ¬ĞÇÇò[×Ê]",
-      "name": "ÍáÆ¬ĞÇÇò[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÍáÆ¬ĞÇÇò[×Ê].js"
-    },
-    {
-      "key": "ÍøÅÌÅäÖÃ",
-      "name": "ÍøÅÌ¼°—Ä»ÅäÖÃ",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "yydsys",
-      "name": "ÍæÄãÀÏ¸ç|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://tv.yydsys.top/$$$noproxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "Wo4k",
-      "name": "ÍæÅ¼4K|´ÅÁ¦",
-      "type": 3,
-      "api": "csp_Wo4k",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://www.wo4k.net/$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "Wobg",
-      "name": "ÍæÅ¼±í¸ç|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Wobg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://wobge.run.goorm.io$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "hipy_js_ÍæÅ¼¸ç¸ç[ÅÌ]",
-      "name": "ÍæÅ¼¸ç¸ç[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÍæÅ¼¸ç¸ç[ÅÌ].js"
-    },
-    {
-      "key": "Wogg",
-      "name": "ÍæÅ¼¸ç¸ç|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Wogg",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://wogg.link/$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "hipy_js_Íø·É.TV",
-      "name": "Íø·É.TV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Íø·É.TV.js"
-    },
-    {
-      "key": "hipy_js_Íø·ÉÀ²[×Ô¶¯]",
-      "name": "Íø·ÉÀ²[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Íø·ÉÀ²[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_Íø·ÉÃ¨[ÓÅ]",
-      "name": "Íø·ÉÃ¨[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Íø·ÉÃ¨[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÍùÍùÓ°ÊÓ[Âı]",
-      "name": "ÍùÍùÓ°ÊÓ[Âı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÍùÍùÓ°ÊÓ[Âı].js"
-    },
-    {
-      "key": "hipy_js_ÍúÍúÓ°ÊÓ",
-      "name": "ÍúÍúÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÍúÍúÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Î¬Ææ¶¯Âş[Âş]",
-      "name": "Î¬Ææ¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Î¬Ææ¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_ÎÄ²Å[×Ê]",
-      "name": "ÎÄ²Å[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÄ²Å[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÎÄ²Å2[×Ê]",
-      "name": "ÎÄ²Å2[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÄ²Å2[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÎÒ°®¸ú¾ç",
-      "name": "ÎÒ°®¸ú¾ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÒ°®¸ú¾ç.js"
-    },
-    {
-      "key": "hipy_js_ÎÒ²¥",
-      "name": "ÎÒ²¥(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÒ²¥.js"
-    },
-    {
-      "key": "PushShare",
-      "name": "ÎÒµÄ×ÊÔ´·ÖÏí",
-      "type": 3,
-      "api": "csp_PushShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/pushshare.txt$$$db$$$1"
-    },
-    {
-      "key": "hipy_js_ÎÒ¿´ÊéÕ«[Êé]",
-      "name": "ÎÒ¿´ÊéÕ«[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÒ¿´ÊéÕ«[Êé].js"
-    },
-    {
-      "key": "hipy_js_ÎÔÁú×ÊÔ´[×Ê]",
-      "name": "ÎÔÁú×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎÔÁú×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_ÎŞÓÇÓ°ÊÓ",
-      "name": "ÎŞÓÇÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÎŞÓÇÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ï¦ÔÆÓ°ÊÓ",
-      "name": "Ï¦ÔÆÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ï¦ÔÆÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Î÷¹ÏÓ°Ôº",
-      "name": "Î÷¹ÏÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Î÷¹ÏÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_Î÷ÎİÓ°ÊÓ",
-      "name": "Î÷ÎİÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Î÷ÎİÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_òáòæÓ°ÊÓ[ÓÅ]",
-      "name": "òáòæÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/òáòæÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_Ï²ÂíÀ­ÑÅ[Ìı]",
-      "name": "Ï²ÂíÀ­ÑÅ[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ï²ÂíÀ­ÑÅ[Ìı].js"
-    },
-    {
-      "key": "hipy_js_Ïº½´×·¾ç",
-      "name": "Ïº½´×·¾ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ïº½´×·¾ç.js"
-    },
-    {
-      "key": "hipy_js_ÏÀ¿ÍÓ°ÊÓ",
-      "name": "ÏÀ¿ÍÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÏÀ¿ÍÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÏàÉùËæÉíÌı[Ìı]",
-      "name": "ÏàÉùËæÉíÌı[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÏàÉùËæÉíÌı[Ìı].js"
-    },
-    {
-      "key": "hipy_js_Ïë¿´Ó°Ôº",
-      "name": "Ïë¿´Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ïë¿´Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_Ğ¡°×²ËµçÓ°",
-      "name": "Ğ¡°×²ËµçÓ°(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡°×²ËµçÓ°.js"
-    },
-    {
-      "key": "hipy_js_Ğ¡±¦Ó°Ôº",
-      "name": "Ğ¡±¦Ó°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡±¦Ó°Ôº.js"
-    },
-    {
-      "key": "hipy_js_APPV2[Ä£°å]2",
-      "name": "Ğ¡ÂíÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/APPV2[Ä£°å].js?type=url?ms=https://mas.szyyds.cn"
-    },
-    {
-      "key": "hipy_js_Ğ¡ÂíÓ°ÊÓ[V2]",
-      "name": "Ğ¡ÂíÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡ÂíÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_Ğ¡Ã¨µçÓ°Ôº",
-      "name": "Ğ¡Ã¨µçÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡Ã¨µçÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_Ğ¡Å®18[ÃÜ]",
-      "name": "Ğ¡Å®18[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡Å®18[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_Ğ¡ÓãÓ°ÊÓ",
-      "name": "Ğ¡ÓãÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡ÓãÓ°ÊÓ.js"
-    },
-    {
-      "key": "YunSo",
-      "name": "Ğ¡ÔÆËÑË÷|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_YunSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://www.yunso.net$$$None$$$1"
-    },
-    {
-      "key": "hipy_js_Ğ¡Õ¾ÅÌ[ËÑ]",
-      "name": "Ğ¡Õ¾ÅÌ[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğ¡Õ¾ÅÌ[ËÑ].js"
-    },
-    {
-      "key": "Ğ£³¤Ó°ÊÓ",
-      "name": "Ğ£³¤Ó°ÊÓ|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_XiaoZhang",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://xzyshd.com$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_ĞÂ²è±­ºü",
-      "name": "ĞÂ²è±­ºü(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÂ²è±­ºü.js"
-    },
-    {
-      "key": "hipy_js_ĞÂÊÓ¾õ",
-      "name": "ĞÂÊÓ¾õ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÂÊÓ¾õ.js"
-    },
-    {
-      "key": "Xinshijue",
-      "name": "ĞÂÊÓ¾õ|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Xinshijue",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://www.80yy3.com/$$$proxy$$$1$$$./json/wogg.json"
-    },
-    {
-      "key": "hipy_js_ĞÇ³½[ÓÅ]",
-      "name": "ĞÇ³½[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇ³½[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ĞÇ³½Ó°ÊÓ",
-      "name": "ĞÇ³½Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇ³½Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ĞÇ³½CT",
-      "name": "ĞÇ³½CT(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇ³½CT.js"
-    },
-    {
-      "key": "hipy_js_ĞÇ¿ÕÓ°Ôº",
-      "name": "ĞÇ¿ÕÓ°Ôº(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇ¿ÕÓ°Ôº.js"
-    },
-    {
-      "key": "hipy_js_ĞÇÑ¿¶Ì¾ç[ÓÅ]",
-      "name": "ĞÇÑ¿¶Ì¾ç[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇÑ¿¶Ì¾ç[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ĞÇÔÆÓ°ÊÓ",
-      "name": "ĞÇÔÆÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÇÔÆÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ĞÖµÜÓ°ÊÓ[ÓÅ]",
-      "name": "ĞÖµÜÓ°ÊÓ[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÖµÜÓ°ÊÓ[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ĞÜÃ¨TV",
-      "name": "ĞÜÃ¨TV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ĞÜÃ¨TV.js"
-    },
-    {
-      "key": "hipy_js_Ğı·çÊÓÆµ",
-      "name": "Ğı·çÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ğı·çÊÓÆµ.js"
-    },
-    {
-      "key": "ThunderShare",
-      "name": "Ñ¸À×ÔÆÅÌ·ÖÏí",
-      "type": 3,
-      "api": "csp_ThunderShare",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/thundershare.txt"
-    },
-    {
-      "key": "hipy_js_Ñ¾Ñ¾µç×ÓÊé[Êé]",
-      "name": "Ñ¾Ñ¾µç×ÓÊé[Êé](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ñ¾Ñ¾µç×ÓÊé[Êé].js"
-    },
-    {
-      "key": "hipy_js_Ñ¼·ÉÓ°ÊÓ[V2]",
-      "name": "Ñ¼·ÉÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ñ¼·ÉÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_Ñ¼ÄÎ·ÉÓ°ÊÓ",
-      "name": "Ñ¼ÄÎ·ÉÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ñ¼ÄÎ·ÉÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ìÍíµ4kapp[ÓÅ]",
-      "name": "ìÍíµ4kapp[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ìÍíµ4kapp[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÑëÊÓ´óÈ«[ÓÅ]",
-      "name": "ÑëÊÓ´óÈ«[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÑëÊÓ´óÈ«[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_ÑëÊÓÉÙ¶ù[Âş]",
-      "name": "ÑëÊÓÉÙ¶ù[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÑëÊÓÉÙ¶ù[Âş].js"
-    },
-    {
-      "key": "hipy_js_ÑıºüÓ°ÊÓ[×Ô¶¯]",
-      "name": "ÑıºüÓ°ÊÓ[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÑıºüÓ°ÊÓ[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_Ò»µãÊÓÆµ[ÃÜ]",
-      "name": "Ò»µãÊÓÆµ[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»µãÊÓÆµ[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_Ò»¸ögÓ°ÊÓ",
-      "name": "Ò»¸ögÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»¸ögÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ò»ºÅÓ°Ôº[ËÑ]",
-      "name": "Ò»ºÅÓ°Ôº[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»ºÅÓ°Ôº[ËÑ].js"
-    },
-    {
-      "key": "hipy_js_Ò»Æğ¿´",
-      "name": "Ò»Æğ¿´(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»Æğ¿´.js"
-    },
-    {
-      "key": "hipy_js_Ò»Æğ¿´[ÓÅ]",
-      "name": "Ò»Æğ¿´[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»Æğ¿´[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_Ò»Çú¸Î³¦¶Ï",
-      "name": "Ò»Çú¸Î³¦¶Ï(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»Çú¸Î³¦¶Ï.js"
-    },
-    {
-      "key": "hipy_js_Ò»Ö§´©ÔÆ¼ı",
-      "name": "Ò»Ö§´©ÔÆ¼ı(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò»Ö§´©ÔÆ¼ı.js"
-    },
-    {
-      "key": "hipy_js_âùİæ¶¯Âş[Âş]",
-      "name": "âùİæ¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/âùİæ¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_Ò×µã¿´Ó°Ôº[×Ô¶¯]",
-      "name": "Ò×µã¿´Ó°Ôº[×Ô¶¯](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò×µã¿´Ó°Ôº[×Ô¶¯].js"
-    },
-    {
-      "key": "hipy_js_Ò×¿´Ó°ÊÓ",
-      "name": "Ò×¿´Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò×¿´Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ò×ËÑ[ËÑ]",
-      "name": "Ò×ËÑ[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ò×ËÑ[ËÑ].js"
-    },
-    {
-      "key": "Yinyuetai",
-      "name": "ÒôÔÃÌ¨",
-      "type": 3,
-      "api": "csp_Yinyuetai",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "hipy_js_APPV2[Ä£°å]4",
-      "name": "ÒøºÓÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/APPV2[Ä£°å].js?type=url?ms=http://134.175.219.46"
-    },
-    {
-      "key": "hipy_js_ÒøºÓÓ°ÊÓ[V2]",
-      "name": "ÒøºÓÓ°ÊÓ[V2](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÒøºÓÓ°ÊÓ[V2].js"
-    },
-    {
-      "key": "hipy_js_Ó£»¨¶¯Âş[Âş]",
-      "name": "Ó£»¨¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó£»¨¶¯Âş[Âş].js"
-    },
-    {
-      "key": "‘ªÓÃÉÌµê",
-      "name": "‘ªÓÃÉÌµê",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://fm.t4tv.hz.cz/json/market.json"
-    },
-    {
-      "key": "Hdhive",
-      "name": "Ó°³²|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Hdhive",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_Ó°¾çĞÇÇò",
-      "name": "Ó°¾çĞÇÇò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°¾çĞÇÇò.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÃÎÓ°ÊÓ",
-      "name": "Ó°ÃÎÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÃÎÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÊÓ´óÈ«",
-      "name": "Ó°ÊÓ´óÈ«(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÊÓ´óÈ«.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÊÓ¹¤³§",
-      "name": "Ó°ÊÓ¹¤³§(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÊÓ¹¤³§.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÊÓ¹¤³¡",
-      "name": "Ó°ÊÓ¹¤³¡(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÊÓ¹¤³¡.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÊÓ¿´°É",
-      "name": "Ó°ÊÓ¿´°É(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÊÓ¿´°É.js"
-    },
-    {
-      "key": "hipy_js_Ó°ÊÓ¿Ø",
-      "name": "Ó°ÊÓ¿Ø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÊÓ¿Ø.js"
-    },
-    {
-      "key": "hipy_js_Ó°ËÑ[ËÑ]",
-      "name": "Ó°ËÑ[ËÑ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ËÑ[ËÑ].js"
-    },
-    {
-      "key": "YingSo",
-      "name": "Ó°ËÑ|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_YingSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "hipy_js_Ó°ÔüÔüÓ°ÊÓ",
-      "name": "Ó°ÔüÔüÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó°ÔüÔüÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_Ó³²¥TV",
-      "name": "Ó³²¥TV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ó³²¥TV.js"
-    },
-    {
-      "key": "hipy_js_ÓÆÓÆÓ°ÊÓ",
-      "name": "ÓÆÓÆÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓÆÓÆÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÓÎ×ÓÊÓÆµ",
-      "name": "ÓÎ×ÓÊÓÆµ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓÎ×ÓÊÓÆµ.js"
-    },
-    {
-      "key": "hipy_js_ÓĞÉù»æ±¾Íø[Ìı]",
-      "name": "ÓĞÉù»æ±¾Íø[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓĞÉù»æ±¾Íø[Ìı].js"
-    },
-    {
-      "key": "hipy_js_ÓĞÉùÌıÊéÍø[Ìı]",
-      "name": "ÓĞÉùÌıÊéÍø[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓĞÉùÌıÊéÍø[Ìı].js"
-    },
-    {
-      "key": "hipy_js_ÓĞÉùĞ¡Ëµ°É[Ìı]",
-      "name": "ÓĞÉùĞ¡Ëµ°É[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÓĞÉùĞ¡Ëµ°É[Ìı].js"
-    },
-    {
-      "key": "hipy_js_Óîº½Ó°ÊÓ",
-      "name": "Óîº½Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Óîº½Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_ÔÆµçÓ°Íø",
-      "name": "ÔÆµçÓ°Íø(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÔÆµçÓ°Íø.js"
-    },
-    {
-      "key": "YunPan",
-      "name": "ÔÆÅÌ×ÊÔ´|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_YunPan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$None$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_ÔÆÅÌ×ÊÔ´Íø[ÅÌ]",
-      "name": "ÔÆÅÌ×ÊÔ´Íø[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÔÆÅÌ×ÊÔ´Íø[ÅÌ].js"
-    },
-    {
-      "key": "YunPanOne",
-      "name": "ÔÆÅÌOne|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_YunPanOne",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$None$$$proxy$$$1"
-    },
-    {
-      "key": "hipy_js_ÔÚÏßÖ®¼Ò",
-      "name": "ÔÚÏßÖ®¼Ò(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÔÚÏßÖ®¼Ò.js"
-    },
-    {
-      "key": "hipy_js_APPV2[Ä£°å]0",
-      "name": "ÔóÉÙ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/APPV2[Ä£°å].js?type=url?ms=http://122.228.85.203:1000$http://122.228.85.203:1000/play?url="
-    },
-    {
-      "key": "hipy_js_ÕÆĞÄÊÀ½ç",
-      "name": "ÕÆĞÄÊÀ½ç(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÕÆĞÄÊÀ½ç.js"
-    },
-    {
-      "key": "hipy_js_Ö±²¥×ªµã²¥[ºÏ]",
-      "name": "Ö±²¥×ªµã²¥[ºÏ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Ö±²¥×ªµã²¥[ºÏ].js?type=url?ms=../json/live2cms.json"
-    },
-    {
-      "key": "hipy_js_ÖÁÕé[ÅÌ]",
-      "name": "ÖÁÕé[ÅÌ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÖÁÕé[ÅÌ].js"
-    },
-    {
-      "key": "hipy_js_ÖĞ»ªÌıÊéÍø[Ìı]",
-      "name": "ÖĞ»ªÌıÊéÍø[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÖĞ»ªÌıÊéÍø[Ìı].js"
-    },
-    {
-      "key": "hipy_js_ÖÖ×ÓÒôÀÖ[Ìı]",
-      "name": "ÖÖ×ÓÒôÀÖ[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ÖÖ×ÓÒôÀÖ[Ìı].js"
-    },
-    {
-      "key": "hipy_js_×·¾çÍÃ",
-      "name": "×·¾çÍÃ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/×·¾çÍÃ.js"
-    },
-    {
-      "key": "hipy_js_×·Ó°TV",
-      "name": "×·Ó°TV(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/×·Ó°TV.js"
-    },
-    {
-      "key": "hipy_js_×ÎÈ»Ó°ÊÓ",
-      "name": "×ÎÈ»Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/×ÎÈ»Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_×Ó×ÓÓ°ÊÓ",
-      "name": "×Ó×ÓÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/×Ó×ÓÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_×îĞÂ4K",
-      "name": "×îĞÂ4K(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/×îĞÂ4K.js"
-    },
-    {
-      "key": "hipy_js_ASMR[Ìı]",
-      "name": "ASMR[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ASMR[Ìı].js"
-    },
-    {
-      "key": "hipy_js_auete",
-      "name": "auete(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/auete.js"
-    },
-    {
-      "key": "hipy_js_AueteÓ°ÊÓ",
-      "name": "AueteÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/AueteÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_BÕ¾Ó°ÊÓ",
-      "name": "BÕ¾Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/BÕ¾Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_bilfun(×Ô¶¯)",
-      "name": "bilfun(×Ô¶¯)(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/bilfun(×Ô¶¯).js"
-    },
-    {
-      "key": "hipy_js_cally66",
-      "name": "cally66(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/cally66.js"
-    },
-    {
-      "key": "hipy_js_cally66Ó°ÊÓ",
-      "name": "cally66Ó°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/cally66Ó°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_eFuns",
-      "name": "eFuns(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/eFuns.js"
-    },
-    {
-      "key": "hipy_js_freeok",
-      "name": "freeok(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/freeok.js"
-    },
-    {
-      "key": "hipy_js_FreeOKLOL",
-      "name": "FreeOKLOL(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/FreeOKLOL.js"
-    },
-    {
-      "key": "hipy_js_GOÓ°ÊÓ",
-      "name": "GOÓ°ÊÓ(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/GOÓ°ÊÓ.js"
-    },
-    {
-      "key": "hipy_js_HBOTV[ÓÅ]",
-      "name": "HBOTV[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/HBOTV[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_HDmoli",
-      "name": "HDmoli(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/HDmoli.js"
-    },
-    {
-      "key": "Moli",
-      "name": "HDmoli|ÍøÅÌ",
-      "type": 3,
-      "api": "csp_Moli",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json$$$https://www.hdmoli.pro/$$$proxy$$$1$$$./json/moli.json"
-    },
-    {
-      "key": "hipy_js_i275ÌıÊé[Ìı]",
-      "name": "i275ÌıÊé[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/i275ÌıÊé[Ìı].js"
-    },
-    {
-      "key": "hipy_js_iFun",
-      "name": "iFun(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/iFun.js"
-    },
-    {
-      "key": "hipy_js_ikuß÷[×Ê]",
-      "name": "ikuß÷[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ikuß÷[×Ê].js"
-    },
-    {
-      "key": "hipy_js_KimiVod",
-      "name": "KimiVod(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/KimiVod.js"
-    },
-    {
-      "key": "Iktv",
-      "name": "KTV",
-      "type": 3,
-      "api": "csp_Iktv",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "hipy_js_KTV¸èÌü[Ìı]",
-      "name": "KTV¸èÌü[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/KTV¸èÌü[Ìı].js"
-    },
-    {
-      "key": "hipy_js_libvio",
-      "name": "libvio(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/libvio.js"
-    },
-    {
-      "key": "hipy_js_LIBVIO[ÓÅ]",
-      "name": "LIBVIO[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/LIBVIO[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_MuteFun[Âş]",
-      "name": "MuteFun[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/MuteFun[Âş].js"
-    },
-    {
-      "key": "hipy_js_NT¶¯Âş[Âş]",
-      "name": "NT¶¯Âş[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/NT¶¯Âş[Âş].js"
-    },
-    {
-      "key": "hipy_js_ok×ÊÔ´[×Ê]",
-      "name": "ok×ÊÔ´[×Ê](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/ok×ÊÔ´[×Ê].js"
-    },
-    {
-      "key": "hipy_js_OmoFun[Âş]",
-      "name": "OmoFun[Âş](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/OmoFun[Âş].js"
-    },
-    {
-      "key": "PanSearch",
-      "name": "PanSearch|ÍøÅÌËÑË÷",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./json/tokenm.json"
-    },
-    {
-      "key": "PikPakShare",
-      "name": "PikPak·ÖÏí",
-      "type": 3,
-      "api": "csp_PikPakShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/pikpakclass.json$$$./json/pikpakclass.json.txt.gz"
-    },
-    {
-      "key": "hipy_js_Pornhub[ÃÜ]",
-      "name": "Pornhub[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/Pornhub[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_PTT[ÓÅ]",
-      "name": "PTT[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/PTT[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_PTT×·¾ç´óÊ¦",
-      "name": "PTT×·¾ç´óÊ¦(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/PTT×·¾ç´óÊ¦.js"
-    },
-    {
-      "key": "hipy_js_R18ß£[ÃÜ]",
-      "name": "R18ß£[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/R18ß£[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_rarbt(È«)[ÓÅ]",
-      "name": "rarbt(È«)[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/rarbt(È«)[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_rarbt[ÓÅ]",
-      "name": "rarbt[ÓÅ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/rarbt[ÓÅ].js"
-    },
-    {
-      "key": "hipy_js_RJAV[ÃÜ]",
-      "name": "RJAV[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/RJAV[ÃÜ].js"
-    },
-    {
-      "key": "SambaShare",
-      "name": "Samba·ÖÏí",
-      "type": 3,
-      "api": "csp_SambaShare",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0,
-      "ext": "./json/tokenm.json$$$./json/sambashare.txt"
-    },
-    {
-      "key": "hipy_js_scriptÖ±²¥[·É]",
-      "name": "scriptÖ±²¥[·É](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/scriptÖ±²¥[·É].js"
-    },
-    {
-      "key": "hipy_js_TVBÔÆ²¥",
-      "name": "TVBÔÆ²¥(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/TVBÔÆ²¥.js"
-    },
-    {
-      "key": "hipy_js_UAA[ÃÜ]",
-      "name": "UAA[ÃÜ](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/UAA[ÃÜ].js"
-    },
-    {
-      "key": "hipy_js_UAA[Ìı]",
-      "name": "UAA[Ìı](drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/UAA[Ìı].js"
-    },
-    {
-      "key": "hipy_js_voflix",
-      "name": "voflix(drpy_t3)",
-      "type": 3,
-      "api": "./drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "./drpy_js/voflix.js"
-    }
-  ],
-  "lives": [
-    {
-      "group": "redirect",
-      "channels": [
-        {
-          "name": "ÎÈ¶¨githubÖ±²¥",
-          "urls": [
-            "proxy://do=live&type=txt&ext=https://ghproxy.net/https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt"
-          ]
-        },
-        {
-          "name": "»ªÊı2",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/»ªÊı2.m3u"
-          ]
-        },
-        {
-          "name": "º¼Öİ»ªÊı",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/º¼Öİ»ªÊı.m3u"
-          ]
-        },
-        {
-          "name": "ÔÆĞÇÈÕ¼ÇÖ±²¥",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://itvbox.cc/ÔÆĞÇÈÕ¼Ç/Ipv4.txt"
-          ]
-        },
-        {
-          "name": "±¾µØĞáÌ½Æ÷Ö±²¥",
-          "urls": [
-            "proxy://do=live&type=txt&ext=http://127.0.0.1:5708/ysp"
-          ]
-        }
-      ]
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/MeowTV/token.txt+4k|auto|fhd"
     }
   ],
   "parses": [
     {
-      "name": "777",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
+      "name": "Websèšåˆ",
+      "type": 3,
+      "url": "Web"
     },
     {
-      "name": "8090g",
-      "type": 0,
-      "url": "https://www.8090g.cn/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
+      "name": "Jsonèšåˆ",
+      "type": 3,
+      "url": "Demo"
     },
     {
-      "name": "ik9",
+      "name": "MeowTV1",
       "type": 0,
-      "url": "https://yparse.ik9.cc/index.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
+      "url": "https://bd.jx.cn/?url="
     },
     {
-      "name": "½ÜÉ­",
+      "name": "MeowTV2",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
+      "url": "https://jx.m3u8.tv/jiexi/?url="
     },
     {
-      "name": "ÑôÍ¾",
+      "name": "MeowTV3",
       "type": 0,
-      "url": "https://jx.yangtu.top/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "±ù¶¹",
-      "type": 0,
-      "url": "https://bd.jx.cn/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "m3u8TV",
-      "type": 0,
-      "url": "https://jx.m3u8.tv/jiexi/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "ÌıÀÖ",
-      "type": 0,
-      "url": "https://jx.dj6u.com/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "ÏºÃ×",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "ÏºÃ×2",
-      "type": 0,
-      "url": "https://jx.xmflv.cc/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "ÔÆÎö",
-      "type": 0,
-      "url": "https://jx.yparse.com/index.php?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
-    },
-    {
-      "name": "ºìºü",
-      "type": 0,
-      "url": "https://player.mrgaocloud.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qiyi",
-          "imgo",
-          "°®ÆæÒÕ",
-          "ÆæÒÕ",
-          "qq",
-          "qq Ô¤¸æ¼°»¨Ğõ",
-          "ÌÚÑ¶",
-          "youku",
-          "ÓÅ¿á",
-          "pptv",
-          "PPTV",
-          "letv",
-          "ÀÖÊÓ",
-          "leshi",
-          "mgtv",
-          "Ã¢¹û",
-          "sohu",
-          "xigua",
-          "fun",
-          "·çĞĞ"
-        ]
-      }
+      "url": "https://player.mrgaocloud.com/player/?url="
     }
   ],
-  "flags": [
-    "imgo",
-    "youku",
-    "qq",
-    "qq Ô¤¸æ¼°»¨Ğõ",
-    "iqiyi",
-    "qiyi",
-    "fun",
-    "letv",
-    "leshi",
-    "sohu",
-    "tudou",
-    "xigua",
-    "cntv",
-    "1905",
-    "pptv",
-    "mgtv",
-    "wasu",
-    "bilibili",
-    "renrenmi"
+  "lives": [
+    {
+      "name": "ç›´æ’­",
+      "type": 0,
+      "playerType": 1,
+      "url": "http://meowtv.top/zb",
+      "ua": "okhttp/3.15",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
   ],
-  "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-  "spider": "./jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+  "spider": "http://m1839732.cf.caoni.ru/1/meow.php;md5;A413D6A6A5378A02256F703CB6C530AB",
+  "wallpaper": "http://tool.teyonds.com/api",
+  "doh": [
+    {
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
+      "ips": [
+        "8.8.4.4",
+        "8.8.8.8"
+      ]
+    },
+    {
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
+      "ips": [
+        "1.1.1.1",
+        "1.0.0.1",
+        "2606:4700:4700::1111",
+        "2606:4700:4700::1001"
+      ]
+    },
+    {
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
+      "ips": [
+        "94.140.14.140",
+        "94.140.14.141"
+      ]
+    },
+    {
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
+      "ips": [
+        "84.200.69.80",
+        "84.200.70.40"
+      ]
+    },
+    {
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
+      "ips": [
+        "9.9.9.9",
+        "149.112.112.112"
+      ]
+    }
+  ],
+  "rules": [
+    {
+      "name": "kk",
+      "hosts": [
+        "kuaikan"
+      ],
+      "regex": [
+        "5",
+        "20.123",
+        "20.167",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "yq",
+      "hosts": [
+        "yqk"
+      ],
+      "regex": [
+        "18.4",
+        "15.1666",
+        "#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"
+      ]
+    },
+    {
+      "name": "sn",
+      "hosts": [
+        "suonizy"
+      ],
+      "regex": [
+        "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+",
+        "15.1666",
+        "15.2666",
+        "16.3333",
+        "15.266667"
+      ]
+    },
+    {
+      "name": "bf",
+      "hosts": [
+        "bfzy"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "xx",
+      "hosts": [
+        "aws.ulivetv.net"
+      ],
+      "regex": [
+        "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"
+      ]
+    },
+    {
+      "name": "lz",
+      "hosts": [
+        "vip.lz",
+        "hd.lz",
+        "v.cdnlz",
+        "yzzy1.play"
+      ],
+      "regex": [
+        "18.5333",
+        "19.52",
+        "18.6666"
+      ]
+    },
+    {
+      "name": "ff",
+      "hosts": [
+        "vip.ffzy",
+        "hd.ffzy",
+        "ffzy"
+      ],
+      "regex": [
+        "25.0666",
+        "25.08",
+        "20.52",
+        "25.1",
+        "25.1999"
+      ]
+    },
+    {
+      "name": "hs",
+      "hosts": [
+        "huoshan.com"
+      ],
+      "regex": [
+        "item_id="
+      ]
+    },
+    {
+      "name": "dy",
+      "hosts": [
+        "douyin.com"
+      ],
+      "regex": [
+        "is_play_url="
+      ]
+    },
+    {
+      "name": "nm",
+      "hosts": [
+        "toutiaovod.com"
+      ],
+      "regex": [
+        "video/tos/cn"
+      ]
+    },
+    {
+      "name": "cl",
+      "hosts": [
+        "magnet"
+      ],
+      "regex": [
+        "æœ€æ–°",
+        "ç›´æ’­",
+        "æ›´æ–°"
+      ]
+    }
+  ]
 }
