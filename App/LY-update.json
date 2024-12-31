@@ -2,10 +2,10 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 240612,
-  "VersionName": "20240612-1920",						//版本的展示名称
-  "UploadTime": "2024-06-12 19:20:00",
-  "ModifyContent": "1、修改片尾显示和跳过逻辑 (#143)\r\n2、allow url containing commas (#144)\r\n",
+  "VersionCode": 241007,
+  "VersionName": "20241007-2359",						//版本的展示名称
+  "UploadTime": "2024-10-07 23:59:00",
+  "ModifyContent": "界面微调\r\n1、页面圆角R值统一\r\n2、搜索页面动态设置宽度，防止图片超出背景",
   "DownloadUrl": "https://ghproxy.liuzhicong.com/https://github.com/chengxue2020-org/takagen99-Lyu/releases/download/20240613-2354/TVBox_Lyu_20240613-2354_Release.apk",
   "ApkSize": 24382,
   "ApkMd5": "AB44F92098F202FA64808E311E8115EE"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
