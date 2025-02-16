@@ -1,4 +1,20 @@
 //收集于网络，免费分享，仅供测试交流，禁止内置售卖！
+{ "urls": [{ "url": "http://www.饭太硬.com/tv", "name": "饭太硬" },
+{ "url": "http://www.饭太硬.net/tv", "name": "饭太硬（备用）" },
+{ "url": "https://mpanso.me/DEMO.json", "name": "小米" },
+{ "url": "http://肥猫.com", "name": "肥猫" },
+{ "url": "http://tvbox.王二小放牛娃.top", "name": "王二小" },
+{ "url": "http://我不是.摸鱼儿.com", "name": "摸鱼儿" },
+{ "url": "https://o.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=o", "name": "欧歌" },
+{ "url": "https://7337.kstore.space/twvip/自用测试.json", "name": "天微" },
+{ "url": "http://rihou.cc:55/天天开心", "name": "天天开心" },
+{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", "name": "南风" },
+{ "url": "https://gh-proxy.com/https://raw.githubusercontent.com/xyq254245/xyqonlinerule/main/XYQTVBox.json", "name": "香雅情" },
+{ "url": "http://box.ufuzi.com/tv/qq/短剧频道/api.json", "name": "短剧频道" },
+{ "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer", "name": "少儿频道" }]}
+
+
+
 {"storeHouse": [
 {"sourceName":"匿名单仓","sourceUrl":"https://12586.kstore.space/123.txt"},
 {"sourceName":"天微单仓","sourceUrl":"https://qixing.myhkw.com/DC.txt"},
@@ -12,3 +28,12 @@
 {"sourceName":"💛多多公众仓🍭完全免费🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多APP.txt"},
 {"sourceName":"❤️多多聚合仓🍭严禁贩卖🍭","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号应用边界.txt"},
 {"sourceName":"📚️多多本地仓🍭不做韭菜🍭","sourceUrl":"clan://localhost/tvbox/duo.json"}
+
+
+
+
+
+
+
+
+
