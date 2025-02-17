@@ -2,11 +2,11 @@
   "Code": 0,				//0代表请求成功，非0代表失败
   "Msg": "更新出错，请到官方主页重新下载程序",			//请求出错的信息
   "UpdateStatus": 1,		//0代表不更新，1代表有版本更新，不需要强制升级，2代表有版本更新，需要强制升级
-  "VersionCode": 241007,
-  "VersionName": "20241007-2359",						//版本的展示名称
-  "UploadTime": "2024-10-07 23:59:00",
-  "ModifyContent": "界面微调\r\n1、页面圆角R值统一\r\n2、搜索页面动态设置宽度，防止图片超出背景",
-  "DownloadUrl": "https://ghgo.xyz/github.com/chengxue2020/takagen99/releases/download/20241007-2359/TVBox_chengxue2020_20241007-2359-arm64-generic.apk",  //https://ghgo.xyz/或https://gh-proxy.com/
+  "VersionCode": 250217,
+  "VersionName": "250217-1618",						//版本的展示名称
+  "UploadTime": "2025-02-17 17:18:00",
+  "ModifyContent": "修复type1和type0的源配置了playUrl:json不走解析\r\n",
+  "DownloadUrl": "https://github.com/chengxue2020/takagen99/releases/download/20250217-2013/TVBox_chengxue2020_20250217-2013-arm64-generic.apk",  //https://ghgo.xyz/或https://gh-proxy.com/
   "ApkSize": 28945,
-  "ApkMd5": "4FB59212A760E3F9FFAA585DF0C07994"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
+  "ApkMd5": "7A17DE68ABAFC34060741320F5B05D76"			//MD5值没有的话，就无法保证apk是否完整，每次都会重新下载。
 }
