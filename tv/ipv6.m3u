@@ -554,7 +554,7 @@ http://php.jdshipin.com:8880/smt.php?id=jade_twn
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 1080P
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台 4K
-https://stream1.freetv.fun/fei-cui-8.m3u8
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-id="TVB翡翠台" tvg-name="翡翠台" tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png" group-title="港澳台频道",TVB翡翠台（备用）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png" group-title="港澳台频道",TVB明珠台
@@ -563,8 +563,6 @@ http://php.jdshipin.com/TVOD/iptv.php?id=mzt
 https://stream1.freetv.fun/fei-cui-tai-bei-mei-ban-1.ctv
 #EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="港澳台频道",TVB Plus
 https://stream1.freetv.fun/tvb-j2-2.ctv
-#EXTINF:-1 tvg-id="TVBPlus" tvg-name="TVBPlus" tvg-logo="https://isus.cc/share/logo/TVBPlus.png" group-title="港澳台频道",TVB Plus（备用）
-https://stream1.freetv.fun/tvb-plus-9.m3u8
 #EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" tvg-logo="https://live.fanmingming.cn/tv/星空卫视.png" group-title="港澳台频道",星空卫视
 http://wouu.net:9977/udp/239.93.0.156:2193
 #EXTINF:-1 tvg-id="星光影视" tvg-name="星光影视" tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/tvlog/星光综合台.png" group-title="港澳台频道",星光影视
@@ -1112,12 +1110,12 @@ http://[2409:8087:5e00:24::2d]:6610/000000001000/1/3000000020000011522/index.m3u
 
 #电影频道
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",欧美大片
-http://tc-tct.douyucdn2.cn/dyliveflv1a/2793084rIbiQ5ENq_2000.xs?wsAuth=e4f61a80fbd39502e58524bfc7bee217&token=web-h5-0-2793084-3f569b7e953394a7cfee075c2c4417db51e642dcbf319d4b&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
+http://1.94.31.214:35455/douyu/2793084
+#http://tc-tct.douyucdn2.cn/dyliveflv1a/2793084rIbiQ5ENq_2000.xs?wsAuth=e4f61a80fbd39502e58524bfc7bee217&token=web-h5-0-2793084-3f569b7e953394a7cfee075c2c4417db51e642dcbf319d4b&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",漫威影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/6140589rgrFgOuC2_2000.xs?wsAuth=e37467c9c16f3ed51fd05e9f353262fb&token=web-h5-0-6140589-8c9f814ba60c86af38ec889149e3cc8dde209f36624645fd&logo=0&expire=0&did=d1bae13724faf6e93becdd6000021601&origin=tct
+http://1.94.31.214:35455/douyu/1713615
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",邵氏影院
-http://tc-tct.douyucdn2.cn/dyliveflv1a/4246519rQqvCVqbw_4000.xs?wsAuth=ce75f6cd957b292b7be9ebd25530dee9&token=web-h5-0-4246519-126295b0785b4fb54b77a0f6e5d0d2962fd9dac31912c9da&logo=0&expire=0&did=24482b48b98804f2b0a5b17400041701
-#http://huanqiuzhibo.cn/manifest/douyu.php?id=4246519
+http://1.94.31.214:35455/douyu/4246519
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",神乐欧美影院
 http://tc-tct.douyucdn2.cn/dyliveflv1a/20415rnWbjg6Ex1K_2000.flv?wsAuth=3b64dd17d293b133c58bda21e3147e5b&token=cpn-androidmpro-0-20415-b6774b3b3249db1768f0ac048c5ed218ac54e1f82b04b2bf&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
 #EXTINF:-1 tvg-logo="https://gh.tryxd.cn/raw.githubusercontent.com/suxuang/myIPTV/main/img/电影.png" group-title="电影频道",神乐华语影院
