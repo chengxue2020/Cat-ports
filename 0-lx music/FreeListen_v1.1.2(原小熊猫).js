@@ -1,20 +1,20 @@
 /*!
- * @name 小熊猫
- * @description 小熊猫音源，如果失效请在公众号【大学资源社】中反馈
- * @version v1.1.1
+ * @name Free listen
+ * @description A lx-music source
+ * @version v1.1.2
  * @wy_token null
  * @wy_token_desc 如果你有网易音乐的会员，可启用vip歌曲、更高音质的支持，将上面 @wy_token null 中的 null 改为你的token即可，token获取方式看常见问题歌单导入
  * @wy_token_desc 需要注意的是，自定义 token 存在导致账号被封禁的风险，token是账号的临时秘钥，注意不要随意分享
  */
 /******/ (() => { // webpackBootstrap
-/******/    "use strict";
+/******/ 	"use strict";
 var __webpack_exports__ = {};
- 
+
 ;// CONCATENATED MODULE: ./src/lx.js
 const { EVENT_NAMES: lx_EVENT_NAMES, on, send: lx_send, request, utils: lxUtils, version, currentScriptInfo } = globalThis.lx
 // console.log(globalThis.lx)
- 
- 
+
+
 // https://github.com/lyswhut/lx-music-desktop/blob/master/FAQ.md#windowlxutils
 const utils = {
   buffer: {
@@ -28,28 +28,28 @@ const utils = {
     rsaEncrypt: lxUtils.crypto.rsaEncrypt,
   },
 }
- 
+
 const currentScript = currentScriptInfo
   ? currentScriptInfo.rawScript
   : document.getElementsByTagName('script')[0].innerText
- 
- 
- 
+
+
+
 ;// CONCATENATED MODULE: ./src/apis/kw.js
- 
- 
+
+
 const qualitys = {
   '128k': '128kmp3',
   '320k': '320kmp3',
   // ape: 'ape',
   // flac: 'flac',
 }
- 
- 
+
+
 let token = ''
 let cookie = ''
 let key = ''
- 
+
 function encrypt(str, pwd) {
   if (pwd == null || pwd.length <= 0) {
     console.log('Please enter a password with which to encrypt the message.')
@@ -107,30 +107,45 @@ const getToken = () => new Promise((resolve, reject) => {
       'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0',
       Referer: 'http://www.kuwo.cn/',
     },
-  }, function(error, response) {
+  }, async function(error, response) {
     if (error) return reject(new Error('failed'))
     const token = parseCookieToken(response.headers['set-cookie'])
     if (!token) return reject(new Error('Invalid cookie'))
-    const result = response.body.match(/app\.\w+\.js/)
+    const result = response.body.match(/https?:\/\/[/.\w]+\/kw-www\/\w+\.js/g)
     if (result) {
-      request(`https://h5static.kuwo.cn/www/kw-www/${result[0]}`, {
-        headers: {
-          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0',
-          Referer: 'http://www.kuwo.cn/',
-        },
-      }, function(error, response) {
-        if (error) return resolve(createToken(token, defaultKey))
-        const result = response.body.match(/Hm_Iuvt_(\w+)/)
-        if (result) {
-          resolve(createToken(token, result[0]))
-        } else resolve(createToken(token, defaultKey))
+      const getAppToken = (url) => new Promise((resolve) => {
+        request(url, {
+          headers: {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:82.0) Gecko/20100101 Firefox/82.0',
+            Referer: 'http://www.kuwo.cn/',
+          },
+        }, function(error, response) {
+          if (error) return resolve('')
+          const result = response.body.match(/Hm_Iuvt_(\w+)/)
+          if (result) {
+            resolve(createToken(token, result[0]))
+          } else resolve('')
+        })
       })
+      const appRxp = /app\.\w+\.js/
+      const index = result.findIndex(l => appRxp.test(l))
+      if (index > -1) {
+        const token = getAppToken(result[index])
+        if (token) return resolve(token)
+        result.splice(index, 1)
+      }
+      while (result.length) {
+        const token = await getAppToken(result.pop())
+        if (token) return resolve(token)
+      }
+      resolve(createToken(token, defaultKey))
     } else {
       resolve(createToken(token, defaultKey))
     }
   })
 })
- 
+
+
 /* harmony default export */ const kw = ({
   info: {
     name: '酷我音乐',
@@ -138,18 +153,18 @@ const getToken = () => new Promise((resolve, reject) => {
     actions: ['musicUrl'],
     qualitys: ['128k', '320k'],
   },
- 
+
   async musicUrl({ songmid }, quality) {
     quality = qualitys[quality]
- 
+
     const target_url = `http://www.kuwo.cn/api/v1/www/music/playUrl?mid=${songmid}&type=music&br=${quality}`
     // const target_url = `http://www.kuwo.cn/api/v1/www/music/playUrl?mid=${songmid}&type=convert_url3&br=${quality}`
     /* const target_url = 'https://www.kuwo.cn/url?'
       + `format=mp3&rid=${song_id}&response=url&type=convert_url3&br=128kmp3&from=web`;
     https://m.kuwo.cn/newh5app/api/mobile/v1/music/src/${song_id} */
- 
+
     if (!token) token = await getToken()
- 
+
     return new Promise((resolve, reject) => {
       // console.log(songmid, quality)
       request(target_url, {
@@ -164,23 +179,23 @@ const getToken = () => new Promise((resolve, reject) => {
         console.log(resp.body)
         if (err) return reject(err)
         if (resp.body.code != 200) return reject(new Error('failed'))
- 
+
         resolve(resp.body.data.url)
       })
     })
   },
 });
- 
+
 ;// CONCATENATED MODULE: ./src/apis/kg.js
- 
- 
+
+
 // const qualitys = {
 //   '128k': 'PQ',
 //   '320k': 'HQ',
 //   flac: 'SQ',
 //   flac32bit: 'ZQ',
 // }
- 
+
 // https://github.com/listen1/listen1_chrome_extension/blob/master/js/provider/kugou.js
 /* harmony default export */ const kg = ({
   info: {
@@ -189,7 +204,7 @@ const getToken = () => new Promise((resolve, reject) => {
     actions: ['musicUrl'],
     qualitys: ['128k'],
   },
- 
+
   musicUrl({ hash, albumId }, quality) {
     // quality = qualitys[quality]
     let target_url = `https://wwwapi.kugou.com/yy/index.php?r=play/getdata&hash=${hash}&platid=4&album_id=${albumId}&mid=00000000000000000000000000000000`
@@ -201,19 +216,19 @@ const getToken = () => new Promise((resolve, reject) => {
         console.log(resp.body)
         if (err) return reject(err)
         const data = resp.body
- 
+
         if (data.status !== 1) return reject(new Error(data.err_code))
         if (data.data.privilege > 9) return reject(new Error('failed'))
- 
+
         resolve(resp.body.data.play_backup_url)
       })
     })
   },
 });
- 
+
 ;// CONCATENATED MODULE: ./src/apis/tx.js
- 
- 
+
+
 const fileConfig = {
   '128k': {
     s: 'M500',
@@ -231,7 +246,7 @@ const fileConfig = {
     bitrate: 'FLAC',
   },
 }
- 
+
 // https://github.com/listen1/listen1_chrome_extension/blob/master/js/provider/qq.js
 /* harmony default export */ const tx = ({
   info: {
@@ -240,19 +255,19 @@ const fileConfig = {
     actions: ['musicUrl'],
     qualitys: ['128k'],
   },
- 
+
   musicUrl({ songmid, strMediaMid }, quality) {
     const target_url = 'https://u.y.qq.com/cgi-bin/musicu.fcg'
     // thanks to https://github.com/Rain120/qq-music-api/blob/2b9cb811934888a532545fbd0bf4e4ab2aea5dbe/routers/context/getMusicPlay.js
     const guid = '10000'
     const songmidList = [songmid]
     const uin = '0'
- 
+
     const fileInfo = fileConfig[quality]
     const file = `${fileInfo.s}${strMediaMid}${fileInfo.e}`
       /* songmidList.length === 1 &&
-      `${fileInfo.s}${songmid}${songmid}${fileInfo.e}`*/
- 
+      `${fileInfo.s}${songmid}${songmid}${fileInfo.e}`*/ 
+
     const reqData = {
       req_0: {
         module: 'vkey.GetVkeyServer',
@@ -288,22 +303,22 @@ const fileConfig = {
         if (err) return reject(err)
         const data = resp.body
         const { purl } = data.req_0.data.midurlinfo[0]
- 
+
         // vip
         if (purl === '') return reject(new Error('failed'))
- 
+
         const url = data.req_0.data.sip[0] + purl
- 
+
         resolve(url)
       })
     })
   },
 });
- 
+
 ;// CONCATENATED MODULE: ./src/utils.js
- 
- 
- 
+
+
+
 const buf2hex = buffer => { // buffer is an ArrayBuffer
   return version
     ? utils.buffer.bufToString(buffer, 'hex')
@@ -311,24 +326,24 @@ const buf2hex = buffer => { // buffer is an ArrayBuffer
         .map(x => x.toString(16).padStart(2, '0'))
         .join('')
 }
- 
+
 const aesEncrypt = (data, eapiKey, iv, mode) => {
   if (!version) {
     mode = mode.split('-').pop()
   }
   return utils.crypto.aesEncrypt(data, mode, eapiKey, iv)
 }
- 
+
 const md5 = str => utils.crypto.md5(str)
- 
- 
+
+
 const showUpdateAlert = () => {
   send(EVENT_NAMES.updateAlert, {
     log: 'hello world',
     updateUrl: 'https://xxx.com',
   })
 }
- 
+
 // https://stackoverflow.com/a/53387532
 const compareVersions = ((prep, l, i, r) => (a, b) => {
   a = prep(a)
@@ -338,7 +353,7 @@ const compareVersions = ((prep, l, i, r) => (a, b) => {
   r = i
   // convert into integer, uncluding undefined values
   while (!r && i < l) r = ~~a[i] - ~~b[i++]
- 
+
   return r < 0 ? -1 : (r ? 1 : 0)
 })(t => ('' + t)
 // treat non-numerical characters as lower version
@@ -348,11 +363,11 @@ const compareVersions = ((prep, l, i, r) => (a, b) => {
   .replace(/(?:\.0+)*(\.-\d+(?:\.\d+)?)\.*$/g, '$1')
 // return array
   .split('.'))
- 
+
 ;// CONCATENATED MODULE: ./src/apis/wy.js
- 
- 
- 
+
+
+
 const parse = (str) => {
   let comment = /^\/\*(?:.|\n)+?\*\//.exec(str)?.[0]
   if (!comment) return ''
@@ -360,7 +375,7 @@ const parse = (str) => {
   return (!token || token == 'null') ? '' : token
 }
 const wy_token = parse(currentScript)
- 
+
 const wy_qualitys = {
   '128k': 128000,
   '320k': 320000,
@@ -368,7 +383,7 @@ const wy_qualitys = {
 }
 const eapi = (url, object) => {
   const eapiKey = 'e82ckenh8dichen8'
- 
+
   const text = typeof object === 'object' ? JSON.stringify(object) : object
   const message = `nobody${url}use${text}md5forencrypt`
   const digest = md5(message)
@@ -377,10 +392,10 @@ const eapi = (url, object) => {
     params: buf2hex(aesEncrypt(data, eapiKey, '', 'aes-128-ecb')).toUpperCase(),
   }
 }
- 
+
 let wy_cookie = 'os=pc'
 if (wy_token) wy_cookie = `MUSIC_U=${wy_token}; ` + wy_cookie
- 
+
 // https://github.com/listen1/listen1_chrome_extension/blob/master/js/provider/netease.js
 /* harmony default export */ const wy = ({
   info: {
@@ -389,18 +404,18 @@ if (wy_token) wy_cookie = `MUSIC_U=${wy_token}; ` + wy_cookie
     actions: ['musicUrl'],
     qualitys: wy_token ? ['128k', '320k', 'flac'] : ['128k'],
   },
- 
+
   musicUrl({ songmid }, quality) {
     quality = wy_qualitys[quality]
     const target_url = 'https://interface3.music.163.com/eapi/song/enhance/player/url'
     const eapiUrl = '/api/song/enhance/player/url'
- 
+
     const d = {
       ids: `[${songmid}]`,
       br: quality,
     }
     const data = eapi(eapiUrl, d)
- 
+
     return new Promise((resolve, reject) => {
       console.log(songmid, quality)
       request(target_url, {
@@ -413,7 +428,7 @@ if (wy_token) wy_cookie = `MUSIC_U=${wy_token}; ` + wy_cookie
         console.log(resp.body)
         if (err) return reject(err)
         if (resp.headers.cookie) wy_cookie = resp.headers.cookie
- 
+
         let res_data = resp.body
         const { url, freeTrialInfo } = res_data.data[0]
         if (!url || freeTrialInfo) return reject(new Error('failed'))
@@ -422,17 +437,17 @@ if (wy_token) wy_cookie = `MUSIC_U=${wy_token}; ` + wy_cookie
     })
   },
 });
- 
+
 ;// CONCATENATED MODULE: ./src/apis/mg.js
- 
- 
+
+
 const mg_qualitys = {
   '128k': 'PQ',
   '320k': 'HQ',
   flac: 'SQ',
   flac24bit: 'ZQ',
 }
- 
+
 // https://github.com/listen1/listen1_chrome_extension/blob/master/js/provider/migu.js
 /* harmony default export */ const mg = ({
   info: {
@@ -441,7 +456,7 @@ const mg_qualitys = {
     actions: ['musicUrl'],
     qualitys: ['128k'],
   },
- 
+
   musicUrl({ songmid }, quality) {
     quality = mg_qualitys[quality]
     /*
@@ -506,23 +521,23 @@ const mg_qualitys = {
         if (err) return reject(err)
         let playUrl = resp.body.data?.url
         if (!playUrl) return reject(new Error('failed'))
- 
+
         if (playUrl.startsWith('//')) playUrl = `https:${playUrl}`
- 
+
         resolve(playUrl.replace(/\+/g, '%2B').split('?')[0])
       })
     })
   },
 });
- 
+
 ;// CONCATENATED MODULE: ./src/apis/index.js
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 /* harmony default export */ const apis = ({
   kw: kw,
   kg: kg,
@@ -530,21 +545,21 @@ const mg_qualitys = {
   wy: wy,
   mg: mg,
 });
- 
+
 ;// CONCATENATED MODULE: ./package.json
-const package_namespaceObject = JSON.parse('{"u2":"lx-music-source","i8":"1.1.1","v":"lyswhut"}');
+const package_namespaceObject = /*#__PURE__*/JSON.parse('{"UU":"lx-music-source","rE":"1.1.2","cy":"lyswhut"}');
 ;// CONCATENATED MODULE: ./src/update.js
- 
- 
- 
- 
+
+
+
+
 const address = [
-  `https://raw.githubusercontent.com/${package_namespaceObject.v}/${package_namespaceObject.u2}/master`,
-  `https://cdn.jsdelivr.net/gh/${package_namespaceObject.v}/${package_namespaceObject.u2}`,
-  `https://fastly.jsdelivr.net/gh/${package_namespaceObject.v}/${package_namespaceObject.u2}`,
-  `https://gcore.jsdelivr.net/gh/${package_namespaceObject.v}/${package_namespaceObject.u2}`,
+  `https://raw.githubusercontent.com/${package_namespaceObject.cy}/${package_namespaceObject.UU}/master`,
+  `https://cdn.jsdelivr.net/gh/${package_namespaceObject.cy}/${package_namespaceObject.UU}`,
+  `https://fastly.jsdelivr.net/gh/${package_namespaceObject.cy}/${package_namespaceObject.UU}`,
+  `https://gcore.jsdelivr.net/gh/${package_namespaceObject.cy}/${package_namespaceObject.UU}`,
 ]
- 
+
 const getLatestVersion = async(url, retryNum = 0) => {
   return new Promise((resolve, reject) => {
     request(url, {
@@ -561,7 +576,7 @@ const getLatestVersion = async(url, retryNum = 0) => {
     return info.version
   })
 }
- 
+
 const getVersion = async(index = 0) => {
   return getLatestVersion(address[index] + '/package.json').then(version => {
     return {
@@ -574,19 +589,19 @@ const getVersion = async(index = 0) => {
     return getVersion(index)
   })
 }
- 
+
 const checkLatestVersion = async() => {
   const remoteVersion = await getVersion()
-  return compareVersions(package_namespaceObject.i8, remoteVersion.version) < 0 ? remoteVersion : null
+  return compareVersions(package_namespaceObject.rE, remoteVersion.version) < 0 ? remoteVersion : null
 }
- 
+
 ;// CONCATENATED MODULE: ./src/index.js
- 
- 
- 
- 
+
+
+
+
 // console.log(window.lx)
- 
+
 on(lx_EVENT_NAMES.request, ({ source, action, info }) => {
   switch (action) {
     case 'musicUrl':
@@ -596,12 +611,12 @@ on(lx_EVENT_NAMES.request, ({ source, action, info }) => {
       })
   }
 })
- 
+
 const sources = {}
 for (const [source, apiInfo] of Object.entries(apis)) {
   sources[source] = apiInfo.info
 }
- 
+
 lx_send(lx_EVENT_NAMES.inited, {
   status: true,
   // openDevTools: true,
@@ -609,11 +624,11 @@ lx_send(lx_EVENT_NAMES.inited, {
   openDevTools: "production" === 'development',
   sources,
 })
- 
+
 checkLatestVersion().then((version) => {
   if (!version) return
   lx_send(lx_EVENT_NAMES.updateAlert, { log: '发现新版本 v' + version.version, updateUrl: version.url })
 })
- 
+
 /******/ })()
 ;
