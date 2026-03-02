@@ -1,0 +1,84 @@
+{
+  "storeHouse": [
+    {
+      "sourceName": "🏆影人整理仓库🏆",
+      "sourceUrl": "https://d.kstore.dev/download/15487/09.txt"
+    },
+    {
+      "sourceName": "🏆新知音精选仓库🏆",
+      "sourceUrl": "http://a.u9c.cn/5zZiiq"
+    },
+    {
+      "sourceName": "🏆优质精选仓库🏆",
+      "sourceUrl": "https://d.kstore.dev/download/15487/555.txt"
+    },
+    {
+      "sourceName": "🏆精选仓库🏆",
+      "sourceUrl": "https://d.kstore.dev/download/15487/778.txt"
+    },
+    {
+      "sourceName": "🏆无界主仓🏆",
+      "sourceUrl": "https://www.xn--rgv465a.top/fine.json"
+    },
+    {
+      "sourceName": "🏆金鹰主仓库🏆",
+      "sourceUrl": "https://gitee.com/hu-congrong/ltcw/raw/main/jyck.json"
+    },
+    {
+      "sourceName": "🏆金鹰备仓库🏆",
+      "sourceUrl": "https://gitee.com/hu-congrong/ltcw/raw/main/jpck.json"
+    },
+    {
+      "sourceName": "🏆欧歌仓库🏆",
+      "sourceUrl": "https://xn--3gg3-wn6lw489o.v.nxog.top/apia?id=2"
+    },
+    {
+      "sourceName": "🏆七星精选仓库🏆",
+      "sourceUrl": "http://qxyc.cc/自用测试"
+    },
+    {
+      "sourceName": "🏆多多仓库🏆",
+      "sourceUrl": "https://bitbucket.org/xduo/cool/raw/main/小程序多多仓库.json"
+    },
+    {
+      "sourceName": "🏆TH观影仓库🏆",
+      "sourceUrl": "http://ztha.top/TVBox/GYCK.json"
+    },
+    {
+      "sourceName": "🏆拾光仓库🏆",
+      "sourceUrl": "http://xmbjm.fh4u.org/dc.txt"
+    },
+    {
+      "sourceName": "🏆全网影视仓库🏆",
+      "sourceUrl": "https://d.kstore.dev/download/12441/dc6.json"
+    },
+    {
+      "sourceName": "🏆蜗牛仓库🏆",
+      "sourceUrl": "https://14964.kstore.space/wndc.txt"
+    },
+    {
+      "sourceName": "🏆宝盒仓库🏆",
+      "sourceUrl": "https://bitbucket.org/guot55/bhmb/raw/main/TVBoxOSC/BHLX"
+    },
+    {
+      "sourceName": "🏆精选仓库🏆",
+      "sourceUrl": "https://gitee.com/qlysgzs/qlys/raw/master/qlycJXDC.json"
+    },
+    {
+      "sourceName": "🏆新蚂蚁①仓🏆",
+      "sourceUrl": "https://cloud.7so.top/f/L8yqsQ/%E8%9A%82%E8%9A%811%E4%BB%93.txt"
+    },
+    {
+      "sourceName": "🏆新蚂蚁②仓🏆",
+      "sourceUrl": "https://cloud.7so.top/f/N9A4Fj/%E8%9A%82%E8%9A%812%E4%BB%93.txt"
+    },
+    {
+      "sourceName": "🏆仰望星空主仓🏆",
+      "sourceUrl": "https://gitee.com/wei-shang-xiang-restaurant_0/lib/raw/master/%5B%E6%98%9F%E7%A9%BA%E8%B5%84%E6%96%99%5D"
+    },
+    {
+      "sourceName": "🏆仰望星空备用仓🏆",
+      "sourceUrl": "https://gitee.com/wei-shang-xiang-restaurant_0/json/raw/master/%5B%E6%98%9F%E7%A9%BA%E8%B5%84%E6%96%99%5D.txt"
+    }
+  ]
+}
