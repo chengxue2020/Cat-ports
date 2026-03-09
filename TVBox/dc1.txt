@@ -1,0 +1,34 @@
+{
+  "storeHouse": 
+  [
+      {
+           "sourceName": "🏆🏆",
+           "sourceUrl": "https://raw.githubusercontent.com/gsdlj/TVBox/main/2.txt"
+      },
+      {
+           "sourceName": "🏆应用多多（优选仓）🏆",
+           "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/a.txt"
+      },{
+           "sourceName": "🏆应用多多（公共仓）🏆",
+           "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/b.txt"
+      },{
+           "sourceName": "🏆应用多多（聚合仓）🏆",
+           "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/c.txt"
+      },{
+           "sourceName": "🏆应用多多（预备仓）🏆",
+           "sourceUrl": "https://jihulab.com/duomv/apps/-/raw/main/d.txt"
+      },
+      {
+           "sourceName": "🏆欧歌（多仓版）🏆",
+           "sourceUrl": "http://tv.nxog.top/api.php?mz=xb&id=1&b=欧歌"
+      },
+      {
+           "sourceName": "🏆云星日记（多仓版）🏆",
+           "sourceUrl": "http://jk.itvbox.cc:66/可视TV/云星日记/仓库/api.json"
+      },
+      {
+           "sourceName": "🏆吾爱（多仓版）🏆",
+           "sourceUrl": "http://52bsj.vip:81/api/v3/file/get/67776/1.json?sign=Suz6jqs5w4g4FFTohPyWDC82QQdpOkbs8UN4OR9QJsI%3D%3A0"
+      }
+  ]
+}
