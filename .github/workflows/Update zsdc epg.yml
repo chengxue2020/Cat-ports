@@ -1,4 +1,4 @@
-name: 更新 zsdc.epg.gz
+name: 更新heiptv.xml 
 
 on:
   schedule:
@@ -18,7 +18,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: 更新 ipv6.m3u
+      - name: 更新heiptv.xml 
         run: |
           curl https://epg.mb6.top/heiptv.xml > ./EPG/heiptv.xml 
           # 更新时间
