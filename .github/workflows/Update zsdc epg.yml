@@ -20,14 +20,14 @@ jobs:
 
       - name: 更新 ipv6.m3u
         run: |
-          curl https://epg.zsdc.eu.org/t.xml.gz > ./EPG/zsdc.epg.gz
+          curl https://epg.mb6.top/heiptv.xml > ./EPG/heiptv.xml 
           # 更新时间
-          sed -i "/tv.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./EPG/zsdc.epg.gz
+          sed -i "/tv.txt/c\\// update time: $(date -u -d '+8 hour' '+%Y.%m.%d %H:%M:%S')" ./EPG/heiptv.xml 
 
       - name: Commit And Push
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git add --all
-          git commit -m "更新 zsdc.epg.gz"
+          git commit -m "更新 heiptv.xml "
           git push origin main
