@@ -8,17 +8,21 @@
       "name": "🛣俊佬线路(B)",
       "url": "http://home.jundie.top:81/TVBox/yosakoi.json"
     },
-    {
-      "name": "💙饭太硬💙",
+    	{
+		"name": "🚀饭太硬-推荐",
+        "url": "http://www.饭太硬.com/tv/"
+    },
+	{
+      "name": "💙饭太硬💙-备1",
       "url": "http://fty.xxooo.cf/tv"
     },
     {
-      "name": "饭太硬备一",
+      "name": "饭太硬-备2",
       "url": "http://fty.888484.xyz/tv"
     },
-	{
-		"name": "🚀2-饭太硬推荐",
-        "url": "http://www.饭太硬.com/tv/"
+    {
+      "name": "肥猫",
+      "url": "http://肥猫.com/iaoya.json"
     },
     {
       "name": "🐂王二小放牛娃",
@@ -37,12 +41,20 @@
       "url": "https://9280.kstore.vip/newwex.json"
     },
     {
+      "name": "搞笑者",
+      "url": "http://www.gcz5.cn/tv/tvbox.json"
+    },
+    {
       "name": "小虎斑",
       "url": "http://hb.小虎斑.site:25252/仅供测试"
     },
     {
       "name": "🐟摸鱼儿",
       "url": "http://我不是.摸鱼儿.top"
+    },
+    {
+      "name": "CCTV8-Config",
+      "url": "https://raw.cctv88.cn/tvboxconfig.json"
     },
     {
       "name": "💙宝盒VIP💙",
@@ -798,7 +810,7 @@
     },
 	    {
       "name": "🐼经典叶子🐼",
-      "url": "https://chengxue2020.github.io/Cat-ports/TVBox/DC.json"
+      "url": "https://chengxue2020.github.io/Cat-ports/18/XXX1.json"
     },
     {
       "name": "🐼宝盒VIP🐼",
