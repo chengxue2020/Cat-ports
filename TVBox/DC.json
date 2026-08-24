@@ -37,8 +37,8 @@
       "url": "https://www.iyouhun.com/tv/wex"
     },
     {
-		"name": "🚀饭太硬-推荐",
-        "url": "http://www.饭太硬.com/tv/"
+      "name": "🚀饭太硬-推荐",
+      "url": "http://www.饭太硬.com/tv/"
     },
 	{
       "name": "饭太硬-备1",
@@ -261,8 +261,8 @@
       "url": "https://龙伊.top"
     },
 	{
-		"url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/feimao/jk/raw/T4.json",
-		"name": "💎feimao-T4"
+      "url":"https://cdn09022024.gitlink.org.cn/api/v1/repos/feimao/jk/raw/T4.json",
+      "name": "💎feimao-T4"
 	},
 	{
       "name": "🚀香雅情线路",
@@ -505,8 +505,8 @@
       "url": "https://bitbucket.org/xduo/duoapi/raw/master/xpg.json"
     },
 	{
-		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", 
-		"name": "🚀香雅情线"
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/gaotianliuyun/gao/master/XYQ.json", 
+      "name": "🚀香雅情线"
 	},
     {
       "name": "B站纽特帅",
@@ -761,8 +761,8 @@
       "url": "https://ghfast.top/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
 	{
-		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json", 
-		"name": "南风"
+      "name": "南风",
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
 	},
     {
       "name": "🚀南风线路",
@@ -773,8 +773,8 @@
       "url": "http://gitlab.com/noimank/tvbox/-/raw/main/tvbox1.json"
     },
     {
-		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json", 
-		"name": "💎胜寒" 
+		"name": "💎胜寒",
+		"url": "https://gh-proxy.com/https://raw.githubusercontent.com/hanhan8127/TVBox/main/hanXC.json"
 	},
     {
       "name": "公众号:【橘子柚影视】",
@@ -928,7 +928,7 @@
       "name": "🐼经典叶子🐼",
       "url": "https://jihulab.com/magicbox/boxapi/-/raw/main/fenghe.json"
     },
-	    {
+	{
       "name": "🐼经典叶子🐼",
       "url": "https://chengxue2020.github.io/Cat-ports/18/XXX1.json"
     }
