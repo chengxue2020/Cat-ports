@@ -8,8 +8,8 @@
       "category": "直播",
       "version": "1.2.0",
       "size": "18.6 MB",
-      "icon": "http://192.168.1.10:8000/icon/live.png",
-      "url": "http://192.168.1.10:8000/apk/live-1.2.0.apk",
+      "icon": "icons/live.png",
+      "url": "apk/live-1.2.0.apk",
       "desc": "聚合央视与卫视频道，支持回看"
     },
     {
@@ -18,7 +18,8 @@
       "category": "直播",
       "version": "2.0.1",
       "size": "21.3 MB",
-      "url": "http://192.168.1.10:8000/apk/sports-2.0.1.apk",
+      "icon": "icons/sports.png",
+      "url": "apk/sports-2.0.1.apk",
       "desc": "体育赛事与电竞直播"
     },
     {
@@ -27,8 +28,8 @@
       "category": "影视",
       "version": "3.0.5",
       "size": "32.4 MB",
-      "icon": "http://192.168.1.10:8000/icon/vod.png",
-      "url": "http://192.168.1.10:8000/apk/vod-3.0.5.apk",
+      "icon": "icons/vod.png",
+      "url": "apk/vod-3.0.5.apk",
       "desc": "电影、电视剧、综艺在线点播"
     },
     {
@@ -37,8 +38,8 @@
       "category": "影视",
       "version": "2.1.3",
       "size": "24.8 MB",
-      "icon": "http://192.168.1.10:8000/icon/kids.png",
-      "url": "http://192.168.1.10:8000/apk/kids-2.1.3.apk",
+      "icon": "icons/kids.png",
+      "url": "apk/kids-2.1.3.apk",
       "desc": "儿歌、动画、益智游戏"
     },
     {
@@ -47,7 +48,8 @@
       "category": "工具",
       "version": "1.0.0",
       "size": "6.2 MB",
-      "url": "http://192.168.1.10:8000/apk/filemanager-1.0.0.apk",
+      "icon": "icons/filemanager.png",
+      "url": "apk/filemanager-1.0.0.apk",
       "desc": "U 盘与外接存储文件浏览"
     },
     {
@@ -56,8 +58,7 @@
       "category": "工具",
       "version": "1.10.2",
       "size": "4.8 MB",
-      "url": "http://192.168.1.10:8000/apk/cleaner-1.10.2.apk",
+      "icon": "icons/cleaner.png",
+      "url": "apk/cleaner-1.10.2.apk",
       "desc": "缓存清理与内存加速"
     }
-  ]
-}
