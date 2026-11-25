@@ -1,5 +1,8 @@
 {
   "name": "Frank 应用市场",
+  "latestver": "0.0.21",
+  "updateurl": "App/Market.apk",
+  "Forceupdate": "N",
   "updated": "2026-11-25",
   "apps": [
     {
