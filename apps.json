@@ -4,7 +4,7 @@
   "apps": [
     {
       "category": "点播",
-          "name": "影视",
+          "name": "影视-TV v8",
           "desc": "Fongmi",
       "icon": "icons/vod.png",
       "packageName": "com.fongmi.android.tv",
@@ -14,7 +14,7 @@
     },
         {
       "category": "点播",
-          "name": "影视",
+          "name": "影视-TV v7",
           "desc": "Fongmi",
       "icon": "icons/vod.png",
       "packageName": "com.fongmi.android.tv",
@@ -24,7 +24,7 @@
     },
         {
       "category": "点播",
-          "name": "影视",
+          "name": "影视-Mobile v8",
           "desc": "Fongmi",
       "icon": "icons/vod.png",
       "packageName": "com.fongmi.android.tv",
@@ -34,7 +34,7 @@
     },
         {
       "category": "点播",
-          "name": "影视",
+          "name": "影视-Mobile v7",
           "desc": "Fongmi",
       "icon": "icons/vod.png",
       "packageName": "com.fongmi.android.tv",

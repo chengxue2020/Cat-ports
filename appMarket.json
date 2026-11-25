@@ -1,66 +1,96 @@
 {
-  "name": "我的电视应用市场",
-  "updated": "2026-11-22",
+  "name": "Frank 应用市场",
+  "updated": "2026-11-25",
   "apps": [
     {
-      "name": "电视直播",
-      "packageName": "com.example.live",
-      "category": "直播",
-      "version": "1.2.0",
-      "size": "18.6 MB",
-      "icon": "icons/live.png",
-      "url": "apk/live-1.2.0.apk",
-      "desc": "聚合央视与卫视频道，支持回看"
+      "category": "点播",
+          "name": "影视-TV v8",
+          "desc": "Fongmi",
+      "icon": "icons/vod.png",
+      "packageName": "com.fongmi.android.tv",
+      "version": "5.9.0",
+      "size": "55.1 MB",
+      "url": "https://github.com/FongMi/Release/releases/download/5.9.0/leanback-arm64_v8a.apk"
+    },
+        {
+      "category": "点播",
+          "name": "影视-TV v7",
+          "desc": "Fongmi",
+      "icon": "icons/vod.png",
+      "packageName": "com.fongmi.android.tv",
+      "version": "5.9.0",
+      "size": "46.8 MB",
+      "url": "https://github.com/FongMi/Release/releases/download/5.9.0/leanback-armeabi_v7a.apk"
+    },
+        {
+      "category": "点播",
+          "name": "影视-Mobile v8",
+          "desc": "Fongmi",
+      "icon": "icons/vod.png",
+      "packageName": "com.fongmi.android.tv",
+      "version": "5.9.0",
+      "size": "55 MB",
+      "url": "https://github.com/FongMi/Release/releases/download/5.9.0/mobile-arm64_v8a.apk"
+    },
+        {
+      "category": "点播",
+          "name": "影视-Mobile v7",
+          "desc": "Fongmi",
+      "icon": "icons/vod.png",
+      "packageName": "com.fongmi.android.tv",
+      "version": "5.9.0",
+      "size": "46.7 MB",
+      "url": "https://github.com/FongMi/Release/releases/download/5.9.0/mobile-armeabi_v7a.apk"
     },
     {
-      "name": "体育直播",
-      "packageName": "com.example.sports",
       "category": "直播",
+          "name": "体育直播",
+      "desc": "体育赛事与电竞直播",
+      "packageName": "com.example.sports",
+      "icon": "icons/sports.png",
       "version": "2.0.1",
       "size": "21.3 MB",
-      "icon": "icons/sports.png",
-      "url": "apk/sports-2.0.1.apk",
-      "desc": "体育赛事与电竞直播"
+      "url": "apk/sports-2.0.1.apk"
     },
     {
-      "name": "影视点播",
-      "packageName": "com.example.vod",
       "category": "影视",
+          "name": "影视点播",
+      "desc": "电影、电视剧、综艺在线点播",
+          "packageName": "com.example.vod",
+      "icon": "icons/vod.png",
       "version": "3.0.5",
       "size": "32.4 MB",
-      "icon": "icons/vod.png",
-      "url": "apk/vod-3.0.5.apk",
-      "desc": "电影、电视剧、综艺在线点播"
+      "url": "apk/vod-3.0.5.apk"
     },
     {
-      "name": "儿童乐园",
-      "packageName": "com.example.kids",
       "category": "影视",
+          "name": "儿童乐园",
+      "desc": "儿歌、动画、益智游戏",
+          "packageName": "com.example.kids",
+      "icon": "icons/kids.png",
       "version": "2.1.3",
       "size": "24.8 MB",
-      "icon": "icons/kids.png",
-      "url": "apk/kids-2.1.3.apk",
-      "desc": "儿歌、动画、益智游戏"
+      "url": "apk/kids-2.1.3.apk"
     },
     {
-      "name": "文件管理器",
-      "packageName": "com.example.filemanager",
       "category": "工具",
+          "name": "文件管理器",
+          "desc": "U 盘与外接存储文件浏览",
+      "packageName": "com.example.filemanager",
+      "icon": "icons/filemanager.png",
       "version": "1.0.0",
       "size": "6.2 MB",
-      "icon": "icons/filemanager.png",
-      "url": "apk/filemanager-1.0.0.apk",
-      "desc": "U 盘与外接存储文件浏览"
+      "url": "apk/filemanager-1.0.0.apk"
     },
     {
-      "name": "电视清理",
-      "packageName": "com.example.cleaner",
       "category": "工具",
+          "name": "电视清理",
+          "desc": "缓存清理与内存加速",
+      "packageName": "com.example.cleaner",
+      "icon": "icons/cleaner.png",
       "version": "1.10.2",
       "size": "4.8 MB",
-      "icon": "icons/cleaner.png",
-      "url": "apk/cleaner-1.10.2.apk",
-      "desc": "缓存清理与内存加速"
+      "url": "apk/cleaner-1.10.2.apk"
     }
   ]
 }
